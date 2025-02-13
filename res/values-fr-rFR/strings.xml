@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adjust_hud">Réglage du HUD</string>
+    <string name="adjust_rear_mirror">Réglage du rétroviseur</string>
+    <string name="apa">APA (Aide au stationnement automatique)</string>
+    <string name="app_not_install">Assurez-vous que l’application Contrôle parental est installée.</string>
+    <string name="apps_all_title">"évaluer l'application"</string>
+    <string name="apps_card_cancel_start_app">Annuler</string>
+    <string name="apps_card_confirm_start_app">Confirmer pour ouvrir</string>
+    <string name="apps_card_tip_backrest_is_running">"L'écran arrière utilise cette application, qui sera interrompue si vous continuez à ouvrir"</string>
+    <string name="apps_card_title">Applications courantes</string>
+    <string name="apps_edit_at_most">"Seulement 4 applications peuvent être affichées au maximum. Veuillez d'abord les supprimer et réessayer."</string>
+    <string name="apps_edit_cancel">Annuler</string>
+    <string name="apps_edit_finish">Terminer</string>
+    <string name="apps_edit_group_custom_label">Personnalisation</string>
+    <string name="apps_edit_group_recent_label">Récemment utilisé</string>
+    <string name="apps_edit_tips">"Appuyez et maintenez enfoncé pour faire glisser la fonction vers la gauche de la carte de l'application. Lorsque vous faites glisser, vous pouvez remplacer et trier les applications existantes"</string>
+    <string name="atmosphere_light">"Lampe d'ambiance"</string>
+    <string name="auto_hold">Maintien Auto</string>
+    <string name="back_row_cinema">Mode cinéma arrière</string>
+    <string name="back_row_meeting">Mode réunion arrière</string>
+    <string name="back_row_rest">Mode de repos arrière</string>
+    <string name="business_voice_disabled">Voix professionnelle désactivée</string>
+    <string name="card_energy_chart_desc">"Changement de consommation d'énergie lors du dernier voyage"</string>
+    <string name="card_energy_mode_10">10 km</string>
+    <string name="card_energy_mode_100">100 km</string>
+    <string name="card_energy_title">"État du véhicule Consommation d'énergie"</string>
+    <string name="card_full_title">État du véhicule</string>
+    <string name="card_kwh_unit">kWh/100 km</string>
+    <string name="card_tire_title">État du véhicule Pression des pneus</string>
+    <string name="card_trip_1">Voyage 1</string>
+    <string name="card_trip_2">Voyage 2</string>
+    <string name="card_trip_title">Etat du véhicule</string>
+    <string name="central_lock">écluse centrale</string>
+    <string name="charge_charge_error_big_tips">"Défaut de charge, veuillez vérifier à l'heure!"</string>
+    <string name="charge_charging_done_tips">"La charge s'est arrêtée, n'oubliez pas de retirer la fiche de charge"</string>
+    <string name="charge_charging_full">Préférable 100%</string>
+    <string name="charge_charging_limit">Facturer à la limite</string>
+    <string name="charge_connect">Connecté</string>
+    <string name="charge_connect_tips">请耐心等待</string>
+    <string name="charge_daily">Tous les jours</string>
+    <string name="charge_default_text">--</string>
+    <string name="charge_dis_stop">"Arrêter l'alimentation électrique"</string>
+    <string name="charge_estimate">&lt;span color=#9985898C font-size=28px>Temps restant&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=56px>%1$s&lt;/span > &lt;span color=#9985898C font-size=28px>h&lt;/span > &lt;span color=#85898C font-size=56px>%2$s&lt;/span > &lt;span color=#9985898C font-size=28px>min&lt;/span ></string>
+    <string name="charge_estimate_24">&lt;span color=#9985898C font-size=28px>Temps restant&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=56px>>24&lt;/span > &lt;span color=#9985898C font-size=28px>h&lt;/span ></string>
+    <string name="charge_estimate_24_day">&lt;span color=#99383A3D font-size=28px>Temps restant&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=56px>>24&lt;/span > &lt;span color=#99383A3D font-size=28px>h&lt;/span ></string>
+    <string name="charge_estimate_day">" &lt;span color=#99383A3D font-size=28px>Temps restant&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=56px>%1$s&lt;/span > &lt;span color=#99383A3D font-size=28px>h&lt;/span > &lt;span color=#383A3D font-size=56px>%2$s&lt;/span > &lt;span color=#99383A3D font-size=28px>min&lt;/span > "</string>
+    <string name="charge_estimate_no_hour">&lt;span color=#9985898C font-size=28px>Temps restant&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=56px>%1$s&lt;/span > &lt;span color=#9985898C font-size=28px>min&lt;/span ></string>
+    <string name="charge_estimate_no_hour_day">" &lt;span color=#99383A3D font-size=28px>Temps restant&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=56px>%1$s&lt;/span > &lt;span color=#99383A3D font-size=28px>min&lt;/span > "</string>
+    <string name="charge_fully">"Sur le point d'être plein"</string>
+    <string name="charge_next_day">Jour suivant</string>
+    <string name="charge_no_plug">Non branché</string>
+    <string name="charge_plug_connect_ac">Fiche de charge connectée (CA)</string>
+    <string name="charge_plug_connect_dc">Fiche de charge connectée (CC)</string>
+    <string name="charge_plug_connect_fault">Défaut de connexion</string>
+    <string name="charge_plug_connect_fault_tips">"Défaut de connexion, veuillez vérifier à l'heure!"</string>
+    <string name="charge_plug_connect_tips">Fiche de charge connectée mais charge non démarrée, veuillez patienter</string>
+    <string name="charge_plug_connect_waiting">Pas complètement branché</string>
+    <string name="charge_plug_no_active">"La pile de chargement n'est pas activée"</string>
+    <string name="charge_plug_no_double">"N'insérez pas un pistolet à courant alternatif et un pistolet à courant continu en même temps"</string>
+    <string name="charge_plug_no_double_tips">"Connexion de la prise de charge anormale, veuillez vérifier à l'heure!"</string>
+    <string name="charge_power_supply_capacity">"&lt;span color=#9985898C font-size=28px>Niveau d'alimentation&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=56px>%1$s&lt;/span > &lt;span color=#9985898C font-size=28px>kWh&lt;/span >"</string>
+    <string name="charge_power_supply_capacity_all">"&lt;span color=#9985898C font-size=28px>Statistiques d'alimentation électrique&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=56px>%1$s&lt;/span > &lt;span color=#9985898C font-size=28px>kWh&lt;/span >"</string>
+    <string name="charge_power_supply_capacity_all_day">"&lt;span color=#99383A3D font-size=28px>Statistiques d'alimentation électrique&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=56px>%1$s&lt;/span > &lt;span color=#99383A3D font-size=28px>kWh&lt;/span >"</string>
+    <string name="charge_power_supply_capacity_day">"&lt;span color=#99383A3D font-size=28px>Niveau d'alimentation&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=56px>%1$s&lt;/span > &lt;span color=#99383A3D font-size=28px>kWh&lt;/span >"</string>
+    <string name="charge_pre_time">" &lt;span color=#9985898C font-size=28px>Recharge programmée&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=24px>Tous les jours&lt;/span > &lt;span color=#85898C font-size=48px>%1$s&lt;/span >"</string>
+    <string name="charge_pre_time_day">" &lt;span color=#99383A3D font-size=28px>Recharge programmée&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=24px>Tous les jours&lt;/span > &lt;span color=#383A3D font-size=48px>%1$s&lt;/span >"</string>
+    <string name="charge_pre_time_full" formatted="false">" &lt;span color=#9985898C font-size=28px>Recharge programmée&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=24px>Tous les jours&lt;/span > &lt;span color=#85898C font-size=48px>%1$s&lt;/span > &lt;span color=#85898C font-size=40px>Préférable 100%&lt;/span >"</string>
+    <string name="charge_pre_time_full_day" formatted="false">" &lt;span color=#99383A3D font-size=28px>Recharge programmée&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=24px>Tous les jours&lt;/span > &lt;span color=#383A3D font-size=48px>%1$s&lt;/span > &lt;span color=#383A3D font-size=40px>Préférable 100%&lt;/span >"</string>
+    <string name="charge_pre_time_limit">" &lt;span color=#9985898C font-size=28px>Recharge programmée&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=24px>Tous les jours&lt;/span > &lt;span color=#85898C font-size=48px>%1$s&lt;/span > &lt;span color=#85898C font-size=40px>Charge à la limite&lt;/span >"</string>
+    <string name="charge_pre_time_limit_day">" &lt;span color=#99383A3D font-size=28px>Recharge programmée&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=24px>Tous les jours&lt;/span > &lt;span color=#383A3D font-size=48px>%1$s&lt;/span > &lt;span color=#383A3D font-size=40px>Charge à la limite&lt;/span >"</string>
+    <string name="charge_pre_time_next">" &lt;span color=#9985898C font-size=28px>Recharge programmée&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=24px>Tous les jours&lt;/span > &lt;span color=#85898C font-size=48px>%1$s&lt;/span > &lt;span color=#85898C font-size=24px>Jour suivant&lt;/span > &lt;span color=#85898C font-size=48px>%2$s&lt;/span >"</string>
+    <string name="charge_pre_time_next_day">" &lt;span color=#99383A3D font-size=28px>Recharge programmée&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=24px>Tous les jours&lt;/span > &lt;span color=#383A3D font-size=48px>%1$s&lt;/span > &lt;span color=#383A3D font-size=24px>Jour suivant&lt;/span > &lt;span color=#383A3D font-size=48px>%2$s&lt;/span >"</string>
+    <string name="charge_pre_time_title">Recharge programmée</string>
+    <string name="charge_start">Commencer à charger</string>
+    <string name="charge_status_battery_fault">Défaut batterie haute tension</string>
+    <string name="charge_status_booking">Planification</string>
+    <string name="charge_status_boosting">Le chargement à haute tension est en cours</string>
+    <string name="charge_status_charging">En recharge</string>
+    <string name="charge_status_charging_done">Chargement arrêté</string>
+    <string name="charge_status_charging_fault">Dysfonctionnements</string>
+    <string name="charge_status_discharging">Alimentation externe</string>
+    <string name="charge_status_discharging_done">"Fin de l'alimentation électrique..."</string>
+    <string name="charge_status_discharging_fault">"Échec de l'alimentation électrique..."</string>
+    <string name="charge_status_preheating">Régulation de la température de la batterie en cours</string>
+    <string name="charge_status_super_fast_charging">Recharge rapide</string>
+    <string name="charge_stop">Arrêter la charge</string>
+    <string name="charge_temperature_tips">"Réglage de la température, s'il vous plaît soyez patient "</string>
+    <string name="charging_cap">Couvercle du port de charge</string>
+    <string name="child_lock_left">Verrouillage enfant</string>
+    <string name="child_lock_right">Serrure enfant droite</string>
+    <string name="climate_light">Tous les feux météo</string>
+    <string name="close_all">Tous fermés</string>
+    <string name="close_window">"Fermeture d'une fenêtre à une clé"</string>
+    <string name="copilot_massage">Massage du siège du passager avant</string>
+    <string name="copilot_rest">Repos en un clic pour le passager avant</string>
+    <string name="done">Terminer</string>
+    <string name="drag_tip">Appuyez et maintenez enfoncé pour faire glisser les fonctions vers la barre de commande gauche. Vous pouvez remplacer et trier les fonctions existantes tout en faisant glisser</string>
+    <string name="drag_tip_right">"Appuyez longuement pour faire glisser l'icône de la fonction jusqu'à la barre de commande à droite. Les fonctions existantes peuvent être remplacées et changer de position au cours du glissement"</string>
+    <string name="driver_massage">Massage du conducteur</string>
+    <string name="driver_rest">Un repose-clé pour le conducteur</string>
+    <string name="edit_at_most">"Jusqu'à 4 fonctions peuvent être ajoutées. Veuillez les supprimer avant de les ajouter."</string>
+    <string name="fold_rear_mirror">Rétroviseur repliable</string>
+    <string name="front_charging_cap">Couvercle du port de charge avant</string>
+    <string name="glove_box">Boîte à gants</string>
+    <string name="hud">Interrupteur HUD</string>
+    <string name="launch_control">Commande de départ</string>
+    <string name="left_dock_cancel">Annuler</string>
+    <string name="left_dock_close">ARRÊT</string>
+    <string name="left_opposite_door">Portes opposées sur le côté gauche</string>
+    <string name="left_switch_disabled">Interrupteur gauche désactivé</string>
+    <string name="left_window_lock">Verrouillage de la fenêtre gauche</string>
+    <string name="low_speed_alert">"Tonalité d'avertissement AVAS"</string>
+    <string name="mask_card_energy_title"> · Consommation d’énergie</string>
+    <string name="mask_card_tire_title"> · PRESSION DES PNEUS</string>
+    <string name="mask_card_trip_title"> · Voyage</string>
+    <string name="memory_using">Mémoire utilisée</string>
+    <string name="one_click_breath">"Une ventilation d'air clé"</string>
+    <string name="one_click_breath_on">"Fermeture d'une fenêtre à une clé"</string>
+    <string name="one_click_close_door">Une porte à clé se fermant</string>
+    <string name="one_click_drift">Une dérive de touche</string>
+    <string name="open_window">"Ouverture d'une fenêtre à une clé"</string>
+    <string name="open_window_on">"Fermeture d'une fenêtre à une clé"</string>
+    <string name="parking_comfort">Parking confortable</string>
+    <string name="part_glass">Abaissement du verre de séparation</string>
+    <string name="part_glass_on">Verre de séparation montant</string>
+    <string name="phone_charge">Chargeur sans fil</string>
+    <string name="position_light">Feu de position</string>
+    <string name="prompt_drift_condition_battery_power">Niveau de la batterie du véhicule >= 20%</string>
+    <string name="prompt_drift_condition_cancel">Pas maintenant</string>
+    <string name="prompt_drift_condition_check_title">"Conditions d'activation"</string>
+    <string name="prompt_drift_condition_confirm">Activer le drift</string>
+    <string name="prompt_drift_condition_drive_mode">Le mode conduite est passé en mode sport</string>
+    <string name="prompt_drift_condition_drive_system">"Le système d'entraînement est normal"</string>
+    <string name="prompt_drift_condition_esc_system">Le système ESC est normal</string>
+    <string name="prompt_drift_condition_hot_manage_system">Le système de gestion thermique est normal</string>
+    <string name="prompt_drift_condition_safety_belt">Les conducteurs et les passagers ont bouclé leur ceinture de sécurité</string>
+    <string name="prompt_drift_condition_speed">Vitesse du véhicule &amp;#60; 7 km/h</string>
+    <string name="prompt_drift_condition_steering_system">Le système de direction est normal</string>
+    <string name="prompt_drift_condition_tire_pressure_system">Le système TPMS est normal</string>
+    <string name="prompt_drift_control_accept">D’accord</string>
+    <string name="prompt_drift_disable_tips">La fonction de Launch Control est activée et le drift est temporairement indisponible</string>
+    <string name="prompt_drift_error_tips">"Veuillez vérifier que les conditions suivantes sont remplies et réessayer
+ 1. SOC >20% 
+ 2. Le rapport D est engagé 
+ 3. Le conducteur et tous les passagers ont été attachés aux ceintures de sécurité 
+ 4. Le système de conduite, le système ESC, le système de direction, le système de pression des pneus et le système de gestion thermique sont normaux 
+ 5. Le mode Sport est basculé avec succès 
+"</string>
+    <string name="prompt_drift_error_title">Une dérive de touche ne peut pas être activée</string>
+    <string name="prompt_drift_i_know">J’ai compris</string>
+    <string name="prompt_drift_tips">"Instructions:
+ 1. Cette fonction doit être appliquée sur l'hippodrome ou le site professionnel qui répond aux normes de sécurité nationales, et ne doit pas être utilisée sur les routes publiques et les lieux qui ne répondent pas aux normes de sécurité. n 2. Lors de l'utilisation d'une dérive à touche unique, il est recommandé d'utiliser les accessoires de dérive correspondants d'origine pour assurer la sécurité. Les dommages aux composants causés par un mauvais fonctionnement et un fonctionnement excessif de la dérive d'une seule touche ne sont pas couverts par la garantie. n 3. La dérive d'une seule touche nécessite des compétences de conduite professionnelles, de sorte que seuls les conducteurs ayant au moins trois ans d'expérience de conduite peuvent l'utiliser. Le conducteur doit supporter les pertes causées par le mauvais fonctionnement et la modification non autorisée du véhicule.
+ 
+ Instructions: 
+ 1. Cette fonction ne peut être activée que lorsque le véhicule passe en mode “Sport” et roule à une vitesse de &amp;lt;7 km/h, et que les ceintures de sécurité du conducteur et des passagers sont bouclées. Les ceintures de sécurité doivent toujours être attachées pendant la conduite. Si une ceinture de sécurité est détachée à mi-chemin, le mode dérive sera automatiquement désactivé. n 2. Cette fonction ne peut être activée que lorsque le niveau de puissance de la batterie est >20% SOC. Sinon, il sera automatiquement quitté;
+ 3. Cette fonction ne peut être activée que lorsque le système du véhicule est normal. Dans le cas contraire, il sera automatiquement quitté; 
+ Avec la fonction de dérive d'une touche activée:
+ 1. Les fonctions E-pedal et Autohold sont désactivées par défaut;
+ 2. Le mode «Sport» est automatiquement basculé en;
+ 3. La fonction ESC est désactivée; 
+ 4. Le niveau de récupération d'énergie est faible; 
+ 5. La fonction «Commande de lancement» (si activée) est désactivée automatiquement. n 
+ J'ai lu, compris et accepté les informations ci-dessus"</string>
+    <string name="prompt_drift_title">"Instructions d'utilisation pour la dérive d'une seule touche"</string>
+    <string name="prompt_guest_mode_tips">"Cette fonction n'est pas disponible en mode invité. Veuillez désactiver le mode invité et réessayer."</string>
+    <string name="prompt_launch_control_accept">Acceptez et entrez</string>
+    <string name="prompt_launch_control_content">"Avertissement: Il est de la responsabilité du conducteur de garder le contrôle de la voiture à tout moment en mode de lancement et d'assurer l'environnement de conduite et d'utilisation. Veuillez opérer dans des conditions dont la sécurité a été confirmée. Un lancement continu prolongé peut dégrader les performances du système d'entraînement et de freinage de la voiture. Nous espérons que vous pourrez utiliser cette fonction avec prudence.
+ 
+ Conditions d'utilisation:
+1. Le mode de lancement est utilisé à condition que la voiture s'arrête, que les portes soient fermées et que le conducteur et les passagers attachent normalement leurs ceintures de sécurité.
+2. Assurez-vous que la température du système d'alimentation du véhicule est normale et que la puissance est suffisante
+3. Désactivez les fonctions liées à la conduite intelligente, centrez le volant, relâchez le frein à main électronique et passez en vitesse D
+ 
+ Mode d'emploi:
+1. Appuyez sur le bouton ”Lancer la commande“ 
+2. Appuyez complètement sur la pédale de frein, puis sur la pédale d'accélérateur, attendez que l'instrument affiche “Mode de lancement actif», puis relâchez complètement la pédale de frein dans les 4 secondes, et la voiture démarrera avec une grande accélération. (Si l'instrument indique ”Le mode de lancement a échoué“, veuillez vérifier l'invite du grand écran et l'état de la voiture)
+ 
+ J'ai lu, compris et accepté les informations ci-dessus"</string>
+    <string name="prompt_launch_control_cs1e_content">"警告：弹射起步过程中，驾驶员有责任全程保持对车辆的控制，并确保车辆行驶和使用环境，请务必在确认安全的条件下操作。长时间连续弹射可能会造成整车驱动和制动系统性能下降，希望您能谨慎使用该功能，为确保行驶安全，不使用时请主动关闭功能开关。
+ 
+使用要求： 
+1、弹射起步功能需要在停车状态，确认车门关闭、司乘人员安全带正常系上 
+2、保证车辆动力系统温度正常，电量充足 
+3、关闭智能驾驶相关功能，摆正方向盘，释放电子手刹，车辆调整为D档 
+ 
+使用说明： 
+1、 打开“弹射起步”按键 
+2、 先满踩下刹车，后满踩油门，4秒内将制动踏板完全释放，整车会以极大的加速度弹射起步。
+3、为保证最佳体验，功能开启后，加速能力将自动切换为“运动”。功能关闭后，会保留在运动模式。如切换其他加速能力及特殊路况驾驶模式会自动关闭“弹射起步”功能。 
+ 
+以上信息是否完全理解并同意？"</string>
+    <string name="prompt_launch_control_disable_tips">La fonction de drift est activée et le Launch Control est temporairement indisponible</string>
+    <string name="prompt_launch_control_race_content">"Avertissement : pendant le Launch Control, il incombe au conducteur de garder le contrôle du véhicule et d'assurer l'environnement de conduite et d'utilisation du véhicule. Toute opération doit être effectuée dans des conditions sûres. Le Launch Control continu pendant une longue période peut détériorer les performances des systèmes d'entraînement et de freinage de l'ensemble du véhicule. Utilisez cette fonction avec prudence et éteignez activement le commutateur de fonction lorsque vous ne l'utilisez pas pour garantir la sécurité de la conduite. 
+ 
+Exigences d'utilisation :
+1. La fonction de Launch Control nécessite que le véhicule soit en stationnement, que les portes soient fermées et que les ceintures de sécurité du conducteur et des passagers soient correctement attachées.
+2. Le système d'alimentation du véhicule doit être à température normale et suffisamment alimenté.
+3. Les fonctions liées à la conduite intelligente doivent être désactivées, le volant doit être redressé, le frein à main électronique doit être desserré et le véhicule doit être réglé sur le rapport D.
+ 
+Instructions d'utilisation : 
+1. Activez le bouton «Launch Control».
+2. Appuyez d'abord à fond sur le frein, puis à fond sur l'accélérateur, relâchez complètement la pédale de frein dans les 4 secondes qui suivent, et l'ensemble du véhicule démarrera par Launch Control avec une grande accélération. 
+3. Pour garantir une expérience optimale, lorsque la fonction est activée, le mode conduite passe automatiquement en « mode sport ». Une fois la fonction désactivée, il restera en mode sport. Le passage à d'autres modes de conduite désactivera automatiquement la fonction de « Launch Control ». (En cas de « Piste de course extrême - Activation du contrôle du véhicule disponible », il ne passera pas en « Mode sport »). 
+4. Une fois activée, la fonction « Piste de course extrême - Mode drift » est temporairement indisponible. 
+ 
+Comprenez-vous pleinement et êtes-vous d’accord avec les informations ci-dessus? &lt;/string>"</string>
+    <string name="prompt_launch_control_title">"Avis de l'utilisateur pour le contrôle du lancement"</string>
+    <string name="prompt_saving_mode_tips">"Cette fonction n'est pas disponible lorsque le mode super économie d'énergie est activé, veuillez le désactiver et réessayer"</string>
+    <string name="racing_mode">Mode Course</string>
+    <string name="rear_charging_cap">Couvercle du port de charge arrière</string>
+    <string name="rear_fog_lamps">Feux de brouillard arrière</string>
+    <string name="reset_internet">Réinitialisation du réseau</string>
+    <string name="right_opposite_door">Les portes sont à droite</string>
+    <string name="right_switch_disabled">Commutateur droit désactivé</string>
+    <string name="right_window_lock">Verrouillage de la fenêtre droite</string>
+    <string name="scarp_cruised">"système de contrôle d'adhérence en descente"</string>
+    <string name="stream_media">Streaming</string>
+    <string name="through_lamp">Feu arrière traversant</string>
+    <string name="tire_pressure_fault">--</string>
+    <string name="tire_pressure_pressure_unit_bar">bar</string>
+    <string name="tire_pressure_pressure_unit_kpa">kPa</string>
+    <string name="tire_pressure_pressure_unit_psi">psi</string>
+    <string name="tire_pressure_suggestion">Pression des pneus recommandée</string>
+    <string name="tire_pressure_suggestion_value" formatted="false">%1$s kPa en charge partielle, %n %2$s kPa en charge complète</string>
+    <string name="tire_pressure_suggestion_value_a2">260~290kPa</string>
+    <string name="trips_100_km_caps">100 km</string>
+    <string name="trips_10_km_caps">10 km</string>
+    <string name="trips_avg_energy">Consommation énergétique moyenne</string>
+    <string name="trips_distance">Distance</string>
+    <string name="trips_elapsed_time">Durée du déplacement</string>
+    <string name="trunk">à grand trafic</string>
+    <string name="widget_drive_score_h">h</string>
+    <string name="widget_drive_score_km">km</string>
+    <string name="widget_drive_score_kwh">kWh</string>
+    <string name="widget_drive_score_min">min</string>
+</resources>

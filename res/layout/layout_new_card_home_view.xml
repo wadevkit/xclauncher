@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:tag="layout/layout_new_card_home_view_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.ecarx.mycar.card.view.CardViewSwitcher android:id="@id/view_switcher" android:layout_width="fill_parent" android:layout_height="wrap_content" android:measureAllChildren="false" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <androidx.constraintlayout.widget.ConstraintLayout android:id="@id/cl_simple_card_container" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.ecarx.mycar.card.view.LoopPager android:id="@id/loop_pager" android:layout_width="fill_parent" android:layout_height="@dimen/card_simple_h" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+            <ImageView android:id="@id/iv_point_one" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/card_point_space_bottom" android:src="@drawable/shape_point_normal" app:layout_constraintBottom_toBottomOf="@id/loop_pager" app:layout_constraintEnd_toStartOf="@id/iv_point_two" app:layout_constraintHorizontal_chainStyle="packed" app:layout_constraintStart_toStartOf="@id/loop_pager" />
+            <ImageView android:id="@id/iv_point_two" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/card_point_space_bottom" android:src="@drawable/shape_point_normal" android:layout_marginStart="@dimen/card_points_space" app:layout_constraintEnd_toStartOf="@id/iv_point_three" app:layout_constraintStart_toEndOf="@id/iv_point_one" app:layout_constraintTop_toTopOf="@id/iv_point_one" />
+            <ImageView android:id="@id/iv_point_three" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/card_point_space_bottom" android:src="@drawable/shape_point_normal" android:layout_marginStart="@dimen/card_points_space" app:layout_constraintEnd_toEndOf="@id/loop_pager" app:layout_constraintStart_toEndOf="@id/iv_point_two" app:layout_constraintTop_toTopOf="@id/iv_point_two" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/ll_full_card_container" android:tag="binding_1" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/card_full_h">
+            <include android:id="@id/layout_full_card_title" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/layout_card_title" />
+        </LinearLayout>
+    </com.ecarx.mycar.card.view.CardViewSwitcher>
+</FrameLayout>

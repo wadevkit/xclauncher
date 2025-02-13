@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aqi_levels">
+        <item>Utmärkt</item>
+        <item>Bra</item>
+        <item>Måttlig</item>
+        <item>USG</item>
+        <item>Ohälsosam</item>
+        <item>Mycket ohälsosam</item>
+        <item>Farlig</item>
+    </string-array>
+    <string-array name="uvi_levels">
+        <item>Låg</item>
+        <item>Måttlig</item>
+        <item>Hög</item>
+        <item>Mycket hög</item>
+        <item>Extrem</item>
+    </string-array>
+</resources>

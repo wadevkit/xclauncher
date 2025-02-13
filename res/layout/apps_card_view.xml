@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/apps_card_title_text_size" android:textColor="@color/apps_card_title_color" android:id="@id/tvTitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/apps_card_title_top_margin" android:text="@string/apps_card_title" android:layout_marginStart="@dimen/apps_card_title_left_margin" />
+    <androidx.appcompat.widget.AppCompatImageView android:layout_gravity="end" android:id="@id/ivEdit" android:layout_width="@dimen/apps_card_edit_size" android:layout_height="@dimen/apps_card_edit_size" android:src="@drawable/ic_apps_card_edit" android:scaleType="center" />
+    <androidx.recyclerview.widget.RecyclerView android:id="@id/rvApps" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/apps_card_content_top_margin" android:overScrollMode="never" android:layout_marginHorizontal="@dimen/apps_card_content_horizontal_margin" />
+</merge>

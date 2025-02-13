@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/bg_card_avp_container" android:background="@drawable/bg_recommended_item_checked_day" android:visibility="visible" android:layout_width="@dimen/sr_mini_card_expand_width" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center" android:id="@id/avp_study_button_container" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="120.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent">
+        <TextView android:textSize="@dimen/sp_28" android:textColor="#ff383a3d" android:id="@id/avp_study_button_text" android:layout_width="433.0dip" android:layout_height="@dimen/dp_42" android:text="代客泊车可用，点击学习路线" />
+        <TextView android:textSize="@dimen/sp_28" android:textColor="#ffeeeeee" android:gravity="center" android:id="@id/avp_study_button" android:background="@drawable/bg_avp_study_day" android:layout_width="128.0dip" android:layout_height="64.0dip" android:text="学习" android:layout_marginStart="@dimen/dp_20" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:id="@id/avp_route_save_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="120.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintStart_toStartOf="parent">
+        <TextView android:textSize="@dimen/sp_28" android:textColor="#ff383a3d" android:id="@id/card_map_save_tv" android:layout_width="433.0dip" android:layout_height="@dimen/dp_42" android:text="点击保存学习路线" />
+        <TextView android:textSize="@dimen/sp_28" android:textColor="#ffeeeeee" android:gravity="center" android:id="@id/card_map_save_btn" android:background="@drawable/bg_avp_study_day" android:layout_width="128.0dip" android:layout_height="64.0dip" android:text="保存" android:layout_marginStart="@dimen/dp_20" />
+    </LinearLayout>
+</LinearLayout>

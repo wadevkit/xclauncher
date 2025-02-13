@@ -1,0 +1,1740 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accessibility_action_divider_bottom_full">Bottom full screen</string>
+    <string name="accessibility_action_divider_left_30">Left 30%</string>
+    <string name="accessibility_action_divider_left_50">Left 50%</string>
+    <string name="accessibility_action_divider_left_70">Left 70%</string>
+    <string name="accessibility_action_divider_left_full">Left full screen</string>
+    <string name="accessibility_action_divider_right_full">Right full screen</string>
+    <string name="accessibility_action_divider_top_30">Top 30%</string>
+    <string name="accessibility_action_divider_top_50">Top 50%</string>
+    <string name="accessibility_action_divider_top_70">Top 70%</string>
+    <string name="accessibility_action_divider_top_full">Top full screen</string>
+    <string name="accessibility_action_pip_resize">Resize</string>
+    <string name="accessibility_action_pip_stash">Stash</string>
+    <string name="accessibility_action_pip_unstash">Unstash</string>
+    <string name="accessibility_action_start_one_handed">Start one-handed mode</string>
+    <string name="accessibility_action_stop_one_handed">Exit one-handed mode</string>
+    <string name="accessibility_bubble_dismissed">Bubble dismissed.</string>
+    <string name="accessibility_describe">launcher access service</string>
+    <string name="accessibility_divider">Split-screen divider</string>
+    <string name="action_settings">Settings</string>
+    <string name="active_widget">激活</string>
+    <string name="activity_launch_on_secondary_display_failed_text">App does not support launch on secondary displays.</string>
+    <string name="adapter_api_debug_open_tip">中间件调试模式</string>
+    <string name="adjust_hud">HUD Adjustment</string>
+    <string name="adjust_rear_mirror">Adjustment</string>
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="apa">Auto parking assist</string>
+    <string name="app_center">App Center</string>
+    <string name="app_is_installing">Installing app. Wait...</string>
+    <string name="app_name">scenario_engine_launcher_card</string>
+    <string name="app_not_install">请确保儿童守护app已安装</string>
+    <string name="app_title">Car Launcher</string>
+    <string name="app_uninstall_cancel">Cancel</string>
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="apps_all_title">More apps</string>
+    <string name="apps_card_cancel_start_app">Cancel</string>
+    <string name="apps_card_confirm_start_app">Confirm to open</string>
+    <string name="apps_card_tip_backrest_is_running">The back screen is using this App, which will be interrupted If you continue to open</string>
+    <string name="apps_card_title">Favorites</string>
+    <string name="apps_edit_at_most">You can add up to 4 applications only. Please delete some before adding</string>
+    <string name="apps_edit_cancel">Cancel</string>
+    <string name="apps_edit_finish">Done</string>
+    <string name="apps_edit_group_custom_label">Custom</string>
+    <string name="apps_edit_group_recent_label">Recents</string>
+    <string name="apps_edit_tips">Tap and hold to drag app icons to the Frequently Used Apps card. You can also replace or sort existing app icons while dragging</string>
+    <string name="apps_mini_title">Mini Program</string>
+    <string name="apps_zeekr_lab_title">Z-emulator</string>
+    <string name="aqi_levels_unknown1">Excellent</string>
+    <string name="aqi_levels_unknown2">Good</string>
+    <string name="aqi_levels_unknown3">Moderate</string>
+    <string name="aqi_levels_unknown4">Unhealthy for sensitive groups</string>
+    <string name="aqi_levels_unknown5">Unhealthy</string>
+    <string name="aqi_levels_unknown6">Very unhealthy</string>
+    <string name="aqi_levels_unknown7">Extremely critical</string>
+    <string name="aqt_app_name_1">Tencent Wecarflow</string>
+    <string name="aqt_app_name_2">Wecarflow</string>
+    <string name="args_full_url">full_url</string>
+    <string name="atmosphere_light">Ambient lights</string>
+    <string name="auto_hold">Auto hold</string>
+    <string name="baby_into_car_widget">宝贝上车</string>
+    <string name="baby_into_car_widget_active_dsc">即将为您激活宝贝上车，激活后将自动调整“语音、声音、安全、后排空调、车窗、后排屏”到目标状态</string>
+    <string name="baby_sleep_well_widget">宝贝安睡</string>
+    <string name="baby_sleep_well_widget_active_dsc">即将为您激活宝贝安睡，激活后将自动调整“语音、声音、安全、后排空调、车窗、后排屏”到目标状态</string>
+    <string name="back_row_cinema">Rear row theater mode</string>
+    <string name="back_row_meeting">Rear Meeting mode</string>
+    <string name="back_row_rest">Rear Rest mode</string>
+    <string name="banner_adapter_null_error">Adapter为空！请检查下参数</string>
+    <string name="bilibili_app_name">Bilibili</string>
+    <string name="bluetooth_no_artist">Not yet</string>
+    <string name="bluetooth_no_connect">Bluetooth Music - Not connected</string>
+    <string name="bluetooth_no_play">No songs yet</string>
+    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="bottomsheet_action_collapse">Collapse the bottom sheet</string>
+    <string name="bottomsheet_action_expand">Expand the bottom sheet</string>
+    <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
+    <string name="bottomsheet_drag_handle_clicked">Drag handle double-tapped</string>
+    <string name="bottomsheet_drag_handle_content_description">Drag handle</string>
+    <string name="brvah_load_complete">点击加载更多</string>
+    <string name="brvah_load_end">没有更多数据</string>
+    <string name="brvah_load_failed">加载失败，请点我重试</string>
+    <string name="brvah_loading">正在加载中...</string>
+    <string name="bt_app_name">Bluetooth Music</string>
+    <string name="bubble_accessibility_action_add_back">Add back to stack</string>
+    <string name="bubble_accessibility_action_move_bottom_left">Move bottom left</string>
+    <string name="bubble_accessibility_action_move_bottom_right">Move bottom right</string>
+    <string name="bubble_accessibility_action_move_top_left">Move top left</string>
+    <string name="bubble_accessibility_action_move_top_right">Move top right</string>
+    <string name="bubble_content_description_single">%1$s from %2$s</string>
+    <string name="bubble_content_description_stack">%1$s from %2$s and %3$d more</string>
+    <string name="bubble_dismiss_text">Dismiss bubble</string>
+    <string name="bubble_overflow_button_content_description">Overflow</string>
+    <string name="bubble_overflow_empty_subtitle">Recent bubbles and dismissed bubbles will appear here</string>
+    <string name="bubble_overflow_empty_title">No recent bubbles</string>
+    <string name="bubbles_app_settings">%1$s settings</string>
+    <string name="bubbles_dont_bubble_conversation">Don’t bubble conversation</string>
+    <string name="bubbles_settings_button_description">Settings for %1$s bubbles</string>
+    <string name="bubbles_user_education_description">New conversations appear as floating icons, or bubbles. Tap to open bubble. Drag to move it.</string>
+    <string name="bubbles_user_education_got_it">Got it</string>
+    <string name="bubbles_user_education_manage">Tap Manage to turn off bubbles from this app</string>
+    <string name="bubbles_user_education_manage_title">Control bubbles anytime</string>
+    <string name="bubbles_user_education_title">Chat using bubbles</string>
+    <string name="business_voice_disabled">Disable business voice</string>
+    <string name="call_notification_answer_action">Answer</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Decline</string>
+    <string name="call_notification_hang_up_action">Hang Up</string>
+    <string name="call_notification_incoming_text">Incoming call</string>
+    <string name="call_notification_ongoing_text">Ongoing call</string>
+    <string name="call_notification_screening_text">Screening an incoming call</string>
+    <string name="cancel_widget">取消</string>
+    <string name="card_energy_chart_desc">Recent Trip Energy Consumption Trend</string>
+    <string name="card_energy_mode_10">10km</string>
+    <string name="card_energy_mode_100">100km</string>
+    <string name="card_energy_title">Vehicle Condition - Energy Consumption</string>
+    <string name="card_full_title">Vehicle Condition</string>
+    <string name="card_kwh_unit">kWh/100km</string>
+    <string name="card_tire_title">Vehicle Condition - Tire Pressure</string>
+    <string name="card_trip_1">Trip 1</string>
+    <string name="card_trip_2">Trip 2</string>
+    <string name="card_trip_title">Vehicle Condition - Trip</string>
+    <string name="central_lock">Central locking</string>
+    <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
+    <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
+    <string name="charge_charge_error_big_tips">Charging fault, check immediately!</string>
+    <string name="charge_charging_done_tips">Charging stopped, Please Remember to Unplug</string>
+    <string name="charge_charging_full">Prioritize full charging</string>
+    <string name="charge_charging_limit">Charge to limit</string>
+    <string name="charge_connect">Connected</string>
+    <string name="charge_connect_tips">Please wait patiently</string>
+    <string name="charge_daily">Daily</string>
+    <string name="charge_default_text">--</string>
+    <string name="charge_dis_stop">Stop V2L</string>
+    <string name="charge_estimate">&lt;span color=#9985898C font-size=28px>Remaining time&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=56px>%1$s&lt;/span > &lt;span color=#9985898C font-size=28px>h&lt;/span > &lt;span color=#85898C font-size=56px>%2$s&lt;/span > &lt;span color=#9985898C font-size=28px>min&lt;/span ></string>
+    <string name="charge_estimate_24">&lt;span color=#9985898C font-size=28px>Remaining time&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=56px>>24&lt;/span > &lt;span color=#9985898C font-size=28px>h&lt;/span ></string>
+    <string name="charge_estimate_24_day">&lt;span color=#99383A3D font-size=28px>Remaining time&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=56px>>24&lt;/span > &lt;span color=#99383A3D font-size=28px>h&lt;/span ></string>
+    <string name="charge_estimate_day">" &lt;span color=#99383A3D font-size=28px>Remaining time&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=56px>%1$s&lt;/span > &lt;span color=#99383A3D font-size=28px>h&lt;/span > &lt;span color=#383A3D font-size=56px>%2$s&lt;/span > &lt;span color=#99383A3D font-size=28px>min&lt;/span > "</string>
+    <string name="charge_estimate_no_hour">&lt;span color=#9985898C font-size=28px>Remaining time&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=56px>%1$s&lt;/span > &lt;span color=#9985898C font-size=28px>min&lt;/span ></string>
+    <string name="charge_estimate_no_hour_day">" &lt;span color=#99383A3D font-size=28px>Remaining time&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=56px>%1$s&lt;/span > &lt;span color=#99383A3D font-size=28px>min&lt;/span > "</string>
+    <string name="charge_fully">Fully charged soon</string>
+    <string name="charge_line">-</string>
+    <string name="charge_next_day">Next day</string>
+    <string name="charge_no_plug">Not plugged in</string>
+    <string name="charge_plug_connect_ac">Plugged in (AC)</string>
+    <string name="charge_plug_connect_dc">Plugged in (DC)</string>
+    <string name="charge_plug_connect_fault">Connection fault</string>
+    <string name="charge_plug_connect_fault_tips">Connection fault, check immediately!</string>
+    <string name="charge_plug_connect_tips">Plug connected but not charging</string>
+    <string name="charge_plug_connect_waiting">Not fully plugged in</string>
+    <string name="charge_plug_no_active">Charging pile not activated</string>
+    <string name="charge_plug_no_double">Do not plug in both AC and DC chargers simultaneously</string>
+    <string name="charge_plug_no_double_tips">Plugging Anomaly. Please Check Promptly!</string>
+    <string name="charge_power_supply_capacity">&lt;span color=#9985898C font-size=28px>V2L quantity&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=56px>%1$s&lt;/span > &lt;span color=#9985898C font-size=28px>kWh&lt;/span ></string>
+    <string name="charge_power_supply_capacity_all">&lt;span color=#9985898C font-size=28px>V2L statistics&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=56px>%1$s&lt;/span > &lt;span color=#9985898C font-size=28px>kWh&lt;/span ></string>
+    <string name="charge_power_supply_capacity_all_day">&lt;span color=#99383A3D font-size=28px>V2L statistics&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=56px>%1$s&lt;/span > &lt;span color=#99383A3D font-size=28px>kWh&lt;/span ></string>
+    <string name="charge_power_supply_capacity_day">&lt;span color=#99383A3D font-size=28px>V2L quantity&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=56px>%1$s&lt;/span > &lt;span color=#99383A3D font-size=28px>kWh&lt;/span ></string>
+    <string name="charge_pre_time">" &lt;span color=#9985898C font-size=28px>Scheduled charging&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=24px>Every day&lt;/span > &lt;span color=#85898C font-size=48px>%1$s&lt;/span >"</string>
+    <string name="charge_pre_time_day">" &lt;span color=#99383A3D font-size=28px>Scheduled charging&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=24px>Every day&lt;/span > &lt;span color=#383A3D font-size=48px>%1$s&lt;/span >"</string>
+    <string name="charge_pre_time_full">" &lt;span color=#9985898C font-size=28px>Scheduled charging&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=24px>Every day&lt;/span > &lt;span color=#85898C font-size=48px>%1$s&lt;/span > &lt;span color=#85898C font-size=40px>Prioritize full charging&lt;/span >"</string>
+    <string name="charge_pre_time_full_day">" &lt;span color=#99383A3D font-size=28px>Scheduled charging&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=24px>Every day&lt;/span > &lt;span color=#383A3D font-size=48px>%1$s&lt;/span > &lt;span color=#383A3D font-size=40px>Prioritize full charging&lt;/span >"</string>
+    <string name="charge_pre_time_limit">" &lt;span color=#9985898C font-size=28px>Scheduled charging&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=24px>Every day&lt;/span > &lt;span color=#85898C font-size=48px>%1$s&lt;/span > &lt;span color=#85898C font-size=40px>Charge to limit&lt;/span >"</string>
+    <string name="charge_pre_time_limit_day">" &lt;span color=#99383A3D font-size=28px>Scheduled charging&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=24px>Every day&lt;/span > &lt;span color=#383A3D font-size=48px>%1$s&lt;/span > &lt;span color=#383A3D font-size=40px>Charge to limit&lt;/span >"</string>
+    <string name="charge_pre_time_next">" &lt;span color=#9985898C font-size=28px>Scheduled charging&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=24px>Every day&lt;/span > &lt;span color=#85898C font-size=48px>%1$s&lt;/span > &lt;span color=#85898C font-size=24px>Next day&lt;/span > &lt;span color=#85898C font-size=48px>%2$s&lt;/span >"</string>
+    <string name="charge_pre_time_next_day">" &lt;span color=#99383A3D font-size=28px>Scheduled charging&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=24px>Every day&lt;/span > &lt;span color=#383A3D font-size=48px>%1$s&lt;/span > &lt;span color=#383A3D font-size=24px>Next day&lt;/span > &lt;span color=#383A3D font-size=48px>%2$s&lt;/span >"</string>
+    <string name="charge_pre_time_title">Scheduled charging</string>
+    <string name="charge_start">Start charging</string>
+    <string name="charge_status_battery_fault">Power battery fault</string>
+    <string name="charge_status_booking">Scheduling</string>
+    <string name="charge_status_boosting">Boost charging</string>
+    <string name="charge_status_charging">Charging</string>
+    <string name="charge_status_charging_done">Charging stopped</string>
+    <string name="charge_status_charging_fault">Charging fault</string>
+    <string name="charge_status_discharging">V2L in progress</string>
+    <string name="charge_status_discharging_done">V2L ended</string>
+    <string name="charge_status_discharging_fault">V2L fault</string>
+    <string name="charge_status_preheating">Regulating battery temperature</string>
+    <string name="charge_status_super_fast_charging">Z-charging</string>
+    <string name="charge_stop">Stop charging</string>
+    <string name="charge_temperature_tips">Temperature Adjusting. Please wait patiently</string>
+    <string name="charging_cap">Charging flap</string>
+    <string name="child_lock_left">Left child lock</string>
+    <string name="child_lock_right">Right child lock</string>
+    <string name="clear_text_end_icon_content_description">Clear text</string>
+    <string name="climate_light">All-Weather Lights</string>
+    <string name="close_all">全部关闭</string>
+    <string name="close_card">Close card</string>
+    <string name="close_window">Close windows</string>
+    <string name="commuting_route_discover">发现通勤路线</string>
+    <string name="commuting_route_in_memory">通勤路线记忆中</string>
+    <string name="commuting_route_manager">路线管理</string>
+    <string name="commuting_route_memorized_little">通勤路线已记忆%1$s</string>
+    <string name="config_recentsComponentName">com.android.launcher3/com.android.quickstep.RecentsActivity</string>
+    <string name="confirm">OK</string>
+    <string name="confirm_remove">Uninstall %s?</string>
+    <string name="confirm_start_app">Open it anyway</string>
+    <string name="confirm_uninstall">Uninstall %s?</string>
+    <string name="connect_bluetooth_first">Connect a Bluetooth device first</string>
+    <string name="connect_usb">Please insert the USB device</string>
+    <string name="connect_usb_first">Plug in a USB device first</string>
+    <string name="copilot_massage">Front passenger massage</string>
+    <string name="copilot_rest">Front passenger rest</string>
+    <string name="cube_debug">Playground</string>
+    <string name="customize_scenario_add_tips">Only 4 scenes can be added at most. Please delete them before adding.</string>
+    <string name="customize_scenario_to_add">去添加</string>
+    <string name="customize_scenario_to_create">Go to create</string>
+    <string name="customize_scenario_to_login">Please log in to account first</string>
+    <string name="day_friday">Friday</string>
+    <string name="day_monday">Monday</string>
+    <string name="day_saturday">Saturday</string>
+    <string name="day_sunday">Sunday</string>
+    <string name="day_thursday">Thursday</string>
+    <string name="day_tuesday">Tuesday</string>
+    <string name="day_wednesday">Wednesday</string>
+    <string name="dln_empty_text">Mobile phone screen mirroring...</string>
+    <string name="dln_empty_text2">Mobile phone screen mirroring...</string>
+    <string name="dock_forced_resizable">App may not work with split-screen.</string>
+    <string name="dock_non_resizeble_failed_to_dock_text">App does not support split-screen.</string>
+    <string name="done">Done</string>
+    <string name="download_paused">Paused</string>
+    <string name="download_pending">Preparing to download…</string>
+    <string name="download_progress">Downloading…</string>
+    <string name="drag_tip">Tap and hold to drag the feature to the left control bar. You can also replace or sort existing features while dragging</string>
+    <string name="drag_tip_right">Tap and hold to drag the feature to the right control bar. You can also replace or sort existing features while dragging</string>
+    <string name="driver_massage">Driver massage</string>
+    <string name="driver_rest">Driver rest</string>
+    <string name="edit_at_most">You can add up to 5 features only. Please delete some before adding</string>
+    <string name="error_a11y_label">Error: invalid</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="exclusive_child_lock">专属童锁</string>
+    <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+    <string name="favoriteslist">Favorites list</string>
+    <string name="fm_app_name">Radio</string>
+    <string name="fold_rear_mirror">Fold side mirrors</string>
+    <string name="forced_resizable_secondary_display">App may not work on a secondary display.</string>
+    <string name="front_charging_cap">Front charging flap</string>
+    <string name="gallery_empty_text">"For more gallery resources
+please go to the app to check"</string>
+    <string name="glove_box">Glove box</string>
+    <string name="gps_permission_denied">No permission to access location</string>
+    <string name="gps_permission_setting">Settings</string>
+    <string name="hello_widget">Hello desktop widget</string>
+    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="hud">HUD switch</string>
+    <string name="icon_content_description">Dialog Icon</string>
+    <string name="image_control">镜像控制</string>
+    <string name="image_control_view_pager_txt">后屏掌控</string>
+    <string name="indicator_color_error">指示器的颜色只能设置成“@color/colorID or #000000”</string>
+    <string name="install_progress">Installing...</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="launch_control">Launch control</string>
+    <string name="left_dock_cancel">Cancel</string>
+    <string name="left_dock_close">Close</string>
+    <string name="left_dock_edit">编辑</string>
+    <string name="left_opposite_door">Left doors</string>
+    <string name="left_switch_disabled">Left Switch Disabled</string>
+    <string name="left_window_lock">Left lock</string>
+    <string name="load_fail">加载失败</string>
+    <string name="load_succeed">加载成功</string>
+    <string name="loading">正在加载...</string>
+    <string name="lock_all">全部上锁</string>
+    <string name="low_speed_alert">Pedestrian warning sound</string>
+    <string name="lyric_loading">Lyric loading</string>
+    <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
+    <string name="m3_ref_typeface_brand_regular">sans-serif</string>
+    <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
+    <string name="m3_ref_typeface_plain_regular">sans-serif</string>
+    <string name="m3_sys_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="m3_sys_motion_easing_emphasized_accelerate">cubic-bezier(0.3, 0, 0.8, 0.2)</string>
+    <string name="m3_sys_motion_easing_emphasized_decelerate">cubic-bezier(0.1, 0.7, 0.1, 1)</string>
+    <string name="m3_sys_motion_easing_emphasized_path_data">M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1</string>
+    <string name="m3_sys_motion_easing_legacy">cubic-bezier(0.4, 0, 0.2, 1)</string>
+    <string name="m3_sys_motion_easing_legacy_accelerate">cubic-bezier(0.4, 0, 1, 1)</string>
+    <string name="m3_sys_motion_easing_legacy_decelerate">cubic-bezier(0, 0, 0.2, 1)</string>
+    <string name="m3_sys_motion_easing_linear">cubic-bezier(0, 0, 1, 1)</string>
+    <string name="m3_sys_motion_easing_standard">cubic-bezier(0.2, 0, 0, 1)</string>
+    <string name="m3_sys_motion_easing_standard_accelerate">cubic-bezier(0.3, 0, 1, 1)</string>
+    <string name="m3_sys_motion_easing_standard_decelerate">cubic-bezier(0, 0, 0, 1)</string>
+    <string name="manage_bubbles_text">Manage</string>
+    <string name="mask_card_energy_title"> - Energy Consumption</string>
+    <string name="mask_card_tire_title"> - Tire Pressure</string>
+    <string name="mask_card_trip_title"> - Trip</string>
+    <string name="material_clock_display_divider">:</string>
+    <string name="material_clock_toggle_content_description">Select AM or PM</string>
+    <string name="material_hour_24h_suffix">%1$s hours</string>
+    <string name="material_hour_selection">Select hour</string>
+    <string name="material_hour_suffix">"%1$s o'clock"</string>
+    <string name="material_minute_selection">Select minutes</string>
+    <string name="material_minute_suffix">%1$s minutes</string>
+    <string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
+    <string name="material_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="material_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_standard">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
+    <string name="material_slider_range_end">Range end</string>
+    <string name="material_slider_range_start">Range start</string>
+    <string name="material_slider_value">Value</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Switch to clock mode for the time input.</string>
+    <string name="material_timepicker_hour">Hour</string>
+    <string name="material_timepicker_minute">Minute</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Select time</string>
+    <string name="material_timepicker_text_input_mode_description">Switch to text input mode for the time input.</string>
+    <string name="media_app_name">J-share</string>
+    <string name="media_bilibili_title">"Let's watch the drama together"</string>
+    <string name="media_cancel">取消</string>
+    <string name="media_confirm">确定打开</string>
+    <string name="media_data_exception">Load failed</string>
+    <string name="media_data_retry">Reload</string>
+    <string name="media_dln_open">Go to screen mirroring</string>
+    <string name="media_dln_play_stoped">Mobile phone screen mirror</string>
+    <string name="media_dln_playing">Mobile phone screen mirroring…</string>
+    <string name="media_empty_artist">--</string>
+    <string name="media_empty_title_unknown">unknown</string>
+    <string name="media_float_lyric_window">Floating lyrics</string>
+    <string name="media_gallery_subtitle">Go to the gallery</string>
+    <string name="media_gallery_title">Gallery browsing</string>
+    <string name="media_leishi_title">"Let's sing together"</string>
+    <string name="media_list_data_empty">No list yet</string>
+    <string name="media_list_empty_recommend">No recommendation</string>
+    <string name="media_loading">Loading...</string>
+    <string name="media_netease_playlist_title">You may also like</string>
+    <string name="media_no_lrc_label">No lyrics yet</string>
+    <string name="media_nomicktv_switch">无麦K歌</string>
+    <string name="media_open_app">Enter the application</string>
+    <string name="media_recommend_playlist">Hot song list</string>
+    <string name="media_recommend_radio">Recommend radio station</string>
+    <string name="media_resume_ktv">Resume karaoke</string>
+    <string name="media_resume_play">Resume playback</string>
+    <string name="media_switch_ktv_calling">通话中，请挂断后重试</string>
+    <string name="media_switch_when_hfpcall">In Bluetooth calling. Please try again</string>
+    <string name="media_title_init">"Let's play some music"</string>
+    <string name="media_to_iqiyi_video">Go to iQiyi</string>
+    <string name="media_to_leishi_ktv">Go to Leishi KTV</string>
+    <string name="media_to_migu_video">Go to Migu Video</string>
+    <string name="media_video_none_title">"Let's watch the drama together"</string>
+    <string name="media_video_playing">Video media playing</string>
+    <string name="meida_tip_backrest_is_running">后排屏正在使用此App，若继续打开将中断对方使用</string>
+    <string name="meida_tip_csd_is_running">前排屏正在使用此App，若继续打开将中断对方使用</string>
+    <string name="memory_using">内存占用</string>
+    <string name="mtrl_badge_numberless_content_description">New notification</string>
+    <string name="mtrl_checkbox_button_icon_path_checked">M14,18.2 11.4,15.6 10,17 14,21 22,13 20.6,11.6z</string>
+    <string name="mtrl_checkbox_button_icon_path_group_name">icon</string>
+    <string name="mtrl_checkbox_button_icon_path_indeterminate">M13.4,15 11,15 11,17 13.4,17 21,17 21,15z</string>
+    <string name="mtrl_checkbox_button_icon_path_name">icon path</string>
+    <string name="mtrl_checkbox_button_path_checked">M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z</string>
+    <string name="mtrl_checkbox_button_path_group_name">button</string>
+    <string name="mtrl_checkbox_button_path_name">button path</string>
+    <string name="mtrl_checkbox_button_path_unchecked">M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z M23,23H9V9h14V23z</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">More than %1$d new notifications</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+    <string name="mtrl_picker_a11y_next_month">Change to next month</string>
+    <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
+    <string name="mtrl_picker_announce_current_range_selection">Start date selection: %1$s – End date selection: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">none</string>
+    <string name="mtrl_picker_cancel">Cancel</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Select Date</string>
+    <string name="mtrl_picker_date_header_unselected">Selected date</string>
+    <string name="mtrl_picker_day_of_week_column_header">Column of days: %1$s</string>
+    <string name="mtrl_picker_end_date_description">End date %1$s</string>
+    <string name="mtrl_picker_invalid_format">Invalid format.</string>
+    <string name="mtrl_picker_invalid_format_example">Example: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Use: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Invalid range.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Navigate to current year %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigate to year %1$d</string>
+    <string name="mtrl_picker_out_of_range">Out of range: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Start date – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – End date</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Select Range</string>
+    <string name="mtrl_picker_range_header_unselected">Start date – End date</string>
+    <string name="mtrl_picker_save">Save</string>
+    <string name="mtrl_picker_start_date_description">Start date %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Date</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">End date</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Start date</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_today_description">Today %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Switch to calendar input mode</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tap to switch to Calendar view</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to year view</string>
+    <string name="mtrl_switch_thumb_group_name">circle_group</string>
+    <string name="mtrl_switch_thumb_path_checked">M4,16 A12,12 0 0,1 16,4 H16 A12,12 0 0,1 16,28 H16 A12,12 0 0,1 4,16</string>
+    <string name="mtrl_switch_thumb_path_morphing">M0,16 A11,11 0 0,1 11,5 H21 A11,11 0 0,1 21,27 H11 A11,11 0 0,1 0,16</string>
+    <string name="mtrl_switch_thumb_path_name">circle</string>
+    <string name="mtrl_switch_thumb_path_pressed">M2,16 A14,14 0 0,1 16,2 H16 A14,14 0 0,1 16,30 H16 A14,14 0 0,1 2,16</string>
+    <string name="mtrl_switch_thumb_path_unchecked">M8,16 A8,8 0 0,1 16,8 H16 A8,8 0 0,1 16,24 H16 A8,8 0 0,1 8,16</string>
+    <string name="mtrl_switch_track_decoration_path">M1,16 A15,15 0 0,1 16,1 H36 A15,15 0 0,1 36,31 H16 A15,15 0 0,1 1,16</string>
+    <string name="mtrl_switch_track_path">M0,16 A16,16 0 0,1 16,0 H36 A16,16 0 0,1 36,32 H16 A16,16 0 0,1 0,16</string>
+    <string name="mtrl_timepicker_cancel">Cancel</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="music_no_lyric_keyword1">无歌词</string>
+    <string name="music_no_lyric_keyword2">纯音乐</string>
+    <string name="music_no_lyric_keyword3">暂不支持歌词</string>
+    <string name="netease_app_name">NetEase Cloud Music</string>
+    <string name="netease_version_low_empty_list">"No list yet
+Please go to App store to upgrade"</string>
+    <string name="netease_version_low_empty_lyric">"No lyrics yet
+Please go to the App store to upgrade"</string>
+    <string name="netease_version_low_empty_recommend">"No recommendation yet
+Please go to the App store to upgrade"</string>
+    <string name="new_card_energy_title">能耗</string>
+    <string name="new_card_tire_title">胎压</string>
+    <string name="new_card_trip_title">行程1</string>
+    <string name="new_card_vehicle_condition">车况</string>
+    <string name="no_connect_bluetooth">Bluetooth device not connected</string>
+    <string name="no_connecting">Not Connected Yet</string>
+    <string name="no_data_to_add">No scene to be added yet</string>
+    <string name="no_recent_apps">No recently used apps</string>
+    <string name="no_scene">暂无场景</string>
+    <string name="notification_bubble_title">Bubble</string>
+    <string name="notification_channel_tv_pip">Picture-in-Picture</string>
+    <string name="nzp_string_array_1">ZEEKR Pilot disabled</string>
+    <string name="nzp_string_array_10">Failed to change to right lane</string>
+    <string name="nzp_string_array_11">Failed to change to left lane</string>
+    <string name="nzp_string_array_12">About to exit NOA section</string>
+    <string name="nzp_string_array_13">Please take over immediately</string>
+    <string name="nzp_string_array_14">Parking safely</string>
+    <string name="nzp_string_array_15">Take over the car</string>
+    <string name="nzp_string_array_16">Please take over the vehicle immediately</string>
+    <string name="nzp_string_array_17">Hold the steering wheel</string>
+    <string name="nzp_string_array_18">Please look out for front roads</string>
+    <string name="nzp_string_array_19">Please operate the steering rod to change lanes</string>
+    <string name="nzp_string_array_2">NOA is about to start...</string>
+    <string name="nzp_string_array_20">NOA Autonomous Navigation Assistance enabled</string>
+    <string name="nzp_string_array_21">Downgraded to LCC Plus</string>
+    <string name="nzp_string_array_22">LCC canceled</string>
+    <string name="nzp_string_array_23">LCC Plus canceled</string>
+    <string name="nzp_string_array_24">NOA canceled</string>
+    <string name="nzp_string_array_3">NOA enabled</string>
+    <string name="nzp_string_array_4">LCC Plus running</string>
+    <string name="nzp_string_array_5">LCC running</string>
+    <string name="nzp_string_array_6">Accelerating</string>
+    <string name="nzp_string_array_7">Changing lane</string>
+    <string name="nzp_string_array_8">Lane changing at this time is canceled</string>
+    <string name="nzp_string_array_9">Lane changed</string>
+    <string name="one_click_breath">Air ventilation</string>
+    <string name="one_click_breath_on">Close windows</string>
+    <string name="one_click_close_door">Close all doors</string>
+    <string name="one_click_drift">Drift</string>
+    <string name="one_handed_tutorial_description">To exit, swipe up from the bottom of the screen or tap anywhere above the app</string>
+    <string name="one_handed_tutorial_title">Using one-handed mode</string>
+    <string name="onlineradio_app_name">Yunting</string>
+    <string name="open_car3d">Open vehicle model</string>
+    <string name="open_card">Open card</string>
+    <string name="open_map">Open map</string>
+    <string name="open_window">Open all windows</string>
+    <string name="open_window_on">Close windows</string>
+    <string name="outside_close">点击空白处关闭</string>
+    <string name="oversea_online_media_app_name">Online Media</string>
+    <string name="parking_comfort">Parking comfort</string>
+    <string name="part_glass">Partition glass lowering</string>
+    <string name="part_glass_on">Partition glass rising</string>
+    <string name="password_toggle_content_description">Show password</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="phone_charge">Wireless phone charging</string>
+    <string name="pip_close">Close PIP</string>
+    <string name="pip_fullscreen">Full screen</string>
+    <string name="pip_menu_bounds">596 280 1324 690</string>
+    <string name="pip_menu_title">Menu</string>
+    <string name="pip_notification_message">"If you don't want %s to use this feature, tap to open settings and turn it off."</string>
+    <string name="pip_notification_title">%s is in picture-in-picture</string>
+    <string name="pip_notification_unknown_title">(No title program)</string>
+    <string name="pip_pause">Pause</string>
+    <string name="pip_phone_close">Close</string>
+    <string name="pip_phone_dismiss_hint">Drag down to dismiss</string>
+    <string name="pip_phone_enter_split">Enter split screen</string>
+    <string name="pip_phone_expand">Expand</string>
+    <string name="pip_phone_minimize">Minimize</string>
+    <string name="pip_phone_settings">Settings</string>
+    <string name="pip_play">Play</string>
+    <string name="pip_skip_to_next">Skip to next</string>
+    <string name="pip_skip_to_prev">Skip to previous</string>
+    <string name="position_light">Position light</string>
+    <string name="prompt_drift_condition_battery_power">Vehicle battery >= 20%</string>
+    <string name="prompt_drift_condition_cancel">Not now</string>
+    <string name="prompt_drift_condition_check_title">Enabling conditions</string>
+    <string name="prompt_drift_condition_confirm">Enable Drift</string>
+    <string name="prompt_drift_condition_drive_mode">Switch drive mode to sport</string>
+    <string name="prompt_drift_condition_drive_system">Drive system normal</string>
+    <string name="prompt_drift_condition_esc_system">ESC system normal</string>
+    <string name="prompt_drift_condition_hot_manage_system">Thermal management system normal</string>
+    <string name="prompt_drift_condition_safety_belt">Driver and passenger seat belts are fastened</string>
+    <string name="prompt_drift_condition_speed">Speed &lt; 7 km/h</string>
+    <string name="prompt_drift_condition_steering_system">Steering system normal</string>
+    <string name="prompt_drift_condition_tire_pressure_system">Tire pressure system is normal</string>
+    <string name="prompt_drift_control_accept">Agree</string>
+    <string name="prompt_drift_disable_tips">Launch control enabled, Drift temporarily unavailable</string>
+    <string name="prompt_drift_error_tips">"Please ensure the following conditions are met and try again
+ 1. Battery > 20%
+ 2. Vehicle in D gear
+ 3. All occupants have fastened seat belts
+ 4. Drive system, ESC system, steering system, tire pressure system, and thermal management system are normal
+ 5. Sport mode switch is successful
+"</string>
+    <string name="prompt_drift_error_title">Failed to enable drift</string>
+    <string name="prompt_drift_i_know">Got it</string>
+    <string name="prompt_drift_tips" formatted="false">"Notes:
+ 1. This feature can only be enabled on racetracks or professional venues that comply with national safety standards. Do not enable it on public roads or unsafe places.
+ 2. When enabling drift, it is recommended to use the original drifting kit to ensure safety. Any damage to components due to improper use and overuse of drift are not covered by the warranty.
+ 3. drift requires advanced driving skills. Drivers need to have more than 3 years of driving experience . The driver shall assume full responsibility for any damage incurred due to improper operation or unauthorized modifications.
+ 
+ Instructions:
+ 1. This feature requires the driving mode to be set to “Sport” and the vehicle speed to be less than &lt;7 km/h. Ensure that all occupants have their seat belts fastened before activation. Seat belts must remain fastened at all times. If any seat belt is unfastened during a stop, drift mode will automatically exit.
+ 2. This feature can only be activated if the battery is > 20% SOC. If SOC &lt;is less than 20%, it will automatically exit;
+ 3. This feature can only be activated when the entire vehicle system is normal. If there is any abnormality, it will automatically exit;
+ 
+ After one-touch drifting feature is enabled:
+ 1. E-pedal and Autohold features are turned off by default;
+ 2. Automatically switches to “Sport” mode;
+ 3. ESC feature is turned off;
+ 4. Low regenerative braking level;
+ 5. “Launch Control” feature is automatically turned off (if this feature was activated).
+ 
+ Do you fully understand and agree to the above content?"</string>
+    <string name="prompt_drift_title">Drift User Notice</string>
+    <string name="prompt_guest_mode_tips">Feature unavailable in guest mode. Disable guest mode and try again</string>
+    <string name="prompt_launch_control_accept">Agree and proceed</string>
+    <string name="prompt_launch_control_content">"Warning: During launch control, you should maintain control of the vehicle and ensure the driving and usage environment is safe. Please only operate under safe conditions. Continuous use of launch control may result in a reduction in the vehicle's drive and braking system performance. Please exercise caution when using this feature. To ensure driving safety, please disable the feature when it is not in use.
+
+Notes:
+1. To enable launch control, shift to PARK, close all doors, and ensure both the driver and passengers have their seat belts fastened properly.
+2. Ensure the vehicle's powertrain is at normal temperature and the battery is sufficiently charged.
+3. Disable smart driving features, center the steering wheel, release the electronic parking brake, and shift to DRIVE. 
+ 
+Instructions:
+1. Tap the Launch control button.
+2. Fully press the brake pedal first, fully press the accelerator pedal, and release the brake pedal completely within 4s after the dashboard shows Launch control enabled. Then the vehicle will launch with great acceleration. (If the dashboard shows Failed to enable launch control, check the vehicle status following the instructions on the center display.)
+ 
+Do you fully understand and agree to the above content?"</string>
+    <string name="prompt_launch_control_cs1e_content">"Warning: During launch control, the driver is responsible for maintaining control of the vehicle at all times and ensuring the driving and usage environment is safe. Please only operate under safe conditions. Continuous use of launch control may result in a reduction in the vehicle's drive and braking system performance. Please exercise caution when using this feature. To ensure driving safety, please disable the feature when it is not in use.
+Notes: 
+1. Launch control shall be enabled while the vehicle is parked. Please ensure the doors are closed and the driver and passengers have their seat belts fastened properly. 
+2. Ensure the vehicle's power system is at normal temperature and the battery is sufficiently charged. 
+3. Disable smart driving features, center the steering wheel, release the electronic parking brake, and shift to Drive.
+Instructions:
+1. Tap the Launch control button. 
+2. Fully press the brake pedal first, then fully press the accelerator pedal and release the brake pedal completely within 4 seconds. The vehicle will launch with great acceleration.
+3. To offer an optimal experience, the drive mode will automatically switch to Sport after the feature is enabled.
+Do you fully understand and agree to the above content?"</string>
+    <string name="prompt_launch_control_disable_tips">Drift enabled, launch control temporarily unavailable</string>
+    <string name="prompt_launch_control_race_content">"Warning: During Launch Control, the driver is responsible for maintaining control of the vehicle at all times and ensuring the driving and usage environment is safe. Please only operate under safe conditions. Continuous use of Launch Control may result in a reduction in the vehicle's drive and braking system performance. Please exercise caution when using this feature. To ensure driving safety, please disable the feature when it is not in use.
+ 
+Notes: 
+1. The Launch Control feature shall be enabled while the vehicle is parked. Please ensure the doors are closed and the driver and passengers have their seat belts fastened properly. 
+2. Ensure the vehicle's power system is at normal temperature and the battery is sufficiently charged. 
+3. Disable smart driving features, straighten the steering wheel, release the electronic parking brake, and shift to Drive. 
+ 
+ Instructions: 
+1. Tap the “Launch Control” button. 
+2. Fully press the brake pedal first, then fully press the accelerator pedal and release the brake pedal completely within 4 seconds. The vehicle will launch with great acceleration.
+ 3. To ensure the best experience, the driving mode will automatically switch to “Sport mode” after the feature is enabled. After the feature is disabled, it will remain in Sport mode. Switching to other driving modes will automatically disable the “Launch Control” feature. (In ZEEKR Track - Vehicle Control Activation Available, it will not switch to Sport mode.)
+ 4. Once enabled, ZEEKR Track-Drift mode will be unavailable. 
+ 
+Do you fully understand and agree to the above content?"</string>
+    <string name="prompt_launch_control_title">Launch Control User Notice</string>
+    <string name="prompt_saving_mode_tips">Feature unavailable in super ECO mode. Disable this mode and try again</string>
+    <string name="pull_to_refresh">下拉刷新</string>
+    <string name="pullup_to_load">上拉加载更多</string>
+    <string name="qq_app_name">QQ music</string>
+    <string name="racing_mode">Race mode</string>
+    <string name="rear_charging_cap">Rear charging flap</string>
+    <string name="rear_fog_lamps">Rear fog light</string>
+    <string name="recent_apps">Recents</string>
+    <string name="refresh_fail">刷新失败</string>
+    <string name="refresh_succeed">刷新成功</string>
+    <string name="refreshing">正在刷新...</string>
+    <string name="release_to_load">释放立即加载</string>
+    <string name="release_to_refresh">释放立即刷新</string>
+    <string name="remove">Remove</string>
+    <string name="remove_mini_app">Remove Mini Program</string>
+    <string name="reset_internet">Network restart</string>
+    <string name="restart_button_description">Tap to restart this app and go full screen.</string>
+    <string name="right_opposite_door">Right doors</string>
+    <string name="right_switch_disabled">Right Switch Disabled</string>
+    <string name="right_window_lock">Right lock</string>
+    <string name="scarp_cruised">Hill descent control</string>
+    <string name="scenario_customize_auto_title">Automatic scene</string>
+    <string name="scenario_customize_card_title">场景工坊</string>
+    <string name="scenario_customize_edit_cancel">Cancel</string>
+    <string name="scenario_customize_edit_finish">Finish</string>
+    <string name="scenario_customize_edit_group_custom_label">Customization</string>
+    <string name="scenario_customize_edit_tips">Press and hold to drag the function to the left of the app card. When dragging, you can replace and sort the existing apps</string>
+    <string name="scenario_customize_manual_title">Manual scene</string>
+    <string name="search_menu_title">Search</string>
+    <string name="searchbar_scrolling_view_behavior">com.google.android.material.search.SearchBar$ScrollingViewBehavior</string>
+    <string name="searchview_clear_text_content_description">Clear text</string>
+    <string name="searchview_navigation_content_description">Back</string>
+    <string name="see_back_row">宝贝照看</string>
+    <string name="see_more">查看更多</string>
+    <string name="sensors_analytics_ad_channel">当前为渠道包，无法使用联调诊断工具</string>
+    <string name="sensors_analytics_ad_create_link_callback_missing">未设置回调对象</string>
+    <string name="sensors_analytics_ad_create_link_channel_name_missing">渠道名缺少</string>
+    <string name="sensors_analytics_ad_create_link_common_redirect_url_missing">通用跳转链接缺少</string>
+    <string name="sensors_analytics_ad_create_link_custom_url_error">自定义域名未填写或者格式不对</string>
+    <string name="sensors_analytics_ad_create_link_no_network">没有检测到网络连接</string>
+    <string name="sensors_analytics_ad_create_link_response_data_error">后端返回数据异常</string>
+    <string name="sensors_analytics_ad_create_link_success">Slink 创建成功</string>
+    <string name="sensors_analytics_ad_create_link_template_id_missing">Slink 模板 ID 缺少</string>
+    <string name="sensors_analytics_ad_create_link_token_missing">token 缺少</string>
+    <string name="sensors_analytics_ad_dialog_activate">激活</string>
+    <string name="sensors_analytics_ad_dialog_cancel">取消</string>
+    <string name="sensors_analytics_ad_dialog_content">此模式下不需要卸载 App，点击“激活”按钮可反复触发激活</string>
+    <string name="sensors_analytics_ad_dialog_ok">确定</string>
+    <string name="sensors_analytics_ad_dialog_starting">即将开启联调模式</string>
+    <string name="sensors_analytics_ad_dialog_title">成功开启调试模式</string>
+    <string name="sensors_analytics_ad_error_debug_fail_content">"1. 开启 App 时拒绝“电话”授权；
+ + 2. 手机系统权限设置中是否关闭“电话”授权；
+ + 3. 请联系研发人员确认是否“调用 trackInstallation 接口在获取“电话”授权之后。
+
+  + 排查修复后，请先卸载应用并重新安装，再扫码进行联调。"</string>
+    <string name="sensors_analytics_ad_error_debug_fail_title">检测到 “设备码为空”，可能原因如下，请排查：</string>
+    <string name="sensors_analytics_ad_error_network">当前网络不可用，请检查网络！</string>
+    <string name="sensors_analytics_ad_error_project">App 集成的项目与电脑浏览器打开的项目不同，无法使用联调诊断工具</string>
+    <string name="sensors_analytics_ad_error_request">网络异常,请求失败!</string>
+    <string name="sensors_analytics_ad_error_retry">无法重连，请检查是否更换了联调手机</string>
+    <string name="sensors_analytics_ad_error_url">数据接收地址错误，无法使用联调诊断工具</string>
+    <string name="sensors_analytics_ad_error_whitelist">添加白名单请求失败，请联系神策技术支持人员排查问题!</string>
+    <string name="sensors_analytics_ad_listener">未调用 setDeepLinkCompletion 方法设置回调函数</string>
+    <string name="sensors_analytics_ad_whitelist_platform_error">请使用 iOS 设备类型扫码</string>
+    <string name="sensors_analytics_ad_whitelist_project_error">设备白名单配置项目与事件上报项目不一致</string>
+    <string name="sensors_analytics_ad_whitelist_request_falied">请求失败，请重新扫码</string>
+    <string name="sensors_analytics_ad_whitelist_request_success">请求成功</string>
+    <string name="sensors_analytics_carrier">{\"334040\":\"AT&amp;T/IUSACell\",\"42577\":\"Hot Mobile/Mirs\",\"45417\":\"Vodafone/SmarTone\",\"44032\":\"NTT Docomo\",\"24802\":\"Radiolinja Eesti\",\"376352\":\"IslandCom Communications Ltd.\",\"74000\":\"MOVISTAR/OteCel\",\"44040\":\"SoftBank Mobile Corp\",\"40411\":\"Sterling Cellular Ltd.\",\"25092\":\"Printelefone\",\"50506\":\"H3G Ltd.\",\"44009\":\"NTT Docomo\",\"25568\":\"Beeline\",\"22001\":\"Telenor/Mobtel\",\"35830\":\"Cingular Wireless\",\"311830\":\"Thumb Cellular Limited Partnership\",\"25704\":\"BeST\",\"44017\":\"NTT Docomo\",\"41820\":\"ZAIN/Atheer/Orascom\",\"50514\":\"AAPT Ltd. \",\"41305\":\"Airtel\",\"23402\":\"O2 Ltd.\",\"29341\":\"Mobitel\",\"44025\":\"NTT Docomo\",\"311270\":\"Verizon Wireless\",\"45418\":\"CSL Ltd.\",\"23410\":\"O2 Ltd.\",\"44033\":\"NTT Docomo\",\"40404\":\"Idea Cellular Ltd.\",\"24803\":\"Tele2 Eesti AS\",\"74001\":\"Claro/Port\",\"44041\":\"SoftBank Mobile Corp\",\"40412\":\"Escotel Mobile Communications\",\"26606\":\"CTS Mobile\",\"41805\":\"Asia Cell\",\"41677\":\"Orange/Petra\",\"46699\":\"TransAsia\",\"25093\":\"Telecom XXL\",\"311282\":\"Verizon Wireless\",\"50507\":\"Vodafone\",\"30801\":\"Ameris\",\"22002\":\"Telenor/Mobtel\",\"404045\":\"Bharti Airtel Limited (Karnataka) (India)\",\"44018\":\"NTT Docomo\",\"23403\":\"Airtel/Vodafone\",\"44026\":\"NTT Docomo\",\"45419\":\"HKT/PCCW\",\"310740\":\"Telemetrix Inc.\",\"23411\":\"O2 Ltd.\",\"44034\":\"NTT Docomo\",\"40405\":\"Fascel\",\"310460\":\"TMP Corporation\",\"346006\":\"Digicel Ltd.\",\"37650\":\"Digicel\",\"310180\":\"Cingular Wireless\",\"74002\":\"Alegro/Telcsa\",\"40413\":\"Barakhamba Sales &amp; Serv.\",\"40277\":\"TashiCell\",\"24804\":\"Top Connect OU\",\"44042\":\"SoftBank Mobile Corp\",\"467193\":\"Sun Net\",\"50508\":\"Railcorp/Vodafone\",\"44050\":\"KDDI Corporation\",\"22003\":\"MTS/Telekom Srbija\",\"21601\":\"Pannon/Telenor\",\"50516\":\"Victorian Rail Track Corp. (VicTrack)\",\"44019\":\"NTT Docomo\",\"311271\":\"Verizon Wireless\",\"50524\":\"Advanced Comm Tech Pty.\",\"44027\":\"NTT Docomo\",\"41830\":\"Orascom Telecom\",\"23412\":\"Railtrack Plc\",\"44035\":\"NTT Docomo\",\"65301\":\"SwaziTelecom\",\"302320\":\"mobilicity\",\"23420\":\"H3G Hutchinson\",\"90111\":\"InMarSAT\",\"73601\":\"Viva/Nuevatel\",\"40414\":\"Spice\",\"311283\":\"Verizon Wireless\",\"376050\":\"Digicel TCI Ltd\",\"20201\":\"Cosmote\",\"334030\":\"Movistar/Pegaso\",\"44051\":\"KDDI Corporation\",\"40422\":\"Idea Cellular Ltd.\",\"50509\":\"Airnet Commercial Australia Ltd..\",\"366020\":\"Cingular Wireless/Digicel\",\"44043\":\"SoftBank Mobile Corp\",\"40430\":\"Usha Martin Telecom\",\"41308\":\"H3G Hutchison \",\"44028\":\"NTT Docomo\",\"36251\":\"TELCELL GSM\",\"44036\":\"NTT Docomo\",\"40407\":\"Idea Cellular Ltd.\",\"45429\":\"HKT/PCCW\",\"90112\":\"Maritime Communications Partner AS\",\"44044\":\"SoftBank Mobile Corp\",\"73602\":\"Entel Pcs\",\"311260\":\"SLO Cellular Inc / Cellular One of San Luis\",\"65310\":\"Swazi MTN\",\"40415\":\"Aircel Digilink India\",\"26609\":\"eazi telecom\",\"20202\":\"Cosmote\",\"41808\":\"Sanatel\",\"44052\":\"KDDI Corporation\",\"20210\":\"Tim/Wind\",\"22005\":\"VIP Mobile\",\"44060\":\"NTT Docomo\",\"311272\":\"Verizon Wireless\",\"50526\":\"Dialogue Communications Pty Ltd\",\"44029\":\"NTT Docomo\",\"90105\":\"Thuraya Satellite\",\"35850\":\"Digicel (St Lucia) Limited\",\"23414\":\"HaySystems\",\"732187\":\"eTb\",\"44037\":\"NTT Docomo\",\"41840\":\"Korek\",\"64901\":\"MTC\",\"90113\":\"Antarctica\",\"23422\":\"Routotelecom\",\"44045\":\"SoftBank Mobile Corp\",\"73603\":\"Tigo\",\"40416\":\"Hexcom India\",\"63001\":\"Vodacom\",\"23430\":\"Everyth. Ev.wh./T-Mobile\",\"20203\":\"OTE Hellenic Telecommunications Organization SA\",\"311284\":\"Verizon Wireless\",\"40424\":\"Idea Cellular Ltd.\",\"310730\":\"United States Cellular Corp.\",\"310450\":\"Northeast Colorado Cellular Inc.\",\"44053\":\"KDDI Corporation\",\"44061\":\"NTT Docomo\",\"310170\":\"AT&amp;T Wireless Inc.\",\"50519\":\"Lycamobile Pty Ltd\",\"64282\":\"Spacetel / Econet / Leo \",\"55201\":\"Palau National Communications Corp. (PNCC) (Palau\",\"23407\":\"Cable and Wireless \",\"364390\":\"Bahamas Telco. Comp.\",\"23415\":\"Vodafone\",\"44038\":\"NTT Docomo\",\"40409\":\"Reliance Telecom Private\",\"64902\":\"Switch/Nam. Telec.\",\"90114\":\"AeroMobile\",\"23423\":\"Vectofone Mobile Wifi\",\"44046\":\"SoftBank Mobile Corp\",\"708001\":\"SERCOM/CLARO\",\"40417\":\"Aircel\",\"63002\":\"Airtel/ZAIN\",\"23431\":\"Everyth. Ev.wh./T-Mobile\",\"29370\":\"Telemach/TusMobil/VEGA\",\"20204\":\"Organismos Sidirodromon Ellados (OSE)\",\"40425\":\"Aircel\",\"45447\":\"shared by private TETRA systems\",\"44054\":\"KDDI Corporation\",\"44062\":\"NTT Docomo\",\"62101\":\"Visafone\",\"40433\":\"Aircel\",\"311273\":\"Verizon Wireless\",\"70401\":\"Claro\",\"23408\":\"OnePhone\",\"44070\":\"KDDI Corporation\",\"40441\":\"RPG Cellular\",\"334020\":\"TelCel/America Movil\",\"23416\":\"Opal Telecom\",\"44039\":\"NTT Docomo\",\"63510\":\"MTN/Rwandacell\",\"64903\":\"Leo / Orascom\",\"23424\":\"Stour Marine\",\"44047\":\"SoftBank Mobile Corp\",\"40418\":\"Reliance Telecom Private\",\"62601\":\"CSTmovel\",\"311285\":\"Verizon Wireless\",\"23432\":\"Everyth. Ev.wh./T-Mobile\",\"20205\":\"Vodafone\",\"25099\":\"BeeLine/VimpelCom\",\"311810\":\"Bluegrass Wireless LLC\",\"44055\":\"KDDI Corporation\",\"44063\":\"NTT Docomo\",\"40434\":\"BSNL\",\"311250\":\"Wave Runner LLC\",\"54801\":\"Telecom Cook Islands\",\"70402\":\"TIGO/COMCEL\",\"23409\":\"Tismi\",\"44071\":\"KDDI Corporation\",\"40442\":\"Aircel\",\"23417\":\"FlexTel\",\"61201\":\"Comstar\",\"40450\":\"Reliance Telecom Private\",\"21630\":\"T-mobile/Magyar\",\"360050\":\"Digicel\",\"23425\":\"Truphone\",\"44048\":\"SoftBank Mobile Corp\",\"52000\":\"Hutch/CAT CDMA\",\"708002\":\"Telefonica/CELTEL\",\"40419\":\"Escotel Mobile Communications\",\"23433\":\"Everyth. Ev.wh./Orange\",\"732130\":\"Avantel SAS\",\"29364\":\"T-2 d.o.o.\",\"44056\":\"KDDI Corporation\",\"310990\":\"E.N.M.R. Telephone Coop.\",\"20214\":\"CyTa Mobile\",\"44064\":\"NTT Docomo\",\"70267\":\"DigiCell\",\"61701\":\"Orange/Cellplus\",\"311274\":\"Verizon Wireless\",\"29001\":\"Tele Greenland\",\"70403\":\"Telefonica\",\"44072\":\"KDDI Corporation\",\"732142\":\"UNE EPM Telecomunicaciones SA ESP\",\"310440\":\"Dobson Cellular Systems\",\"502195\":\"XOX Com Sdn Bhd\",\"23418\":\"Cloud9/wire9 Tel.\",\"61202\":\"Atlantik Tel./Moov\",\"45601\":\"Mobitel/Cam GSM\",\"44080\":\"KDDI Corporation\",\"310160\":\"T-Mobile\",\"53901\":\"Tonga Communications\",\"23426\":\"Lycamobile\",\"44049\":\"NTT Docomo\",\"52001\":\"AIS/Advanced Info Service\",\"374140\":\"LaqTel Ltd.\",\"29501\":\"Swisscom FL AG\",\"23434\":\"Everyth. Ev.wh./Orange\",\"732154\":\"Virgin Mobile Colombia SAS\",\"20207\":\"AMD Telecom SA\",\"40428\":\"Aircel\",\"63005\":\"SuperCell\",\"311286\":\"Verizon Wireless\",\"40451\":\"BSNL\",\"60301\":\"ATM Mobils\",\"40436\":\"Reliance Telecom Private\",\"61702\":\"Mahanagar Telephone\",\"70268\":\"International Telco (INTELCO)\",\"44065\":\"NTT Docomo\",\"23450\":\"Jersey Telecom\",\"44073\":\"KDDI Corporation\",\"40444\":\"Spice\",\"61710\":\"Emtel Ltd\",\"52501\":\"Singtel\",\"44081\":\"KDDI Corporation\",\"62120\":\"Airtel/ZAIN/Econet\",\"61203\":\"Orange\",\"41845\":\"Mobitel (Iraq-Kurdistan) and Moutiny\",\"23419\":\"PMN/Teleware\",\"45602\":\"Smart Mobile\",\"63513\":\"TIGO\",\"23427\":\"Vodafone\",\"334010\":\"NEXTEL\",\"40460\":\"Aircel Digilink India\",\"40452\":\"Reliance Telecom Private\",\"29502\":\"Orange\",\"23435\":\"JSC Ingenicum\",\"44058\":\"NTT Docomo\",\"40429\":\"Aircel\",\"60302\":\"Orascom / DJEZZY\",\"60801\":\"Orange/Sonatel\",\"44066\":\"NTT Docomo\",\"311275\":\"Verizon Wireless\",\"61703\":\"Mahanagar Telephone\",\"50571\":\"Telstra Corp. Ltd.\",\"28601\":\"Turkcell\",\"44074\":\"KDDI Corporation\",\"23451\":\"Jersey Telecom\",\"311800\":\"Bluegrass Wireless LLC\",\"52502\":\"Singtel\",\"44082\":\"KDDI Corporation\",\"35001\":\"Telecommunications (Bermuda &amp; West Indies) Ltd (Digicel Bermuda)\",\"61204\":\"Comium\",\"45603\":\"QB/Cambodia Adv. Comms.\",\"63514\":\"Airtel\",\"40453\":\"BSNL\",\"44090\":\"SoftBank Mobile Corp\",\"23428\":\"Marthon Telecom\",\"311287\":\"Verizon Wireless\",\"52003\":\"Advanced Wireless Networks/AWN\",\"60802\":\"TIGO/Sentel GSM\",\"23436\":\"Cable and Wireless Isle of Man\",\"20209\":\"Tim/Wind\",\"60303\":\"Oreedo/Wataniya / Nedjma \",\"27201\":\"Vodafone Eircell\",\"44067\":\"NTT Docomo\",\"40438\":\"BSNL\",\"50572\":\"Telstra Corp. Ltd.\",\"28602\":\"Vodafone-Telsim\",\"43801\":\"MTS/Barash Communication\",\"44075\":\"KDDI Corporation\",\"52503\":\"MobileOne Ltd\",\"310980\":\"AT&amp;T Wireless Inc.\",\"44083\":\"KDDI Corporation\",\"35002\":\"M3 Wireless Ltd\",\"61205\":\"MTN\",\"50201\":\"Art900\",\"45604\":\"Cambodia Advance Communications Co. Ltd (CADCOMMS)\",\"40454\":\"BSNL\",\"35010\":\"DigiCel / Cingular\",\"62130\":\"MTN\",\"310710\":\"Arctic Slope Telephone Association Cooperative Inc.\",\"52004\":\"True Move/Orange\",\"36403\":\"Smart Communications\",\"40462\":\"BSNL\",\"23437\":\"Synectiv Ltd.\",\"40470\":\"Hexacom India\",\"310430\":\"GCI Communication Corp.\",\"60803\":\"Expresso/Sudatel\",\"27202\":\"Three/O2/Digifone\",\"310150\":\"AT&amp;T Wireless Inc.\",\"44068\":\"NTT Docomo\",\"311276\":\"Verizon Wireless\",\"36291\":\"SETEL GSM\",\"52020\":\"ACeS Thailand - ACeS Regional Services Co Ltd\",\"374130\":\"Digicel\",\"28603\":\"AVEA/Aria\",\"43802\":\"Altyn Asyr/TM-Cell\",\"44076\":\"KDDI Corporation\",\"44084\":\"KDDI Corporation\",\"45605\":\"Smart Mobile\",\"61206\":\"OriCell\",\"40455\":\"BSNL\",\"52512\":\"GRID Communications Pte Ltd\",\"44092\":\"SoftBank Mobile Corp\",\"42901\":\"NT Mobile / Namaste\",\"28967\":\"Aquafon\",\"312040\":\"Custer Telephone Cooperative Inc.\",\"52005\":\"Total Access (DTAC)\",\"50210\":\"Digi Telecommunications\",\"29505\":\"Telecom FL1 AG\",\"41001\":\"Mobilink\",\"344030\":\"APUA PCS\",\"40471\":\"BSNL\",\"311288\":\"Verizon Wireless\",\"27203\":\"Meteor Mobile Ltd.\",\"26801\":\"Vodafone\",\"42402\":\"Etisalat\",\"44069\":\"NTT Docomo\",\"27211\":\"Tesco Mobile/Liffey Telecom\",\"28604\":\"AVEA/Aria\",\"44077\":\"KDDI Corporation\",\"52505\":\"Starhub\",\"41501\":\"MIC1 (Alfa)\",\"44085\":\"KDDI Corporation\",\"45606\":\"Smart Mobile\",\"61207\":\"Aircomm SA\",\"40456\":\"Escotel Mobile Communications\",\"36269\":\"Polycom N.V./ Digicel\",\"50590\":\"Singtel Optus\",\"44093\":\"SoftBank Mobile Corp\",\"40464\":\"BSNL\",\"28968\":\"A-Mobile\",\"50211\":\"MTX Utara\",\"42902\":\"Ncell\",\"29506\":\"CUBIC (Liechtenstein\",\"62140\":\"M-Tel/Nigeria Telecom. Ltd.\",\"40472\":\"BSNL\",\"27204\":\"Access Telecom Ltd.\",\"40480\":\"BSNL\",\"42403\":\"DU\",\"311277\":\"Verizon Wireless\",\"40101\":\"Beeline/KaR-Tel LLP\",\"23455\":\"Guernsey Telecoms\",\"502151\":\"Baraka Telecom Sdn Bhd\",\"44078\":\"Okinawa Cellular Telephone\",\"338050\":\"DIGICEL/Mossel\",\"502198\":\"CelCom\",\"52506\":\"Starhub\",\"25901\":\"Orange/Voxtel\",\"44086\":\"KDDI Corporation\",\"62125\":\"Visafone\",\"24001\":\"Telia Mobile\",\"40457\":\"BSNL\",\"311289\":\"Verizon Wireless\",\"44094\":\"SoftBank Mobile Corp\",\"50212\":\"Maxis\",\"41003\":\"UFONE/PAKTel\",\"29507\":\"First Mobile AG\",\"40473\":\"BSNL\",\"722070\":\"Movistar/Telefonica\",\"50220\":\"Electcoms Wireless Sdn Bhd\",\"52015\":\"ACT Mobile\",\"310690\":\"Keystone Wireless LLC\",\"26803\":\"NOS/Optimus\",\"27205\":\"Three/H3G\",\"40481\":\"BSNL\",\"350000\":\"Bermuda Digital Communications Ltd (BDC)\",\"52023\":\"Digital Phone Co.\",\"27213\":\"Lycamobile\",\"40102\":\"K-Cell\",\"310700\":\"Cross Valliant Cellular Partnership\",\"27077\":\"Millicom Tango GSM\",\"36430\":\"Bahamas Telco. Comp.\",\"44079\":\"KDDI Corporation\",\"41882\":\"Korek\",\"310420\":\"Cincinnati Bell Wireless LLC\",\"25902\":\"Moldcell\",\"52507\":\"Singtel\",\"310140\":\"GTA Wireless\",\"41503\":\"MIC2/LibanCell/MTC\",\"24002\":\"H3G Access AB\",\"45608\":\"Metfone\",\"44087\":\"NTT Docomo\",\"40458\":\"BSNL\",\"44095\":\"SoftBank Mobile Corp\",\"40466\":\"BSNL\",\"24010\":\"Spring Mobil AB\",\"50213\":\"CelCom\",\"374120\":\"Bmobile/TSTT\",\"41004\":\"ZONG/CMPak\",\"42904\":\"Smart Cell\",\"40474\":\"BSNL\",\"23101\":\"Orange\",\"26804\":\"Lycamobile\",\"40482\":\"Escorts Telecom Ltd.\",\"311278\":\"Verizon Wireless\",\"62150\":\"Glo Mobile\",\"36295\":\"EOCG Wireless NV\",\"312030\":\"Cross Wireless Telephone Co.\",\"23457\":\"Sky UK Limited\",\"502152\":\"YES\",\"22200\":\"VOIP Line\",\"21670\":\"Vodafone\",\"25903\":\"IDC/Unite \",\"44088\":\"KDDI Corporation\",\"45609\":\"Sotelco/Beeline\",\"40459\":\"BSNL\",\"44096\":\"SoftBank Mobile Corp\",\"732111\":\"TIGO/Colombia Movil\",\"24011\":\"Lindholmen Science Park AB\",\"40467\":\"Reliance Telecom Private\",\"40475\":\"BSNL\",\"23102\":\"T-Mobile\",\"27207\":\"eircom Ltd\",\"40483\":\"Reliable Internet Services\",\"311490\":\"Sprint Spectrum\",\"732123\":\"Movistar\",\"23458\":\"Manx Telecom\",\"311500\":\"Cambridge Telephone Company Inc.\",\"22201\":\"TIM\",\"21671\":\"UPC Magyarorszag Kft.\",\"25904\":\"Eventis Mobile\",\"311220\":\"United States Cellular Corp.\",\"358110\":\"Cable &amp; Wireless\",\"44089\":\"KDDI Corporation\",\"24004\":\"H3G Access AB\",\"41892\":\"Itisaluna and Kalemat\",\"44097\":\"SoftBank Mobile Corp\",\"45618\":\"MFone/Camshin/Cellcard\",\"24012\":\"Lycamobile Ltd\",\"40468\":\"Mahanagar Telephone Nigam\",\"41006\":\"Telenor\",\"40476\":\"BSNL\",\"24020\":\"Wireless Maingate AB\",\"23103\":\"4Ka\",\"52018\":\"Total Access (DTAC)\",\"26806\":\"MEO/TMN\",\"311279\":\"Verizon Wireless\",\"28988\":\"A-Mobile\",\"722340\":\"Telecom Personal S.A.\",\"502153\":\"Webe/Packet One Networks (Malaysia) Sdn Bhd\",\"62160\":\"ETISALAT\",\"310960\":\"Uintah Basin Electronics Telecommunications Inc.\",\"22202\":\"Elsacom\",\"25905\":\"IDC/Unite \",\"310680\":\"AT&amp;T Wireless Inc.\",\"22210\":\"Vodafone\",\"24005\":\"Svenska UMTS-N\",\"23475\":\"Inquam Telecom Ltd\",\"44098\":\"SoftBank Mobile Corp\",\"40469\":\"Mahanagar Telephone Nigam\",\"310410\":\"AT&amp;T Wireless Inc.\",\"50216\":\"Digi Telecommunications\",\"24013\":\"Ventelo Sverige AB\",\"41007\":\"Warid Telecom\",\"310130\":\"North Carolina RSA 3 Cellular Tel. Co.\",\"40477\":\"BSNL\",\"23104\":\"T-Mobile\",\"23491\":\"Vodafone\",\"27209\":\"Clever Communications Ltd\",\"26807\":\"NOS/Optimus\",\"40485\":\"Reliance Telecom Private\",\"750001\":\"Cable and Wireless South Atlantic Ltd (Falkland Islands\",\"65001\":\"TNM/Telekom Network Ltd.\",\"312290\":\"Uintah Basin Electronics Telecommunications Inc.\",\"53943\":\"Shoreline Communication\",\"50588\":\"Localstar Holding Pty. Ltd\",\"24006\":\"Telenor (Vodafone)\",\"23476\":\"BT Group\",\"44099\":\"NTT Docomo\",\"24014\":\"TDC Sverige AB\",\"50217\":\"Maxis\",\"72400\":\"Nextel (Telet)\",\"41008\":\"Instaphone\",\"65501\":\"Vodacom\",\"40478\":\"Idea Cellular Ltd.\",\"24022\":\"Eu Tel AB\",\"23105\":\"Orange\",\"23492\":\"Cable and Wireless \",\"73801\":\"DigiCel\",\"40486\":\"Barakhamba Sales &amp; Serv.\",\"24030\":\"NextGen Mobile Ltd (CardBoardFish)\",\"732101\":\"Comcel S.A. Occel S.A./Celcaribe\",\"722341\":\"Telecom Personal S.A.\",\"40107\":\"Dalacom/Altel\",\"502154\":\"Tron/Talk Focus Sdn Bhd\",\"65010\":\"Airtel/Zain/Celtel ltd.\",\"24007\":\"Tele2 Sverige AB\",\"311480\":\"Verizon Wireless\",\"23477\":\"BT Group\",\"64101\":\"Airtel/Celtel\",\"24015\":\"Wireless Maingate Nordic AB\",\"50218\":\"U Mobile\",\"72401\":\"Vivo S.A./Telemig \",\"21303\":\"Mobiland\",\"65502\":\"8.ta\",\"40479\":\"CellOne A&amp;N\",\"24023\":\"Infobip Ltd.\",\"23106\":\"O2\",\"73802\":\"Cellink Plus\",\"65510\":\"MTN\",\"41532\":\"Cellis\",\"40487\":\"Escorts Telecom Ltd.\",\"20402\":\"Tele2\",\"64601\":\"Airtel/MADACOM\",\"20410\":\"KPN Telecom B.V.\",\"21803\":\"Eronet Mobile\",\"27099\":\"Orange/VOXmobile S.A.\",\"722330\":\"Claro/ CTI/AMX\",\"24008\":\"Telenor (Vodafone)\",\"23478\":\"Wave Telecom Ltd\",\"55280\":\"Palau Mobile Corp. (PMC) (Palau\",\"310950\":\"Unknown\",\"50219\":\"CelCom\",\"24016\":\"42 Telecom AB\",\"72402\":\"TIM\",\"310670\":\"Northstar\",\"64110\":\"MTN Ltd.\",\"24024\":\"Telenor (Vodafone)\",\"72410\":\"Vivo S.A./Telemig \",\"310390\":\"Yorkville Telephone Cooperative\",\"41533\":\"Cellis\",\"63201\":\"GuineTel\",\"40488\":\"Escorts Telecom Ltd.\",\"732102\":\"Movistar\",\"23115\":\"Orange\",\"20403\":\"Voiceworks Mobile BV\",\"502155\":\"Samata Communications Sdn Bhd\",\"310400\":\"Minnesota South. Wirel. Co. / Hickory\",\"64602\":\"Orange/Soci\",\"23494\":\"H3G Hutchinson\",\"310120\":\"Sprint Spectrum\",\"22206\":\"Vodafone\",\"354860\":\"Cable &amp; Wireless \",\"311481\":\"Verizon Wireless\",\"50599\":\"Railcorp/Vodafone\",\"63701\":\"Telesom \",\"312280\":\"Cellular Network Partnership LLC\",\"24017\":\"Gotalandsnatet AB\",\"72403\":\"TIM\",\"64111\":\"Uganda Telecom Ltd.\",\"22230\":\"RFI Rete Ferroviaria Italiana SpA\",\"24025\":\"Digitel Mobile Srl\",\"72411\":\"Vivo S.A./Telemig \",\"41534\":\"FTML Cellis\",\"312010\":\"Missouri RSA No 5 Partnership\",\"65512\":\"MTN\",\"63202\":\"SpaceTel\",\"20404\":\"Vodafone Libertel\",\"40489\":\"Escorts Telecom Ltd.\",\"64603\":\"Sacel\",\"54001\":\"BREEZE\",\"20412\":\"KPN/Telfort\",\"22207\":\"Noverca Italia Srl\",\"21805\":\"M-Tel\",\"62301\":\"Centrafr. Telecom+\",\"63090\":\"Africell\",\"20420\":\"T-mobile/former Orange\",\"70601\":\"CLARO/CTE\",\"24018\":\"Generic Mobile Systems Sweden AB\",\"72404\":\"TIM\",\"63710\":\"Nationlink\",\"24026\":\"Beepsend\",\"72412\":\"Claro/Albra/America Movil\",\"41535\":\"Cellis\",\"62801\":\"Libertis S.A.\",\"732103\":\"TIGO/Colombia Movil\",\"63203\":\"Orange\",\"20405\":\"Elephant Talk Communications Premium Rate Services Netherlands BV\",\"65521\":\"Cape Town Metropolitan\",\"64604\":\"Telma\",\"54002\":\"bemobile\",\"36439\":\"Bahamas Telco. Comp.\",\"22208\":\"Fastweb SpA\",\"62302\":\"Telecel Centraf. \",\"54010\":\"BREEZE\",\"20421\":\"NS Railinfrabeheer B.V.\",\"311482\":\"Verizon Wireless\",\"70602\":\"Digicel\",\"338020\":\"Cable &amp; Wireless\",\"24019\":\"Mundio Mobile (Sweden) Ltd\",\"72405\":\"Claro/Albra/America Movil\",\"61401\":\"Orange/Sahelc.\",\"65506\":\"Sentech\",\"24027\":\"Fogg Mobile AB\",\"722320\":\"Claro/ CTI/AMX\",\"41536\":\"MIC2/LibanCell/MTC\",\"62802\":\"MOOV/Telecel\",\"37001\":\"Orange\",\"24035\":\"42 Telecom AB\",\"20406\":\"Mundio/Vectone Mobile\",\"310940\":\"Poka Lambro Telco Ltd.\",\"310660\":\"T-Mobile\",\"20414\":\"6GMOBILE BV\",\"310380\":\"AT&amp;T Wireless Inc.\",\"61901\":\"Airtel/Zain/Celtel\",\"29201\":\"Prima Telecom\",\"62303\":\"Orange/Celca\",\"70603\":\"Telemovil\",\"63704\":\"Somafone\",\"72406\":\"Vivo S.A./Telemig \",\"61402\":\"Airtel/Zain/CelTel\",\"64114\":\"Orange\",\"65507\":\"Cell C\",\"71021\":\"Empresa Nicaraguense de Telecomunicaciones SA (ENITEL)\",\"24028\":\"CoolTEL Aps\",\"22233\":\"PosteMobile SpA\",\"37002\":\"Claro\",\"41537\":\"MIC2/LibanCell/MTC\",\"62803\":\"Airtel/ZAIN/Celtel Gabon S.A.\",\"64122\":\"Airtel/Warid\",\"29701\":\"Telenor/Promonte GSM\",\"24036\":\"ID Mobile\",\"20407\":\"Teleena Holding BV\",\"312270\":\"Cellular Network Partnership LLC\",\"64130\":\"K2 Telecom Ltd\",\"60501\":\"Orange\",\"20415\":\"Ziggo BV\",\"72430\":\"Oi (TNL PCS / Oi)\",\"62304\":\"Nationlink\",\"61902\":\"Tigo/Millicom\",\"311483\":\"Verizon Wireless\",\"20423\":\"Aspider Solutions\",\"70604\":\"Telefonica\",\"72407\":\"CTBC/Triangulo \",\"61403\":\"MOOV/TeleCel\",\"28301\":\"ArmenTel/Beeline\",\"22234\":\"BT Italia SpA\",\"24029\":\"Mercury International Carrier Services\",\"72415\":\"Sercontel Cel\",\"37003\":\"TRIcom\",\"41538\":\"MIC2/LibanCell/MTC\",\"62804\":\"Azur/Usan S.A.\",\"71030\":\"Movistar\",\"29702\":\"Monet/T-mobile\",\"20408\":\"KPN Telecom B.V.\",\"72423\":\"Vivo S.A./Telemig \",\"60502\":\"TuniCell/Tunisia Telecom\",\"63086\":\"Orange RDC sarl\",\"20416\":\"T-Mobile B.V.\",\"72431\":\"Oi (TNL PCS / Oi)\",\"61903\":\"Africel\",\"311460\":\"Fisher Wireless Services Inc.\",\"20424\":\"Private Mobility Nederland BV\",\"28801\":\"Faroese Telecom\",\"70605\":\"INTELFON SA de CV\",\"72408\":\"TIM\",\"61404\":\"Orange/Sahelc.\",\"22235\":\"Lycamobile Srl\",\"72416\":\"Brazil Telcom\",\"37004\":\"Trilogy Dominicana S. A.\",\"41539\":\"MIC2/LibanCell/MTC\",\"28310\":\"Orange\",\"22243\":\"Telecom Italia Mobile SpA\",\"29703\":\"Mtel\",\"20409\":\"Lycamobile Ltd\",\"72424\":\"Amazonia Celular S/A\",\"63730\":\"Golis\",\"60503\":\"Oreedo/Orascom\",\"27401\":\"Siminn\",\"43002\":\"Etisalat\",\"20417\":\"Intercity Mobile Communications BV\",\"72432\":\"CTBC Celular SA (CTBC)\",\"405034\":\"TATA / Karnataka\",\"61904\":\"Comium\",\"311484\":\"Verizon Wireless\",\"722310\":\"Claro/ CTI/AMX\",\"28802\":\"Kall GSM\",\"42101\":\"Sabaphone\",\"310650\":\"Jasper\",\"310370\":\"Docomo\",\"310090\":\"Edge Wireless LLC\",\"26001\":\"Polkomtel/Plus\",\"22244\":\"WIND (Blu) -\",\"310100\":\"Plateau Telecommunications Inc.\",\"64133\":\"Smile Communications Uganda Ltd\",\"63088\":\"Yozma Timeturns sprl (YTT)\",\"27402\":\"Vodafone/Tal hf\",\"20418\":\"UPC Nederland BV\",\"72433\":\"CTBC Celular SA (CTBC)\",\"42601\":\"Batelco\",\"61905\":\"Africel\",\"302780\":\"Sask Tel Mobility\",\"28803\":\"Edge Mobile Sp/F\",\"42102\":\"MTN/Spacetel\",\"64118\":\"Suretelecom Uganda Ltd\",\"28304\":\"Karabakh Telecom\",\"26002\":\"T-Mobile/ERA\",\"65519\":\"Wireless Business Solutions (Pty) Ltd\",\"41201\":\"Afghan Wireless/AWCC\",\"29577\":\"Alpmobile/Tele2\",\"26010\":\"Sferia\",\"63089\":\"TIGO/Oasis\",\"27403\":\"Vodafone/Tal hf\",\"72434\":\"CTBC Celular SA (CTBC)\",\"42602\":\"ZAIN/Vodafone\",\"311485\":\"Verizon Wireless\",\"27411\":\"NOVA\",\"346140\":\"LIME / Cable &amp; Wirel.\",\"33401\":\"NEXTEL\",\"42103\":\"Yemen Mob. CDMA\",\"41701\":\"Syriatel Holdings\",\"28305\":\"Vivacell\",\"72419\":\"Vivo S.A./Telemig \",\"311170\":\"PetroCom\",\"26003\":\"Orange/IDEA/Centertel\",\"26011\":\"NORDISK Polska\",\"60506\":\"TuniCell/Tunisia Telecom\",\"27404\":\"VIKING/IMC\",\"20428\":\"Lancelot BV\",\"33402\":\"TelCel/America Movil\",\"42104\":\"HITS/Y Unitel\",\"41702\":\"MTN/Spacetel\",\"24201\":\"Telenor\",\"54509\":\"Kiribati Frigate\",\"722020\":\"Nextel\",\"26004\":\"Tele2\",\"310920\":\"Get Mobile Inc.\",\"41203\":\"WaselTelecom (WT)\",\"26012\":\"Cyfrowy POLSAT S.A.\",\"310360\":\"Cellular Network Partnership LLC\",\"27405\":\"Vodafone/Tal hf\",\"42604\":\"VIVA\",\"311486\":\"Verizon Wireless\",\"24701\":\"Latvian Mobile Phone\",\"352110\":\"Cable &amp; Wireless\",\"33403\":\"Movistar/Pegaso\",\"24202\":\"Netcom\",\"63719\":\"HorTel\",\"312530\":\"Sprint Spectrum\",\"302490\":\"WIND\",\"26005\":\"Orange/IDEA/Centertel\",\"22248\":\"Telecom Italia Mobile SpA\",\"302500\":\"Videotron\",\"26013\":\"Sferia\",\"302220\":\"Telus Mobility\",\"72437\":\"Unicel do Brasil Telecomunicacoes Ltda\",\"41220\":\"Roshan/TDCA \",\"24702\":\"Tele2\",\"33404\":\"AT&amp;T/IUSACell\",\"61925\":\"Mobitel\",\"23801\":\"TDC Denmark\",\"24203\":\"Teletopia\",\"62199\":\"Starcomms\",\"26006\":\"Play/P4\",\"26014\":\"Sferia\",\"348570\":\"Caribbean Cellular\",\"27407\":\"IceCell\",\"311440\":\"Bluegrass Wireless LLC\",\"72438\":\"Claro/Albra/America Movil\",\"311487\":\"Verizon Wireless\",\"24703\":\"TRIATEL/Telekom Baltija\",\"72454\":\"PORTO SEGURO TELECOMUNICACOES\",\"63760\":\"Nationlink\",\"24204\":\"Tele2\",\"23802\":\"Telenor/Sonofon\",\"24212\":\"Telenor\",\"26007\":\"Play/P4\",\"23810\":\"TDC Denmark\",\"73000\":\"TESAM SA\",\"24220\":\"Jernbaneverket (GSM-R)\",\"26015\":\"Tele2\",\"74401\":\"Hola/VOX\",\"27408\":\"Siminn\",\"72439\":\"Nextel (Telet)\",\"722010\":\"Compania De Radiocomunicaciones Moviles SA\",\"310910\":\"Verizon Wireless\",\"40177\":\"Tele2/NEO/MTS\",\"41230\":\"Etisalat \",\"310350\":\"Mohave Cellular LP\",\"310070\":\"AT&amp;T Wireless Inc.\",\"23803\":\"Mach Connectivity ApS\",\"24205\":\"Network Norway AS\",\"73001\":\"Entel Telefonia Mov\",\"26008\":\"e-Telko\",\"24221\":\"Jernbaneverket (GSM-R)\",\"26016\":\"Mobyland\",\"74402\":\"Claro/Hutchison\",\"27409\":\"Amitelo\",\"302760\":\"Public Mobile\",\"311488\":\"Verizon Wireless\",\"52099\":\"True Move/Orange\",\"65201\":\"Mascom Wireless (Pty) Ltd.\",\"24705\":\"Bite\",\"24206\":\"ICE Nordisk Mobiltelefon AS\",\"23804\":\"NextGen Mobile Ltd (CardBoardFish)\",\"73002\":\"TELEFONICA\",\"26009\":\"Lycamobile\",\"23812\":\"Lycamobile Ltd\",\"24214\":\"ICE Nordisk Mobiltelefon AS\",\"65701\":\"Eritel\",\"24222\":\"Network Norway AS\",\"26017\":\"Aero2 SP\",\"23820\":\"Telia\",\"74403\":\"Compa\",\"73010\":\"Entel Telefonia\",\"20601\":\"Belgacom/Proximus\",\"24706\":\"SIA Rigatta\",\"65202\":\"Orange\",\"311710\":\"Northeast Wireless Networks LLC\",\"311430\":\"RSA 1 Limited Partnership\",\"41240\":\"Areeba/MTN\",\"23805\":\"ApS KBUS\",\"24207\":\"Ventelo AS\",\"64301\":\"mCel\",\"63771\":\"Somtel\",\"73003\":\"Claro\",\"21890\":\"BH Mobile\",\"24223\":\"Lycamobile Ltd\",\"26018\":\"AMD Telecom.\",\"74404\":\"Tigo/Telecel\",\"35099\":\"CellOne Ltd\",\"63400\":\"Canar Telecom\",\"311489\":\"Verizon Wireless\",\"73011\":\"Celupago SA\",\"20602\":\"SNCT/NMBS\",\"24707\":\"SIA Master Telecom\",\"64801\":\"Net One\",\"20610\":\"Mobistar/Orange\",\"33409\":\"NEXTEL\",\"22277\":\"IPSE 2000\",\"26034\":\"T-Mobile/ERA\",\"310890\":\"Verizon Wireless\",\"64166\":\"i-Tel Ltd\",\"41709\":\"Syriatel Holdings\",\"71201\":\"ICE\",\"24208\":\"TDC Mobil A/S\",\"23806\":\"H3G\",\"310900\":\"Cable &amp; Communications Corp.\",\"262n/a\":\"Talkline\",\"71073\":\"Claro\",\"73004\":\"Nextel SA\",\"310620\":\"Coleman County Telco /Trans TX\",\"310340\":\"Westlink Communications, LLC\",\"73012\":\"Telestar Movil SA\",\"74405\":\"TIM/Nucleo/Personal\"}</string>
+    <string name="sensors_analytics_carrier1">{\"63401\":\"ZAIN/Mobitel\",\"342050\":\"Digicel\",\"23830\":\"Telia\",\"24708\":\"SIA IZZI\",\"65204\":\"BeMOBILE\",\"26035\":\"PKP Polskie Linie Kolejowe S.A.\",\"71202\":\"ICE\",\"24209\":\"Com4 AS\",\"23807\":\"Mundio Mobile\",\"64303\":\"Movitel\",\"312230\":\"North Dakota Network Company\",\"41250\":\"Etisalat \",\"73005\":\"Nextel SA\",\"62001\":\"MTN\",\"73013\":\"Tribe Mobile SPA\",\"23823\":\"Banedanmark\",\"20468\":\"Unify Mobile\",\"63402\":\"MTN\",\"362951\":\"UTS Wireless\",\"24709\":\"SIA Camel Mobile\",\"33450\":\"AT&amp;T/IUSACell\",\"64803\":\"Telecel\",\"54201\":\"Vodafone\",\"26036\":\"Mundio Mobile Sp. z o.o.\",\"62501\":\"CV Movel\",\"20620\":\"Base/KPN\",\"71203\":\"Claro\",\"64304\":\"Vodacom\",\"63902\":\"Safaricom Ltd.\",\"73006\":\"Blue Two Chile SA\",\"62002\":\"Vodafone\",\"63782\":\"Somtel\",\"311420\":\"Northwest Missouri Cellular Limited Partnership\",\"73014\":\"Netline Telefonica Movil Ltda\",\"20469\":\"KPN Telecom B.V.\",\"311140\":\"Cross Wireless Telephone Co.\",\"316010\":\"Sprint Spectrum\",\"61101\":\"Orange/Sonatel/Spacetel\",\"45500\":\"Smartone Mobile\",\"20605\":\"Telenet BidCo NV\",\"64804\":\"Econet\",\"54202\":\"DigiCell\",\"62502\":\"T+ Telecom\",\"71204\":\"Movistar\",\"22288\":\"WIND (Blu) -\",\"63903\":\"Airtel/Zain/Celtel Ltd.\",\"732020\":\"UNE EPM Telecomunicaciones SA ESP\",\"73007\":\"TELEFONICA\",\"62003\":\"Milicom/Tigo\",\"61601\":\"Libercom\",\"25999\":\"IDC/Unite \",\"71220\":\"Virtualis\",\"73015\":\"Cibeles Telecom SA\",\"37201\":\"Comcel\",\"45501\":\"C.T.M. TELEMOVEL+\",\"61102\":\"SotelGui\",\"20606\":\"Lycamobile Belgium\",\"310610\":\"Elkhart TelCo. / Epic Touch Co.\",\"342600\":\"LIME\",\"26038\":\"CallFreedom Sp. z o.o.\",\"310330\":\"T-Mobile\",\"29401\":\"T-Mobile/Mobimak\",\"45002\":\"KT Freetel Co. Ltd.\",\"60201\":\"Orange/Mobinil\",\"73008\":\"VTR Banda Ancha SA\",\"62004\":\"Expresso Ghana Ltd\",\"61602\":\"Etisalat/MOOV\",\"51000\":\"PT Pasifik Satelit Nusantara (PSN)\",\"37202\":\"Digicel\",\"63405\":\"Vivacell\",\"312220\":\"Missouri RSA No 5 Partnership\",\"316011\":\"Southern Communications Services Inc.\",\"61103\":\"Intercel\",\"60701\":\"Gamcel\",\"28001\":\"Vodafone/CyTa\",\"23199\":\"Zeleznice Slovenskej republiky (ZSR)\",\"36301\":\"Setar GSM\",\"51500\":\"Fix Line\",\"29402\":\"ONE/Cosmofone\",\"45003\":\"SK Telecom\",\"60202\":\"Vodafone/Mirsfone \",\"63905\":\"Econet Wireless\",\"73009\":\"Nextel SA\",\"61603\":\"MTN/Spacetel\",\"51001\":\"Indosat/Satelindo/M3\",\"37203\":\"National Telecom SA (NatCom)\",\"36801\":\"C-COM\",\"63406\":\"ZAIN/Mobitel\",\"45503\":\"Hutchison Telephone Co. Ltd\",\"61104\":\"MTN/Areeba\",\"60702\":\"Africel\",\"54720\":\"Vini/Tikiphone\",\"311410\":\"Iowa RSA No. 2 Limited Partnership\",\"36302\":\"Digicel\",\"63422\":\"MTN\",\"28010\":\"MTN/Areeba\",\"29403\":\"VIP Mobile\",\"45004\":\"KT Freetel Co. Ltd.\",\"51501\":\"Globe Telecom\",\"60203\":\"ETISALAT\",\"22299\":\"Hi3G\",\"62006\":\"Airtel/ZAIN\",\"61604\":\"Bell Benin/BBCOM\",\"242017\":\"Ventelo AS\",\"43701\":\"Beeline/Bitel\",\"23828\":\"CoolTEL ApS\",\"51010\":\"Telkomsel\",\"63407\":\"Sudani One\",\"45504\":\"C.T.M. TELEMOVEL+\",\"61105\":\"Celcom\",\"63415\":\"Sudani One\",\"60703\":\"Comium\",\"27601\":\"AMC/Cosmote\",\"310870\":\"Kaplan Telephone Company Inc.\",\"42800\":\"Skytel Co. Ltd\",\"310590\":\"Verizon Wireless\",\"51502\":\"Globe Telecom\",\"330110\":\"Puerto Rico Telephone Company Inc. (PRTC)\",\"45005\":\"SK Telecom Co. Ltd\",\"34001\":\"Orange Caribe\",\"310600\":\"New-Cell Inc.\",\"63907\":\"Orange\",\"310320\":\"Smith Bagley Inc.\",\"62007\":\"GloMobile\",\"61605\":\"GloMobile\",\"310040\":\"Matanuska Tel. Assn. Inc.\",\"73019\":\"Sociedad Falabella Movil SPA\",\"51011\":\"PT. Excelcom\",\"26201\":\"T-mobile/Telekom\",\"63408\":\"Vivacell\",\"45505\":\"Hutchison Telephone Co. Ltd\",\"60704\":\"Q-Cell\",\"27602\":\"Vodafone \",\"41280\":\"Afghan Telecom Corp. (AT)\",\"51503\":\"Smart\",\"43211\":\"MCI/TCI\",\"45006\":\"LG Telecom\",\"20498\":\"T-Mobile B.V.\",\"34002\":\"Outremer Telecom\",\"28020\":\"PrimeTel PLC\",\"36320\":\"Digicel\",\"43703\":\"AkTel LLC\",\"26202\":\"Vodafone D2\",\"41401\":\"Myanmar Post &amp; Teleco.\",\"54715\":\"Pacific Mobile Telecom (PMT)\",\"45506\":\"Smartone Mobile\",\"26210\":\"DB Netz AG\",\"27603\":\"Eagle Mobile\",\"311670\":\"Pine Belt Cellular, Inc.\",\"34003\":\"TelCell GSM\",\"311390\":\"Verizon Wireless\",\"43220\":\"Rightel\",\"34011\":\"TelCell GSM\",\"40001\":\"Azercell Telekom B.M.\",\"311120\":\"Choice Phone LLC\",\"26203\":\"E-Plus\",\"51021\":\"Indosat/Satelindo/M3\",\"26211\":\"O2\",\"27604\":\"PLUS Communication Sh.a\",\"51505\":\"SUN/Digitel\",\"45008\":\"KT Freetel Co. Ltd.\",\"310860\":\"Texas RSA 15B2 Limited Partnership\",\"41902\":\"Zain\",\"34012\":\"UTS Caraibe\",\"40002\":\"J.V. Bakcell GSM 2000\",\"310580\":\"PCS ONE\",\"34020\":\"Bouygues/DigiCel\",\"43705\":\"MEGACOM\",\"26204\":\"Vodafone D2\",\"352050\":\"Digicel\",\"310310\":\"T-Mobile\",\"26212\":\"E-Plus\",\"26220\":\"E-Plus\",\"43214\":\"TKC/KFZO\",\"23001\":\"T-Mobile / RadioMobil\",\"312190\":\"Sprint Spectrum\",\"41903\":\"Wataniya\",\"302720\":\"Rogers AT&amp;T Wireless\",\"51007\":\"Flexi (PT Telkom) (CDMA)\",\"40003\":\"Caspian American Telecommunications LLC (CATEL)\",\"24410\":\"TDC Oy Finland\",\"26205\":\"E-Plus\",\"26213\":\"Mobilcom\",\"356110\":\"Cable &amp; Wireless\",\"732001\":\"TIGO/Colombia Movil\",\"23002\":\"O2\",\"44140\":\"NTT Docomo\",\"41904\":\"Viva\",\"24403\":\"DNA/Finnet\",\"40004\":\"Azerfon.\",\"51008\":\"Axis/Natrindo\",\"24411\":\"Mundio Mobile (Finland) Ltd\",\"26206\":\"T-mobile/Telekom\",\"41405\":\"Oreedoo\",\"26214\":\"Group 3G UMTS\",\"23502\":\"Everyth. Ev.wh.\",\"311110\":\"Verizon Wireless\",\"23003\":\"Vodafone\",\"22601\":\"Vodafone\",\"44141\":\"NTT Docomo\",\"24404\":\"DNA/Finnet\",\"43232\":\"Taliya\",\"51009\":\"PT Smartfren Telecom Tbk\",\"24412\":\"DNA/Finnet\",\"26207\":\"O2\",\"362630\":\"Cingular Wireless\",\"41406\":\"Telenor\",\"310850\":\"Aeris Comm. Inc.\",\"74601\":\"Telesur\",\"310570\":\"MTPCS LLC\",\"21201\":\"Monaco Telecom\",\"310290\":\"NEP Cellcorp Inc.\",\"40505\":\"Fascel Limited\",\"732002\":\"Edatel S.A.\",\"34008\":\"Dauphin Telecom SU (Guadeloupe Telecom)\",\"23004\":\"Ufone\",\"22602\":\"Romtelecom SA\",\"44142\":\"NTT Docomo\",\"310300\":\"T-Mobile\",\"310020\":\"Union Telephone Co.\",\"22610\":\"Orange\",\"24405\":\"Elisa/Saunalahti\",\"43709\":\"O!/NUR Telecom\",\"24413\":\"DNA/Finnet\",\"26208\":\"O2\",\"312180\":\"Keystone Wireless LLC\",\"302710\":\"Globalstar Canada\",\"26216\":\"Telogic/ViStream\",\"24421\":\"Elisa/Saunalahti\",\"310032\":\"IT&amp;E OverSeas\",\"74602\":\"Telecommunicatiebedrijf Suriname (TELESUR)\",\"20800\":\"Tel/Te\",\"65401\":\"HURI - SNPT\",\"21210\":\"Monaco Telecom\",\"23005\":\"Travel Telekommunikation s.r.o.\",\"22603\":\"Cosmote\",\"44143\":\"NTT Docomo\",\"51518\":\"RED Mobile/Cure\",\"22611\":\"Enigma Systems\",\"24414\":\"Alands\",\"26209\":\"Vodafone D2\",\"51027\":\"PT Sampoerna Telekomunikasi Indonesia (STI)\",\"26217\":\"E-Plus\",\"74603\":\"Digicel\",\"64001\":\"Tri Telecomm. Ltd.\",\"41288\":\"Afghan Telecom Corp. (AT)\",\"311650\":\"United Wireless Communications Inc.\",\"20801\":\"Orange\",\"311370\":\"GCI Communication Corp.\",\"43219\":\"Mobile Telecommunications Company of Esfahan JV-PJS (MTCE)\",\"22604\":\"Telemobil/Zapp\",\"44144\":\"NTT Docomo\",\"43235\":\"MTN/IranCell\",\"23877\":\"Telenor/Sonofon\",\"64501\":\"Airtel/Zain/Celtel\",\"65902\":\"MTN South Sudan (South Sudan\",\"51028\":\"PT Smartfren Telecom Tbk\",\"310033\":\"Guam Teleph. Auth\",\"74604\":\"UNIQA\",\"64002\":\"TIGO/MIC\",\"20802\":\"Orange\",\"26098\":\"Play/P4\",\"20810\":\"S.F.R.\",\"22605\":\"RCS&amp;RDS Digi Mobile\",\"44145\":\"NTT Docomo\",\"310560\":\"AT&amp;T Wireless Inc.\",\"26242\":\"Vodafone D2\",\"71401\":\"Cable &amp; W./Mas Movil\",\"310280\":\"T-Mobile\",\"64502\":\"MTN/Telecel\",\"47001\":\"GrameenPhone\",\"352030\":\"Digicel\",\"44161\":\"SoftBank Mobile Corp\",\"65903\":\"Gemtel Ltd (South Sudan\",\"55301\":\"Tuvalu Telecommunication Corporation (TTC)\",\"310010\":\"Verizon Wireless\",\"64003\":\"Zantel/Zanzibar Telecom\",\"63601\":\"ETH/MTN\",\"20803\":\"MobiquiThings\",\"64011\":\"Smile Communications Tanzania Ltd\",\"23008\":\"Compatel s.r.o.\",\"20811\":\"S.F.R.\",\"63102\":\"Unitel\",\"22606\":\"Telemobil/Zapp\",\"312170\":\"Iowa RSA No. 2 Limited Partnership\",\"26243\":\"Lycamobile\",\"71402\":\"Movistar\",\"24409\":\"Nokia Oyj\",\"64503\":\"Zamtel/Cell Z/MTS\",\"47002\":\"Robi/Aktel\",\"44162\":\"SoftBank Mobile Corp\",\"62201\":\"Airtel/ZAIN/Celtel\",\"65904\":\"Network of The World Ltd (NOW) (South Sudan\",\"44170\":\"KDDI Corporation\",\"64004\":\"Vodacom Ltd\",\"20804\":\"SISTEER\",\"346050\":\"Digicel Cayman Ltd\",\"311920\":\"Missouri RSA No 5 Partnership\",\"348770\":\"Digicel\",\"62701\":\"ORANGE/GETESA\",\"20820\":\"Bouygues Telecom\",\"71403\":\"Claro\",\"47003\":\"Orascom/Banglalink\",\"44163\":\"SoftBank Mobile Corp\",\"62202\":\"Tchad Mobile\",\"46601\":\"Far EasTone\",\"310011\":\"Northstar\",\"54901\":\"Telecom Samoa Cellular Ltd.\",\"338180\":\"Cable &amp; Wireless\",\"24426\":\"Compatel Ltd\",\"64005\":\"Airtel/ZAIN/Celtel\",\"53001\":\"Vodafone\",\"20805\":\"GlobalStar\",\"61301\":\"TeleMob-OnaTel\",\"43270\":\"MTCE\",\"302701\":\"NB Tel Mobility\",\"20813\":\"S.F.R.\",\"63104\":\"MoviCel\",\"20821\":\"Bouygues Telecom\",\"71404\":\"Digicel\",\"60400\":\"Medi Telecom\",\"22616\":\"Lycamobile\",\"45201\":\"Mobifone\",\"47004\":\"TeleTalk\",\"44164\":\"SoftBank Mobile Corp\",\"62203\":\"Tigo/Milicom/Tchad Mobile\",\"61801\":\"Lonestar\",\"46602\":\"Far EasTone\",\"342820\":\"Sunbeach\",\"65906\":\"Zain South Sudan (South Sudan\",\"46610\":\"Global Mobile Corp.\",\"310830\":\"Caprock Cellular Ltd.\",\"64006\":\"Dovetel (T) Ltd\",\"53002\":\"Spark/NZ Telecom\",\"310270\":\"T-Mobile\",\"45701\":\"Lao Tel\",\"61302\":\"Airtel/ZAIN/CelTel\",\"20806\":\"GlobalStar\",\"20814\":\"Lliad/FREE Mobile\",\"62703\":\"HiTs-GE\",\"54411\":\"Blue Sky Communications\",\"20822\":\"Transatel SA\",\"45202\":\"Vinaphone\",\"60401\":\"IAM/Itissallat\",\"302680\":\"Sask Tel Mobility\",\"47005\":\"Citycell\",\"44165\":\"SoftBank Mobile Corp\",\"62204\":\"Salam/Sotel\",\"61802\":\"Libercell\",\"46603\":\"Far EasTone\",\"310012\":\"Verizon Wireless\",\"312160\":\"RSA 1 Limited Partnership\",\"46611\":\"Chunghwa Telecom LDM\",\"64007\":\"Tanzania Telecommunications Company Ltd (TTCL)\",\"53003\":\"Walker Wireless Ltd.\",\"45702\":\"ETL Mobile\",\"61303\":\"TeleCel\",\"20807\":\"GlobalStar\",\"28201\":\"Geocell Ltd.\",\"366110\":\"C &amp; W\",\"302702\":\"MT&amp;T Mobility\",\"20815\":\"Lliad/FREE Mobile\",\"60901\":\"Mattel\",\"20823\":\"Virgin Mobile/Omer\",\"45203\":\"S-Fone/Telecom\",\"60402\":\"INWI/WANA\",\"20831\":\"Mundio Mobile (France) Ltd\",\"47006\":\"Citycell\",\"36010\":\"Cingular\",\"64008\":\"Benson Informatics Ltd\",\"53004\":\"Telstra\",\"311350\":\"Sagebrush Cellular Inc.\",\"45703\":\"UNITEL/LAT\",\"40553\":\"AirTel\",\"60902\":\"Chinguitel SA\",\"28202\":\"Magti GSM Ltd.\",\"311070\":\"Wisconsin RSA #7 Limited Partnership\",\"44190\":\"NTT Docomo\",\"20816\":\"Lliad/FREE Mobile\",\"43401\":\"Buztel\",\"60910\":\"Mauritel\",\"20824\":\"MobiquiThings\",\"29475\":\"ONE/Cosmofone\",\"45204\":\"Viettel Mobile\",\"47007\":\"Airtel/Warid\",\"46605\":\"Asia Pacific Telecom Co. Ltd (APT)\",\"310013\":\"Verizon Wireless\",\"61804\":\"Comium BVI\",\"64009\":\"Halotel/Viettel Ltd\",\"53005\":\"Spark/NZ Telecom\",\"42001\":\"STC/Al Jawal\",\"20809\":\"S.F.R.\",\"61820\":\"LibTelco\",\"37412\":\"Bmobile/TSTT\",\"28203\":\"Iberiatel Ltd.\",\"27801\":\"Vodafone\",\"302703\":\"New Tel Mobility\",\"44191\":\"NTT Docomo\",\"20817\":\"Legos - Local Exchange Global Operation Services SA\",\"342810\":\"Cingular Wireless\",\"310260\":\"T-Mobile\",\"43402\":\"Uzmacom\",\"20825\":\"Lycamobile SARL\",\"45205\":\"VietnaMobile\",\"42501\":\"Orange/Partner Co. Ltd.\",\"46606\":\"Far EasTone\",\"302670\":\"CityWest Mobility\",\"28204\":\"MobiTel/Beeline\",\"44192\":\"NTT Docomo\",\"20826\":\"NRJ\",\"45206\":\"Viettel Mobile\",\"42502\":\"Cellcom ltd.\",\"46607\":\"Far EasTone\",\"25001\":\"MTS\",\"42003\":\"Etihad/Etisalat/Mobily\",\"41601\":\"ZAIN /J.M.T.S\",\"28205\":\"Silknet\",\"44193\":\"NTT Docomo\",\"43404\":\"Bee Line/Unitel\",\"25501\":\"UMC/MTS\",\"311340\":\"Illinois Valley Cellular RSA 2 Partnership\",\"20827\":\"AFONE SA\",\"365840\":\"Cable and Wireless\",\"45207\":\"Beeline\",\"42503\":\"Pelephone\",\"25002\":\"Megafon\",\"61807\":\"CELLCOM\",\"25010\":\"DTC/Don Telecom\",\"42004\":\"Zain\",\"365010\":\"Digicell / Wireless Vent. Ltd \",\"41602\":\"Xpress\",\"310003\":\"Unknown\",\"44194\":\"NTT Docomo\",\"43405\":\"Ucell/Coscom\",\"53024\":\"Two Degrees Mobile Ltd\",\"25502\":\"Beeline\",\"20828\":\"Astrium\",\"45208\":\"Viettel Mobile\",\"42891\":\"Skytel Co. Ltd\",\"46609\":\"VMAX Telecom Co. Ltd\",\"25003\":\"NCC\",\"24601\":\"Omnitel\",\"310250\":\"T-Mobile\",\"42512\":\"Pelephone\",\"310530\":\"West Virginia Wireless\",\"25011\":\"Orensot\",\"42005\":\"Virgin Mobile\",\"41603\":\"Umniah Mobile Co.\",\"45708\":\"Beeline/Tigo/Millicom\",\"25503\":\"KyivStar\",\"302660\":\"MTS Mobility\",\"20829\":\"Orange\",\"302380\":\"DMTS Mobility\",\"23201\":\"A1 MobilKom\",\"27821\":\"GO Mobile\",\"42505\":\"Jawwal\",\"25004\":\"Sibchallenge\",\"24602\":\"Bite\",\"334090\":\"NEXTEL\",\"25012\":\"Baykal Westcom\",\"24482\":\"ID-Mobile\",\"40211\":\"B-Mobile\",\"26277\":\"E-Plus\",\"42006\":\"Lebara Mobile\",\"25020\":\"Tele2/ECC/Volgogr.\",\"310004\":\"Verizon Wireless\",\"43407\":\"MTS/Uzdunrobita\",\"25504\":\"Intertelecom Ltd (IT)\",\"311880\":\"Sprint Spectrum\",\"23202\":\"A1 MobilKom\",\"42506\":\"Wataniya Mobile\",\"310016\":\"Leap Wireless International Inc.\",\"23210\":\"H3G\",\"25005\":\"Yenisey Telecom\",\"24603\":\"Tele2\",\"311610\":\"North Dakota Network Company\",\"42514\":\"Alon Cellular Ltd\",\"311330\":\"Michigan Wireless LLC\",\"25013\":\"Kuban GSM\",\"311050\":\"Thumb Cellular Limited Partnership\",\"42007\":\"Zain\",\"24491\":\"TeliaSonera\",\"54927\":\"Samoatel Mobile\",\"25505\":\"Golden Telecom\",\"23203\":\"T-Mobile/Telering\",\"22801\":\"Swisscom\",\"51588\":\"Next Mobile\",\"42507\":\"Hot Mobile/Mirs\",\"23211\":\"A1 MobilKom\",\"25521\":\"Telesystems Of Ukraine CJSC (TSU)\",\"42515\":\"Home Cellular Ltd\",\"51089\":\"H3G CP\",\"310800\":\"T-Mobile\",\"310520\":\"VeriSign\",\"74801\":\"Ancel/Antel\",\"310240\":\"T-Mobile\",\"44198\":\"NTT Docomo\",\"21401\":\"Vodafone\",\"53028\":\"2degrees\",\"25506\":\"Astelit/LIFE\",\"23204\":\"T-Mobile/Telering\",\"22802\":\"TDC Sunrise\",\"42508\":\"Golan Telekom\",\"23212\":\"3/Orange/One Connect\",\"25007\":\"ZAO SMARTS\",\"65101\":\"Vodacom Lesotho\",\"42516\":\"Rami Levy Hashikma Marketing Communications Ltd\",\"25015\":\"ZAO SMARTS\",\"302370\":\"FIDO (Rogers AT&amp;T/ Microcell)\",\"21901\":\"T-Mobile/Cronet\",\"312130\":\"East Kentucky Network LLC\",\"73401\":\"DigiTel C.A.\",\"334080\":\"Operadora Unefon SA de CV\",\"44199\":\"NTT Docomo\",\"25507\":\"TriMob LLC\",\"74810\":\"Claro/AM Wireless\",\"42888\":\"Unitel\",\"23205\":\"3/Orange/One Connect\",\"22803\":\"Salt/Orange\",\"23213\":\"UPC Austria\",\"65102\":\"Econet/Ezi-cel\",\"64700\":\"Orange\",\"311870\":\"Sprint Spectrum\",\"25016\":\"NTC\",\"21902\":\"Tele2\",\"311590\":\"California RSA No. 3 Limited Partnership\",\"73402\":\"DigiTel C.A.\",\"31006\":\"Consolidated Telcom\",\"21910\":\"VIPnet d.o.o.\",\"51099\":\"Esia (PT Bakrie Telecom) (CDMA)\",\"64201\":\"Spacetel / Econet / Leo \",\"31014\":\"Testing\",\"74803\":\"Ancel/Antel\",\"348170\":\"LIME\",\"21403\":\"Orange\",\"21411\":\"Orange\",\"23206\":\"3/Orange/One Connect\",\"35650\":\"Digicel\",\"23214\":\"H3G\",\"22812\":\"TDC Sunrise\",\"302651\":\"Bell Mobility\",\"25017\":\"UralTel\",\"73403\":\"DigiTel C.A.\",\"64202\":\"Africel / Safaris\",\"310780\":\"Message Express Co. / Airlink PCS\",\"31015\":\"Unknown\",\"21404\":\"Yoigo\",\"31023\":\"Unknown\",\"55001\":\"FSM Telecom\",\"23207\":\"T-Mobile/Telering\",\"22805\":\"Comfone AG\",\"63301\":\"C&amp;W\",\"310510\":\"Airtel Wireless LLC\",\"310230\":\"T-Mobile\",\"42898\":\"G-Mobile Corporation Ltd\",\"23215\":\"T-Mobile/Telering\",\"71601\":\"GlobalStar\",\"21420\":\"fonYou Wireless SL\",\"31031\":\"T-Mobile\",\"42519\":\"Telzar/AZI \",\"64702\":\"Outremer Telecom\",\"47201\":\"Dhiraagu/C&amp;W\",\"73404\":\"Movistar/TelCel\",\"40217\":\"Bhutan Telecom Ltd (BTL)\",\"64710\":\"SFR\",\"714020\":\"Movistar\",\"55501\":\"Niue Telecom\",\"64203\":\"Onatel / Telecel \",\"63801\":\"Djibouti Telecom SA (Evatis)\",\"302640\":\"Latitude Wireless\",\"21405\":\"Movistar\",\"302360\":\"Clearnet\",\"312120\":\"East Kentucky Network LLC\",\"31024\":\"Unknown\",\"23208\":\"A1 MobilKom\",\"63302\":\"Smartcom\",\"334070\":\"Operadora Unefon SA de CV\",\"46656\":\"International Telecom Co. Ltd (FITEL)\",\"42899\":\"Mobicom\",\"21421\":\"Jazz Telecom SAU\",\"71602\":\"GlobalStar\",\"302652\":\"BC Tel Mobility\",\"20891\":\"Orange\",\"63310\":\"Airtel\",\"54101\":\"SMILE\",\"47202\":\"Ooredo/Wataniya\",\"71610\":\"Claro /Amer.Mov./TIM\",\"62401\":\"MTN\",\"25019\":\"OJSC Altaysvyaz\",\"36070\":\"Digicel\",\"311860\":\"Uintah Basin Electronics Telecommunications Inc.\",\"25035\":\"MOTIV/LLC Ekaterinburg-2000\",\"21406\":\"Vodafone Enabler Espana SL\",\"25550\":\"UMC/MTS\",\"31025\":\"Unknown\",\"54601\":\"OPT Mobilis\",\"23209\":\"A1 MobilKom\",\"708040\":\"Digicel\",\"22807\":\"TDC Sunrise\",\"62901\":\"Airtel SA\",\"21422\":\"Digi Spain Telecom SL\",\"23217\":\"Spusu/Mass Response\",\"61001\":\"Malitel\",\"45400\":\"CSL Ltd.\",\"20892\":\"Association Plate-forme Telecom\",\"311310\":\"Lamar County Cellular\",\"73406\":\"Movilnet C.A. \",\"62402\":\"Orange\",\"25028\":\"BeeLine/VimpelCom\",\"360110\":\"C &amp; W\",\"74807\":\"MOVISTAR\",\"21407\":\"Movistar\",\"302361\":\"Clearnet\",\"61501\":\"Togo Telecom/TogoCELL\",\"31026\":\"Unknown\",\"44000\":\"Y-Mobile\",\"25044\":\"StavTelesot\",\"21415\":\"BT Espana SAU\",\"22808\":\"TDC Sunrise\",\"31034\":\"Nevada Wireless LLC\",\"62902\":\"Azur SA (ETC)\",\"310770\":\"Iowa Wireless Services LLC\",\"21423\":\"Lycamobile SL\",\"45401\":\"Citic Telecom Ltd.\",\"61002\":\"Orange/IKATEL\",\"302653\":\"Telus Mobility\",\"62910\":\"MTN/Libertis\",\"60600\":\"Libyana\",\"53701\":\"Pacific Mobile\",\"310490\":\"Triton PCS\",\"310500\":\"Public Service Cellular Inc.\",\"35670\":\"UTS Cariglobe\",\"310220\":\"T-Mobile\",\"71620\":\"Claro /Amer.Mov./TIM\",\"21408\":\"Euskaltel SA\",\"61502\":\"Telecel/MOOV\",\"344930\":\"DigiCel/Cing. Wireless\",\"44001\":\"NTT Docomo\",\"21416\":\"Telecable de Asturias SA\",\"22809\":\"Comfone AG\",\"311311\":\"Farmers\",\"302630\":\"Bell Aliant\",\"23219\":\"Tele2\",\"45402\":\"CSL Ltd.\",\"60601\":\"Al-Madar\",\"53702\":\"GreenCom PNG Ltd\",\"45410\":\"CSL/New World PCS Ltd.\",\"23099\":\"Vodafone\",\"21432\":\"ION Mobile\",\"62404\":\"Nextel\",\"334060\":\"SAI PCS\",\"366050\":\"Wireless Ventures (Dominica) Ltd (Digicel Dominica)\",\"64207\":\"Smart Mobile / LACELL \",\"29310\":\"Slovenske zeleznice d.o.o.\",\"52801\":\"Telekom Brunei Bhd (TelBru)\",\"21409\":\"Orange\",\"61503\":\"Telecel/MOOV\",\"28401\":\"MobilTel AD\",\"44002\":\"NTT Docomo\",\"21417\":\"R Cable y Telec. Galicia SA\",\"44010\":\"NTT Docomo\",\"21425\":\"Lycamobile SL\",\"302654\":\"Sask Tel Mobility\",\"71606\":\"Movistar\",\"45403\":\"H3G/Hutchinson\",\"60602\":\"Al-Madar\",\"46668\":\"ACeS Taiwan - ACeS Taiwan Telecommunications Co Ltd\",\"53703\":\"Digicel\",\"54105\":\"DigiCel\",\"708030\":\"HonduTel\",\"51401\":\"Telin/ Telkomcel\",\"311300\":\"Nexus Communications Inc.\",\"31060\":\"Consolidated Telcom\",\"64208\":\"Lumitel/Viettel\",\"27001\":\"P+T/Post LUXGSM\",\"52802\":\"b-mobile\",\"25039\":\"UralTel\",\"311020\":\"Missouri RSA No 5 Partnership\",\"46692\":\"Chunghwa Telecom LDM\",\"44003\":\"NTT Docomo\",\"21418\":\"Cableuropa SAU (ONO)\",\"43601\":\"Tcell/JC Somoncom\",\"20888\":\"Bouygues Telecom\",\"360100\":\"Cingular\",\"44011\":\"NTT Docomo\",\"21426\":\"Lleida\",\"45404\":\"H3G/Hutchinson\",\"71607\":\"Nextel\",\"60603\":\"Libyana\",\"43102\":\"Etisalat\",\"71615\":\"Viettel Mobile\",\"25539\":\"Golden Telecom\",\"51402\":\"Timor Telecom\",\"45420\":\"HKT/PCCW\",\"310760\":\"Panhandle Telephone Cooperative Inc.\",\"342750\":\"Digicel\",\"310480\":\"Choice Phone LLC\",\"46693\":\"Mobitai\",\"50501\":\"Telstra Corp. Ltd.\",\"52811\":\"Datastream (DTSCom)\",\"44004\":\"SoftBank Mobile Corp\",\"28403\":\"BTC Mobile EOOD (vivatel)\",\"21419\":\"Simyo/KPN \",\"20889\":\"Virgin Mobile/Omer\",\"22851\":\"BebbiCell AG\",\"43602\":\"CJSC Indigo Tajikistan\",\"44012\":\"NTT Docomo\",\"302655\":\"MTS Mobility\",\"45405\":\"H3G/Hutchinson\",\"21427\":\"Truphone\",\"31046\":\"SIMMETRY\",\"310210\":\"T-Mobile\",\"44020\":\"SoftBank Mobile Corp\",\"344920\":\"C &amp; W\",\"42701\":\"Ooredoo/Qtel\",\"31038\":\"USA 3650 AT&amp;T\",\"312090\":\"Allied Wireless Communications Corporation\",\"376350\":\"Cable &amp; Wireless (TCI) Ltd\",\"26601\":\"Gibtel GSM\",\"42202\":\"Oman Mobile/GTO\",\"50502\":\"Singtel Optus\",\"334050\":\"AT&amp;T/IUSACell\",\"22852\":\"Mundio Mobile AG\",\"43603\":\"MLT/TT mobile\",\"62907\":\"Warid\",\"44013\":\"NTT Docomo\",\"41301\":\"Mobitel Ltd.\",\"45406\":\"Vodafone/SmarTone\",\"44021\":\"NTT Docomo\",\"45414\":\"H3G/Hutchinson\",\"71617\":\"Nextel\",\"42702\":\"Vodafone\",\"42203\":\"Nawras\",\"311280\":\"Verizon Wireless\",\"50503\":\"Vodafone\",\"28405\":\"Telenor/Cosmo/Globul\",\"44006\":\"SoftBank Mobile Corp\",\"22853\":\"upc cablecom GmbH\",\"43604\":\"Babilon-M\",\"50511\":\"Telstra Corp. Ltd.\",\"25701\":\"Mobile Digital Communications\",\"44014\":\"NTT Docomo\",\"302656\":\"Tbay Mobility\",\"41302\":\"MTN/Dialog\",\"60606\":\"Hatef\",\"43612\":\"Tcell/JC Somoncom\",\"44022\":\"NTT Docomo\",\"338110\":\"Cable &amp; Wireless\",\"45415\":\"Vodafone/SmarTone\",\"311010\":\"Missouri RSA No 5 Partnership\",\"44030\":\"NTT Docomo\",\"40401\":\"Aircel Digilink India\",\"46688\":\"KG Telecom\",\"50504\":\"Department of Defense\",\"28406\":\"BTC Mobile EOOD (vivatel)\",\"44007\":\"KDDI Corporation\",\"22854\":\"Lycamobile AG\",\"43605\":\"Bee Line\",\"310750\":\"East Kentucky Network LLC\",\"50512\":\"H3G Ltd.\",\"310470\":\"Docomo\",\"44015\":\"NTT Docomo\",\"25702\":\"MTS\",\"45408\":\"Truephone\",\"33011\":\"Puerto Rico Telephone Company Inc. (PRTC)\",\"41303\":\"Etisalat/Tigo\",\"310190\":\"Unknown\",\"44023\":\"NTT Docomo\",\"45416\":\"HKT/PCCW\",\"310200\":\"T-Mobile\",\"44031\":\"NTT Docomo\",\"24801\":\"EMT GSM\",\"46689\":\"T-Star/VIBO\",\"40410\":\"Bharti Airtel Limited (Delhi)\",\"311281\":\"Verizon Wireless\",\"46697\":\"Taiwan Cellular\",\"50505\":\"The Ozitel Network Pty.\",\"45440\":\"shared by private TETRA systems\",\"44008\":\"KDDI Corporation\",\"27877\":\"Melita\",\"302610\":\"Bell Mobility\",\"25567\":\"KyivStar\",\"50513\":\"Railcorp/Vodafone\",\"302657\":\"Quebectel Mobility\",\"44016\":\"NTT Docomo\",\"25703\":\"BelCel JV\",\"29340\":\"SI.Mobil\",\"23401\":\"Mapesbury C. Ltd\",\"44024\":\"NTT Docomo\"}</string>
+    <string name="sensors_analytics_carrier2">{\"45411\":\"China-HongKong Telecom Ltd (CHKTL)\",\"45412\":\"China Mobile/Peoples\",\"45413\":\"China Mobile/Peoples\",\"45407\":\"China Unicom Ltd\",\"45409\":\"China Motion\",\"45502\":\"China Telecom\",\"45428\":\"China Mobile/Peoples\"}</string>
+    <string name="sensors_analytics_carrier_mobile">中国移动</string>
+    <string name="sensors_analytics_carrier_satellite">中国卫通</string>
+    <string name="sensors_analytics_carrier_telecom">中国电信</string>
+    <string name="sensors_analytics_carrier_tietong">中国铁通</string>
+    <string name="sensors_analytics_carrier_unicom">中国联通</string>
+    <string name="sensors_analytics_carrier_unknown">未知</string>
+    <string name="sensors_analytics_common_cancel">取消</string>
+    <string name="sensors_analytics_common_continue">继续</string>
+    <string name="sensors_analytics_common_no">不再提示</string>
+    <string name="sensors_analytics_common_ok">确定</string>
+    <string name="sensors_analytics_common_title">提示</string>
+    <string name="sensors_analytics_debug_and_track">开启调试模式（导入数据）</string>
+    <string name="sensors_analytics_debug_name_default">调试模式已关闭</string>
+    <string name="sensors_analytics_debug_name_only">当前为调试模式（不导入数据）</string>
+    <string name="sensors_analytics_debug_name_track">当前为测试模式（导入数据）</string>
+    <string name="sensors_analytics_debug_only">开启调试模式（不导入数据）</string>
+    <string name="sensors_analytics_debug_tip_off">已关闭调试模式，请重新扫描二维码进行开启</string>
+    <string name="sensors_analytics_debug_tip_only">开启调试模式，校验数据，但不进行数据导入；关闭 App 进程后，将自动关闭调试模式</string>
+    <string name="sensors_analytics_debug_tip_track">开启调试模式，校验数据，并将数据导入到神策分析中；关闭 App 进程后，将自动关闭调试模式</string>
+    <string name="sensors_analytics_debug_view_title">SDK 调试模式选择</string>
+    <string name="sensors_analytics_encrypt_disable">当前 App 未开启加密，请开启加密后再试</string>
+    <string name="sensors_analytics_encrypt_fail">密钥验证不通过，所选密钥无效</string>
+    <string name="sensors_analytics_encrypt_key_null">密钥验证不通过，App 端密钥为空</string>
+    <string name="sensors_analytics_encrypt_pass">密钥验证通过，所选密钥与 App 端密钥相同</string>
+    <string name="sensors_analytics_encrypt_verify_fail_type">密钥验证不通过，所选密钥类型与 App 端密钥类型不相同。所选密钥对称算法类型: %1$s，非对称算法类型: %2$s，App 端密钥对称算法类型: %3$s，非对称算法类型: %4$s</string>
+    <string name="sensors_analytics_encrypt_verify_fail_version">密钥验证不通过，所选密钥与 App 端密钥不相同。所选密钥版本: %1$s，App 端密钥版本: %2$s</string>
+    <string name="sensors_analytics_heatmap">点击分析</string>
+    <string name="sensors_analytics_heatmap_dialog_error">App 集成的项目与电脑浏览器打开的项目不同，无法进行点击分析</string>
+    <string name="sensors_analytics_heatmap_mobile_name">正在连接 App 点击分析，建议在 WiFi 环境下使用。</string>
+    <string name="sensors_analytics_heatmap_network_fail">已关闭网络请求（NetworkRequest），无法使用 App 点击分析，请开启后再试！</string>
+    <string name="sensors_analytics_heatmap_sdk_fail">SDK 没有被正确集成，请联系贵方技术人员开启点击分析。</string>
+    <string name="sensors_analytics_heatmap_wifi_name">正在连接 App 点击分析…</string>
+    <string name="sensors_analytics_popwindow_fail">测试弹窗加载失败，请确认网络或项目环境是否正常！</string>
+    <string name="sensors_analytics_remote_config">开始获取采集控制信息</string>
+    <string name="sensors_analytics_remote_fail">远程配置获取失败，请稍后重新扫描二维码</string>
+    <string name="sensors_analytics_remote_other_error">远程配置获取失败，请稍后再试</string>
+    <string name="sensors_analytics_remote_succeed">采集控制加载完成，可以通过 Android Studio 控制台日志来调试</string>
+    <string name="sensors_analytics_remote_tip_error_appid">当前 App 与二维码对应的 App 不同，无法进行调试</string>
+    <string name="sensors_analytics_remote_tip_error_disable_network">SDK 网络权限已关闭，请允许 SDK 访问网络</string>
+    <string name="sensors_analytics_remote_tip_error_disable_remote">远程配置已禁用，请开启远程配置</string>
+    <string name="sensors_analytics_remote_tip_error_network">网络连接失败，请检查设备网络，确认网络畅通后，请重新扫描二维码进行调试</string>
+    <string name="sensors_analytics_remote_tip_error_os">App 与二维码对应的操作系统不同，无法进行调试</string>
+    <string name="sensors_analytics_remote_tip_error_project">App 集成的项目与二维码对应的项目不同，无法进行调试</string>
+    <string name="sensors_analytics_remote_tip_error_qrcode">二维码信息校验失败，请检查采集控制是否配置正确</string>
+    <string name="sensors_analytics_remote_version_error">版本不一致</string>
+    <string name="sensors_analytics_remote_version_tip">获取到采集控制信息的版本：%1$s，二维码信息的版本：%2$s，请稍后重新扫描二维码</string>
+    <string name="sensors_analytics_visual">可视化全埋点</string>
+    <string name="sensors_analytics_visual_appid_error">本地缓存的 AppId 或 Project 与当前项目不一致</string>
+    <string name="sensors_analytics_visual_cache_error">本地缓存不包含该事件配置</string>
+    <string name="sensors_analytics_visual_cache_no_property_error">本地缓存无自定义属性配置</string>
+    <string name="sensors_analytics_visual_code_loading">开启中</string>
+    <string name="sensors_analytics_visual_code_title">请输入神策分析页面上的配对码</string>
+    <string name="sensors_analytics_visual_config_error">获取配置</string>
+    <string name="sensors_analytics_visual_dialog_error">App 集成的项目与电脑浏览器打开的项目不同，无法进行可视化全埋点。</string>
+    <string name="sensors_analytics_visual_event_error">事件配置</string>
+    <string name="sensors_analytics_visual_getProperty_error">获取属性元素</string>
+    <string name="sensors_analytics_visual_mobile_name">正在连接 App 可视化全埋点，建议在 WiFi 环境下使用。</string>
+    <string name="sensors_analytics_visual_network_fail">已关闭网络请求（NetworkRequest），无法使用 App 可视化全埋点，请开启后再试！</string>
+    <string name="sensors_analytics_visual_other_error">其他错误</string>
+    <string name="sensors_analytics_visual_parseProperty_error">解析属性</string>
+    <string name="sensors_analytics_visual_property_error">%1$s 属性未找到属性元素，属性元素路径为 %2$s，属性元素位置为 %3$s</string>
+    <string name="sensors_analytics_visual_property_switch_error">自定义属性运维配置开关关闭</string>
+    <string name="sensors_analytics_visual_regex_error">%1$s 属性正则解析失败，元素内容 %2$s，正则表达式为 %3$s，属性类型为 %4$s</string>
+    <string name="sensors_analytics_visual_sa_flutter_error">此页面未集成 Flutter 全埋点 SDK 或 Flutter 全埋点 SDK 版本过低，请集成最新版 Flutter 全埋点 SDK</string>
+    <string name="sensors_analytics_visual_sa_h5">当前页面无法进行可视化全埋点</string>
+    <string name="sensors_analytics_visual_sa_h5_error">此页面未集成 Web JS SDK 或者 Web JS SDK 版本过低，请集成最新版 Web JS SDK</string>
+    <string name="sensors_analytics_visual_sa_h5_error_link">配置文档</string>
+    <string name="sensors_analytics_visual_sdk_fail">SDK 没有被正确集成，请联系贵方技术人员开启可视化全埋点。</string>
+    <string name="sensors_analytics_visual_switch_error">开关控制</string>
+    <string name="sensors_analytics_visual_wifi_name">正在连接 App 可视化全埋点…</string>
+    <string name="side_sheet_accessibility_pane_title">Side Sheet</string>
+    <string name="side_sheet_behavior">com.google.android.material.sidesheet.SideSheetBehavior</string>
+    <string name="smart_screen_app_name">智慧屏</string>
+    <string name="smart_screen_empty_text">后排媒体使用中...</string>
+    <string name="smart_screen_in_use">正在使用中...</string>
+    <string name="smart_screen_lock_text">音频已锁定在商务舱，点击解锁</string>
+    <string name="smart_screen_rear_media_app">后排媒体应用</string>
+    <string name="smart_screen_unlock_text">点击锁定商务舱音频播放</string>
+    <string name="sr_alarm_info_20001">"NZP无法激活
+驾驶模式不支持"</string>
+    <string name="sr_alarm_info_20002">"NZP无法激活
+安全带未系"</string>
+    <string name="sr_alarm_info_20003">"NZP无法激活
+门锁未关闭"</string>
+    <string name="sr_alarm_info_20004">"NZP无法激活
+挡位不在D挡"</string>
+    <string name="sr_alarm_info_20005">"NZP无法激活
+充电盖未关闭"</string>
+    <string name="sr_alarm_info_20007">"NZP无法激活
+车速过高"</string>
+    <string name="sr_alarm_info_20008">"NZP无法激活
+电量过低"</string>
+    <string name="sr_alarm_info_20009">"NZP无法激活
+车辆未停车入P挡"</string>
+    <string name="sr_alarm_info_20012">NZP无法激活</string>
+    <string name="sr_alarm_info_20013">"NZP无法激活
+电子驻车制动未释放"</string>
+    <string name="sr_alarm_info_20015">"NZP无法激活
+距离前车过近"</string>
+    <string name="sr_alarm_info_20016">"NZP无法激活
+刹车踏板未松开"</string>
+    <string name="sr_alarm_info_20017">"NZP无法激活
+自动驻车未关闭"</string>
+    <string name="sr_alarm_info_20018">"NZP无法激活
+胎压不足"</string>
+    <string name="sr_alarm_info_20019">"NZP无法激活
+车辆未居中行驶"</string>
+    <string name="sr_alarm_info_20021">"NZP无法激活
+车身位置未调正"</string>
+    <string name="sr_alarm_info_20024">请稍后再激活辅助驾驶</string>
+    <string name="sr_alarm_info_20028">NZP高速领航已激活</string>
+    <string name="sr_alarm_info_20031">功能已降为LCC</string>
+    <string name="sr_alarm_info_20032">功能已降为LCC</string>
+    <string name="sr_alarm_info_20033">"功能已降为LCC
+请注意前方道路分叉"</string>
+    <string name="sr_alarm_info_20034">"您正在干预方向
+车道居中已暂停"</string>
+    <string name="sr_alarm_info_20038">前方300m，NZP即将退出</string>
+    <string name="sr_alarm_info_20040">"NZP已退出
+请接管车辆"</string>
+    <string name="sr_alarm_info_20041">"请关闭门锁
+否则NZP将退出"</string>
+    <string name="sr_alarm_info_20048">"请系好安全带
+否则NZP将退出"</string>
+    <string name="sr_alarm_info_20049">"NZP即将退出
+雨量过大"</string>
+    <string name="sr_alarm_info_20050">"NZP已退出
+挡位不在D挡"</string>
+    <string name="sr_alarm_info_20051">"NZP已退出
+电子驻车制动未释放"</string>
+    <string name="sr_alarm_info_20052">"NZP已退出
+ESC未开启"</string>
+    <string name="sr_alarm_info_20053">"NZP即将退出
+胎压不足"</string>
+    <string name="sr_alarm_info_20054">"NZP已退出
+车辆未Ready"</string>
+    <string name="sr_alarm_info_20055">"NZP已退出
+请接管车辆"</string>
+    <string name="sr_alarm_info_20058">"NZP即将退出
+电量过低"</string>
+    <string name="sr_alarm_info_20061">"已踩下加速踏板
+车辆不会自动减速"</string>
+    <string name="sr_alarm_info_20062">"NZP已退出
+距离前车过近"</string>
+    <string name="sr_alarm_info_20065">"车速放缓
+驶入急弯"</string>
+    <string name="sr_alarm_info_20069">"NZP已退出
+跟停超时"</string>
+    <string name="sr_alarm_info_20070">"请轻踩加速踏板
+确认自车起步"</string>
+    <string name="sr_alarm_info_20073">"请下拨转向灯拨杆
+确认超车"</string>
+    <string name="sr_alarm_info_20074">"请上拨转向灯拨杆
+确认超车"</string>
+    <string name="sr_alarm_info_20080">变道已取消</string>
+    <string name="sr_alarm_info_20086">"请降低车速
+否则无法帮您变道"</string>
+    <string name="sr_alarm_info_20087">"请提高车速
+否则无法帮您变道"</string>
+    <string name="sr_alarm_info_20088">"变道已取消
+等待超时"</string>
+    <string name="sr_alarm_info_20089">"请立即接管
+路况危险"</string>
+    <string name="sr_alarm_info_20091">正在驶入匝道</string>
+    <string name="sr_alarm_info_20092">"请手动变道
+即将错过匝道"</string>
+    <string name="sr_alarm_info_20093">"正在变道
+前方车道受阻"</string>
+    <string name="sr_alarm_info_20094">"请手动向左变道
+路况复杂"</string>
+    <string name="sr_alarm_info_20095">"变道未响应
+不符合导航路线"</string>
+    <string name="sr_alarm_info_20097">正在进入最优车道</string>
+    <string name="sr_alarm_info_20099">"请手动变道
+即将错过匝道"</string>
+    <string name="sr_alarm_info_20100">紧急制动中</string>
+    <string name="sr_alarm_info_20102">"请立即接管
+前方障碍物"</string>
+    <string name="sr_alarm_info_20103">请立即接管</string>
+    <string name="sr_alarm_info_20104">请立即接管</string>
+    <string name="sr_alarm_info_20105">"NZP已退出
+车速过高"</string>
+    <string name="sr_alarm_info_20109">请手握方向盘</string>
+    <string name="sr_alarm_info_20110">请手握方向盘</string>
+    <string name="sr_alarm_info_20111">请立即接管</string>
+    <string name="sr_alarm_info_20119">"NZP无法激活
+超级省电模式未关闭"</string>
+    <string name="sr_alarm_info_20122">小心汇入车辆</string>
+    <string name="sr_alarm_info_20133">"请立即接管
+否则车辆将刹停"</string>
+    <string name="sr_alarm_info_20135">"请立即接管
+功能受限"</string>
+    <string name="sr_alarm_info_20137">请手动汇入主路</string>
+    <string name="sr_alarm_info_20138">"前方200m有施工区域
+小心驾驶"</string>
+    <string name="sr_alarm_info_20139">小心前方障碍物</string>
+    <string name="sr_alarm_info_20140">"NZP已退出
+请接管车辆"</string>
+    <string name="sr_alarm_info_20141">小心前方碰撞风险</string>
+    <string name="sr_alarm_info_20143">"功能已降为LCC
+功能受限"</string>
+    <string name="sr_alarm_info_20144">"功能已降为ACC
+功能受限"</string>
+    <string name="sr_alarm_info_20145">"请手动选择车道
+交通流复杂"</string>
+    <string name="sr_alarm_info_20146">"传感器校准中
+辅助驾驶功能暂不可用"</string>
+    <string name="sr_alarm_info_20147">"请下拨转向灯拨杆确认变道
+前方车道受阻"</string>
+    <string name="sr_alarm_info_20193">"NZP无法激活
+功能受限"</string>
+    <string name="sr_alarm_info_20194">"系统变道能力受限
+小心驾驶"</string>
+    <string name="sr_alarm_info_20195">"NZP已退出
+请接管车辆"</string>
+    <string name="sr_alarm_info_20196">"NZP已退出
+本次行程中LCC/NZP不可用"</string>
+    <string name="sr_alarm_info_20197">"请立即接管
+正在识别可用车道"</string>
+    <string name="sr_alarm_info_20198">NZP高速领航已恢复</string>
+    <string name="sr_alarm_info_20199">"请下拨转向灯拨杆确认变道
+即将驶入匝道"</string>
+    <string name="sr_alarm_info_20200">"请上拨转向灯拨杆确认变道
+前方车道受阻"</string>
+    <string name="sr_alarm_info_20201">"请下拨转向灯拨杆
+按导航路线行驶"</string>
+    <string name="sr_alarm_info_20202">"请上拨转向灯拨杆
+按导航路线行驶"</string>
+    <string name="sr_alarm_info_20203">"请手动变道
+即将错过路口"</string>
+    <string name="sr_alarm_info_20204">"超车调整为标准模式
+因多次取消或未确认"</string>
+    <string name="sr_alarm_info_20205">超车恢复为敏捷模式</string>
+    <string name="sr_alarm_info_20206">"变道超车已关闭
+因多次取消或未确认"</string>
+    <string name="sr_alarm_info_20207">"请前往[安全&amp;维护]
+校准辅助驾驶传感器"</string>
+    <string name="sr_alarm_info_20208">正在避让大车</string>
+    <string name="sr_alarm_info_20209">正在绕行</string>
+    <string name="sr_alarm_info_20210">"正在绕行
+车速放缓"</string>
+    <string name="sr_alarm_info_20212">"正在向左变道
+按导航路线行驶"</string>
+    <string name="sr_alarm_info_20213">"正在向右变道
+按导航路线行驶"</string>
+    <string name="sr_alarm_info_20214">"请手握方向盘
+否则无法帮您变道"</string>
+    <string name="sr_alarm_info_20215">"请手握方向盘
+否则无法帮您变道"</string>
+    <string name="sr_alarm_info_20217">"请手握方向盘
+否则无法帮您变道"</string>
+    <string name="sr_alarm_info_20218">"请手动变道
+前方道路拥堵"</string>
+    <string name="sr_alarm_info_20219">小心前方障碍物</string>
+    <string name="sr_alarm_info_20220">"暂不响应加速请求
+距离前车过近"</string>
+    <string name="sr_alarm_info_20226">"NZP无法激活
+ESC未开启"</string>
+    <string name="sr_alarm_info_20227">"NZP无法激活
+电源模式不支持"</string>
+    <string name="sr_alarm_info_20228">"NZP无法激活
+方向盘未松开"</string>
+    <string name="sr_alarm_info_20229">"NZP无法激活
+前方车道受阻"</string>
+    <string name="sr_alarm_info_20230">"NZP无法激活
+前方障碍物"</string>
+    <string name="sr_alarm_info_20231">"NZP无法激活
+洗车模式未关闭"</string>
+    <string name="sr_alarm_info_20232">"NZP已退出
+功能受限"</string>
+    <string name="sr_alarm_info_20233">"请下拨转向灯拨杆确认变道
+注意安全"</string>
+    <string name="sr_alarm_info_20234">"请上拨转向灯拨杆确认变道
+注意安全"</string>
+    <string name="sr_alarm_info_20235">"请上拨转向灯拨杆
+按导航路线行驶"</string>
+    <string name="sr_alarm_info_20236">"请下拨转向灯拨杆
+按导航路线行驶"</string>
+    <string name="sr_alarm_info_20237">"请下拨转向灯拨杆
+按导航路线行驶"</string>
+    <string name="sr_alarm_info_20238">"请上拨转向灯拨杆
+按导航路线行驶"</string>
+    <string name="sr_alarm_info_20239">"请下拨转向灯拨杆
+按导航路线行驶"</string>
+    <string name="sr_alarm_info_20240">"请上拨转向灯拨杆
+按导航路线行驶"</string>
+    <string name="sr_alarm_info_20241">正在向左超车</string>
+    <string name="sr_alarm_info_20242">正在向右超车</string>
+    <string name="sr_alarm_info_20244">"请手动变道
+前方车道受阻"</string>
+    <string name="sr_alarm_info_20245">"NZP已退出
+驾驶模式不支持"</string>
+    <string name="sr_alarm_info_20246">"NZP已退出
+洗车模式未关闭"</string>
+    <string name="sr_alarm_info_20247">"请稍后再激活NZP
+功能受限"</string>
+    <string name="sr_alarm_info_20248">"NZP无法激活
+导航未开启"</string>
+    <string name="sr_alarm_info_20249">"NZP无法激活
+设置项开关未打开"</string>
+    <string name="sr_alarm_info_20250">"NZP无法激活
+当前路段不可用"</string>
+    <string name="sr_alarm_info_20251">"NZP已退出
+超级省电模式未关闭"</string>
+    <string name="sr_alarm_info_20252">"请关闭充电盖
+否则NZP将退出"</string>
+    <string name="sr_alarm_info_20253">"请下拨转向灯拨杆确认变道
+即将驶入快车道"</string>
+    <string name="sr_alarm_info_20254">"请上拨转向灯拨杆确认变道
+即将驶入快车道"</string>
+    <string name="sr_alarm_info_20255">正在驶入快车道</string>
+    <string name="sr_alarm_info_20256">"请下拨转向灯拨杆确认变道
+避让右侧汇入口"</string>
+    <string name="sr_alarm_info_20257">"正在向左变道
+避让右侧汇入口"</string>
+    <string name="sr_alarm_info_20258">正在并入合流车道</string>
+    <string name="sr_alarm_info_20259">"请上拨转向灯拨杆确认变道
+前方汇入主路"</string>
+    <string name="sr_alarm_info_20260">"请下拨转向灯拨杆确认变道
+前方汇入主路"</string>
+    <string name="sr_alarm_info_20261">"正在向右变道
+避让左侧汇入口"</string>
+    <string name="sr_alarm_info_20262">"请上拨转向灯拨杆确认变道
+避让左侧汇入口"</string>
+    <string name="sr_alarm_info_20265">正在变道以规避风险</string>
+    <string name="sr_alarm_info_20268">小心加塞车辆</string>
+    <string name="sr_alarm_info_20270">"变道已取消
+路况危险"</string>
+    <string name="sr_alarm_info_20272">前方100m，NZP即将退出</string>
+    <string name="sr_alarm_info_20273">"车速放缓
+道旁施工"</string>
+    <string name="sr_alarm_info_20274">"车道线识别异常
+小心驾驶"</string>
+    <string name="sr_alarm_info_20275">小心行人</string>
+    <string name="sr_alarm_info_20276">"请手握方向盘
+变道已取消"</string>
+    <string name="sr_alarm_info_20277">小心大车</string>
+    <string name="sr_alarm_info_20278">风险换道等待中</string>
+    <string name="sr_alarm_info_20279">小心前方施工</string>
+    <string name="sr_alarm_info_20283">请轻转方向盘</string>
+    <string name="sr_alarm_info_20284">请轻转方向盘</string>
+    <string name="sr_alarm_info_20285">"请轻转方向盘
+否则无法帮您变道"</string>
+    <string name="sr_alarm_info_20286">"请轻转方向盘
+否则无法帮您变道"</string>
+    <string name="sr_alarm_info_20287">"请轻转方向盘
+变道已取消"</string>
+    <string name="sr_alarm_info_20288">"小心驾驶
+路况复杂"</string>
+    <string name="sr_alarm_info_20289">"暂无法主动变道
+地图受限"</string>
+    <string name="sr_alarm_info_20291">请稍后再激活NZP</string>
+    <string name="sr_alarm_info_20298">NZP高速领航已恢复</string>
+    <string name="sr_alarm_info_20299">辅助驾驶无法恢复</string>
+    <string name="sr_alarm_info_20300">"辅助驾驶无法恢复
+已超时"</string>
+    <string name="sr_alarm_info_20301">小心复杂路况</string>
+    <string name="sr_alarm_info_20302">小心路面颠簸</string>
+    <string name="sr_alarm_info_20303">小心坡道</string>
+    <string name="sr_alarm_info_20304">"车道线不清晰
+小心驾驶"</string>
+    <string name="sr_alarm_info_20305">小心急弯</string>
+    <string name="sr_alarm_info_20306">前方路况复杂</string>
+    <string name="sr_alarm_info_20307">"请在开阔环境行驶
+10分钟后再激活NZP"</string>
+    <string name="sr_alarm_info_20308">"NZP已退出
+一键漂移未关闭"</string>
+    <string name="sr_alarm_info_20309">"辅助驾驶系统启动中
+请稍后再试"</string>
+    <string name="sr_alarm_info_20310">"NZP已退出
+悬架异常"</string>
+    <string name="sr_alarm_info_20311">"车速放缓
+前方收费站"</string>
+    <string name="sr_alarm_info_20313">"NZP已退出
+请接管车辆"</string>
+    <string name="sr_alarm_info_20314">%dm后NZP即将退出</string>
+    <string name="sr_alarm_info_20315">"辅助驾驶限速中
+功能受限"</string>
+    <string name="sr_alarm_info_20316">"正在减速中
+前方汇入口"</string>
+    <string name="sr_alarm_info_20317">"正在减速中
+车道较窄"</string>
+    <string name="sr_alarm_info_20318">拥堵跟车已开启</string>
+    <string name="sr_alarm_info_20319">可调到1挡跟车距离开启拥堵跟车</string>
+    <string name="sr_alarm_info_20320">"NZP已退出
+电动拖车钩未关闭"</string>
+    <string name="sr_alarm_info_20321">"NZP无法激活
+地图暂不可用"</string>
+    <string name="sr_alarm_info_20322">"路线学习中
+辅助驾驶功能暂不可用"</string>
+    <string name="sr_alarm_info_20323">双击拨杆激活NZP</string>
+    <string name="sr_alarm_info_20324">按2下激活键激活NZP</string>
+    <string name="sr_alarm_info_20325">"正在减速中
+前方盲区"</string>
+    <string name="sr_alarm_info_20326">"正在减速中
+前方行人"</string>
+    <string name="sr_alarm_info_20327">正在减速中</string>
+    <string name="sr_alarm_info_20328">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_20329">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_20330">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_20331">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_20332">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_20333">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_20334">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_20335">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_20336">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_20337">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_20338">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_20339">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_20340">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_20341">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_20342">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_20343">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_20344">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_20345">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_20346">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_20347">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_20504">前方红灯停车</string>
+    <string name="sr_alarm_info_20505">前方绿灯起步</string>
+    <string name="sr_alarm_info_20506">请注意前方红绿灯</string>
+    <string name="sr_alarm_info_20507">请注意前方黄灯</string>
+    <string name="sr_alarm_info_20508">前方即将左转</string>
+    <string name="sr_alarm_info_20509">"正在减速中
+前方右转"</string>
+    <string name="sr_alarm_info_20510">"请手动驾驶
+前方道路变化"</string>
+    <string name="sr_alarm_info_20511">NZP通勤领航已激活</string>
+    <string name="sr_alarm_info_20513">"NZP已退出
+请接管车辆"</string>
+    <string name="sr_alarm_info_20514">绿灯通行中</string>
+    <string name="sr_alarm_info_20515">请注意红绿灯状态谨慎通行</string>
+    <string name="sr_alarm_info_20516">"小心来往车辆
+黄灯路口"</string>
+    <string name="sr_alarm_info_20517">"请立即接管
+红绿灯识别受限"</string>
+    <string name="sr_alarm_info_21019">"请手动驾驶
+即将错过路口"</string>
+    <string name="sr_alarm_info_21020">小心侧后方车辆</string>
+    <string name="sr_alarm_info_21021">前方即将右转</string>
+    <string name="sr_alarm_info_21022">前方即将掉头</string>
+    <string name="sr_alarm_info_21023">"正在减速中
+前方左转"</string>
+    <string name="sr_alarm_info_21024">"正在减速中
+路况复杂"</string>
+    <string name="sr_alarm_info_21025">"正在减速中
+前方豁口"</string>
+    <string name="sr_alarm_info_21026">"请手动向左换道
+即将错过路口"</string>
+    <string name="sr_alarm_info_21027">"请手动向右换道
+即将错过路口"</string>
+    <string name="sr_alarm_info_21028">"请手动驾驶
+前方道路受阻"</string>
+    <string name="sr_alarm_info_21029">"请降低车速
+否则NZP将退出"</string>
+    <string name="sr_alarm_info_21030">"%dm后即将掉头
+请接管车辆"</string>
+    <string name="sr_alarm_info_21031">"%dm后进入环岛
+请接管车辆"</string>
+    <string name="sr_alarm_info_21032">"%dm后路况复杂
+请接管车辆"</string>
+    <string name="sr_alarm_info_21033">"防御减速中
+小心行人横穿"</string>
+    <string name="sr_alarm_info_21034">正在礼让行人</string>
+    <string name="sr_alarm_info_21035">NZP通勤领航已恢复</string>
+    <string name="sr_alarm_info_21036">NZP通勤领航已恢复</string>
+    <string name="sr_alarm_info_21037">"请注意行驶方向
+前方特殊车道"</string>
+    <string name="sr_alarm_info_21038">"请行驶到公开道路
+NZP无法激活"</string>
+    <string name="sr_alarm_info_21039">"NZP无法激活
+行驶方向不匹配"</string>
+    <string name="sr_alarm_info_21040">NZP通勤领航已结束</string>
+    <string name="sr_alarm_info_21041">"尝试变道中
+路况复杂"</string>
+    <string name="sr_alarm_info_21042">"请轻踩加速踏板
+确认通过路口"</string>
+    <string name="sr_alarm_info_21043">正在调速至大数据车速</string>
+    <string name="sr_alarm_info_21044">正在调速至历史偏好车速</string>
+    <string name="sr_alarm_info_21045">正在调速至实时车流车速</string>
+    <string name="sr_alarm_info_21046">正在变道以远离豁口</string>
+    <string name="sr_alarm_info_21047">"即将跨实线绕行
+请注意行车安全"</string>
+    <string name="sr_alarm_info_21048">"请手动驾驶
+行驶方向不匹配"</string>
+    <string name="sr_alarm_info_21049">"NZP通勤领航无法激活
+设置项开关未打开"</string>
+    <string name="sr_alarm_info_21050">"即将重新规划至目的地
+已偏离通勤路线"</string>
+    <string name="sr_alarm_info_21051">正在进入待转区</string>
+    <string name="sr_alarm_info_21052">"请轻踩加速踏板
+确认驶入待转区"</string>
+    <string name="sr_alarm_info_21053">"即将跨实线换道
+请注意行车安全"</string>
+    <string name="sr_alarm_info_21054">即将驶入特殊车道</string>
+    <string name="sr_alarm_info_21055">正在远离公交车道</string>
+    <string name="sr_alarm_info_21056">即将驶入公交车道</string>
+    <string name="sr_alarm_info_21057">"请注意行驶时间
+当前为公交车道"</string>
+    <string name="sr_alarm_info_21058">请立即接管</string>
+    <string name="sr_alarm_info_21059">"请按确认按键
+确认通过路口"</string>
+    <string name="sr_alarm_info_21062">"已重新规划至目的地
+当前通勤路线存在限行"</string>
+    <string name="sr_alarm_info_21063">"已重新规划至目的地
+前方道路受阻"</string>
+    <string name="sr_alarm_info_21064">"已重新规划至目的地
+通勤路线恢复失败"</string>
+    <string name="sr_alarm_info_21065">"请删除不常用通勤路线
+存储空间已满"</string>
+    <string name="sr_alarm_info_21066">"可双击激活NZP
+已恢复原有通勤路线"</string>
+    <string name="sr_alarm_info_21067">"请小心驾驶
+正在通过收费站"</string>
+    <string name="sr_alarm_info_21068">"请自行更换收费车道
+路况复杂"</string>
+    <string name="sr_alarm_info_21069">"请手动向右变道
+路况复杂"</string>
+    <string name="sr_alarm_info_21070">"功能已降为LCC
+请接管车辆"</string>
+    <string name="sr_alarm_info_21071">"请轻踩加速踏板
+确认通过收费站"</string>
+    <string name="sr_alarm_info_21072">行驶至通勤路线</string>
+    <string name="sr_alarm_info_22001">"LCC已退出
+距离前车过近"</string>
+    <string name="sr_alarm_info_22004">"LCC无法激活
+驾驶模式不支持"</string>
+    <string name="sr_alarm_info_22006">"LCC无法激活
+电量过低"</string>
+    <string name="sr_alarm_info_22007">"LCC无法激活
+门锁未关闭"</string>
+    <string name="sr_alarm_info_22009">"LCC无法激活
+充电盖未关闭"</string>
+    <string name="sr_alarm_info_22011">"LCC无法激活
+安全带未系"</string>
+    <string name="sr_alarm_info_22012">"LCC无法激活
+挡位不在D挡"</string>
+    <string name="sr_alarm_info_22013">"LCC无法激活
+ESC未开启"</string>
+    <string name="sr_alarm_info_22015">"LCC无法激活
+电子驻车制动未释放"</string>
+    <string name="sr_alarm_info_22016">"LCC无法激活
+车速过高"</string>
+    <string name="sr_alarm_info_22023">LCC无法激活</string>
+    <string name="sr_alarm_info_22036">"LCC已退出
+跟停超时"</string>
+    <string name="sr_alarm_info_22037">LCC已激活</string>
+    <string name="sr_alarm_info_22038">"LCC已退出
+请接管车辆"</string>
+    <string name="sr_alarm_info_22045">请手握方向盘</string>
+    <string name="sr_alarm_info_22046">请手握方向盘</string>
+    <string name="sr_alarm_info_22047">请立即接管</string>
+    <string name="sr_alarm_info_22061">"即将变道
+前方车道受阻"</string>
+    <string name="sr_alarm_info_22073">"LCC已退出
+车速过高"</string>
+    <string name="sr_alarm_info_22075">"LCC已退出
+驾驶模式不支持"</string>
+    <string name="sr_alarm_info_22076">"请关闭门锁
+否则LCC将退出"</string>
+    <string name="sr_alarm_info_22080">"请系好安全带
+否则LCC将退出"</string>
+    <string name="sr_alarm_info_22081">"LCC已退出
+挡位不在D挡"</string>
+    <string name="sr_alarm_info_22082">"LCC已退出
+电子驻车制动未释放"</string>
+    <string name="sr_alarm_info_22083">"LCC已退出
+ESC未开启"</string>
+    <string name="sr_alarm_info_22086">"请立即接管
+否则车辆将刹停"</string>
+    <string name="sr_alarm_info_22088">"LCC即将退出
+雨量过大"</string>
+    <string name="sr_alarm_info_22089">"LCC即将退出
+电量过低"</string>
+    <string name="sr_alarm_info_22090">"请控制方向
+功能已降为ACC"</string>
+    <string name="sr_alarm_info_22091">"LCC无法激活
+自动驻车未关闭"</string>
+    <string name="sr_alarm_info_22092">"LCC无法激活
+雨量过大"</string>
+    <string name="sr_alarm_info_22140">"LCC已退出
+请接管车辆"</string>
+    <string name="sr_alarm_info_22143">"LCC已退出
+本次行程中LCC/NZP不可用"</string>
+    <string name="sr_alarm_info_22144">"功能已降为ACC
+功能受限"</string>
+    <string name="sr_alarm_info_22145">"LCC已退出
+功能受限"</string>
+    <string name="sr_alarm_info_22148">"LCC无法激活
+功能受限"</string>
+    <string name="sr_alarm_info_22149">"LCC无法激活
+超级省电模式未关闭"</string>
+    <string name="sr_alarm_info_22152">"LCC已退出
+距离前车过近"</string>
+    <string name="sr_alarm_info_22154">"请驻车后重新挂挡
+再尝试激活功能"</string>
+    <string name="sr_alarm_info_22155">"请立即接管
+正在识别可用车道"</string>
+    <string name="sr_alarm_info_22156">LCC已恢复</string>
+    <string name="sr_alarm_info_22157">"LCC无法激活
+胎压不足"</string>
+    <string name="sr_alarm_info_22158">LCC无法激活</string>
+    <string name="sr_alarm_info_22159">"LCC无法激活
+请挂挡后尝试"</string>
+    <string name="sr_alarm_info_22160">"LCC无法激活
+车辆未居中行驶"</string>
+    <string name="sr_alarm_info_22161">"请轻握方向盘
+LCC无法激活"</string>
+    <string name="sr_alarm_info_22162">"LCC无法激活
+车速过高"</string>
+    <string name="sr_alarm_info_22164">"LCC无法激活
+设置项开关未打开"</string>
+    <string name="sr_alarm_info_22165">"LCC无法激活
+前方障碍物"</string>
+    <string name="sr_alarm_info_22166">"LCC无法激活
+洗车模式未关闭"</string>
+    <string name="sr_alarm_info_22167">"LCC无法激活
+刹车踏板未松开"</string>
+    <string name="sr_alarm_info_22168">"LCC无法激活
+距离前车过近"</string>
+    <string name="sr_alarm_info_22169">"LCC无法激活
+车道条件不满足"</string>
+    <string name="sr_alarm_info_22170">"LCC已退出
+车辆未Ready"</string>
+    <string name="sr_alarm_info_22171">"LCC已退出
+洗车模式未关闭"</string>
+    <string name="sr_alarm_info_22172">"LCC已退出
+超级省电模式未关闭"</string>
+    <string name="sr_alarm_info_22173">"LCC即将退出
+胎压不足"</string>
+    <string name="sr_alarm_info_22174">"请关闭充电盖
+否则LCC将退出"</string>
+    <string name="sr_alarm_info_22177">"请稍后再激活LCC
+功能受限"</string>
+    <string name="sr_alarm_info_22178">"车速放缓
+前方路口"</string>
+    <string name="sr_alarm_info_22179">小心危险车辆</string>
+    <string name="sr_alarm_info_22180">"LCC即将退出
+前方路况复杂"</string>
+    <string name="sr_alarm_info_22181">请轻转方向盘</string>
+    <string name="sr_alarm_info_22182">请轻转方向盘</string>
+    <string name="sr_alarm_info_22183">LCC已恢复</string>
+    <string name="sr_alarm_info_22184">"即将靠左行驶
+可拨转向灯拨杆换道"</string>
+    <string name="sr_alarm_info_22185">"即将靠右行驶
+可拨转向灯拨杆换道"</string>
+    <string name="sr_alarm_info_22186">可下拨转向灯拨杆选择靠左行驶</string>
+    <string name="sr_alarm_info_22187">可上拨转向灯拨杆选择靠右行驶</string>
+    <string name="sr_alarm_info_22188">"即将靠左行驶
+可拨转向灯拨杆切换"</string>
+    <string name="sr_alarm_info_22189">"即将靠右行驶
+可拨转向灯拨杆切换"</string>
+    <string name="sr_alarm_info_22190">"LCC无法激活
+请沿车道一侧行驶"</string>
+    <string name="sr_alarm_info_22191">"车速放缓
+邻车道交通缓慢"</string>
+    <string name="sr_alarm_info_22192">小心急弯</string>
+    <string name="sr_alarm_info_22193">请注意车速</string>
+    <string name="sr_alarm_info_22194">"车速放缓
+路口弯道"</string>
+    <string name="sr_alarm_info_22195">"功能已降为ACC
+路况复杂"</string>
+    <string name="sr_alarm_info_22196">"LCC无法激活
+当前路段不可用"</string>
+    <string name="sr_alarm_info_22197">"请立即接管
+长时间压线行驶"</string>
+    <string name="sr_alarm_info_22200">"LCC无法激活
+一键漂移未关闭"</string>
+    <string name="sr_alarm_info_22201">"LCC已退出
+一键漂移未关闭"</string>
+    <string name="sr_alarm_info_22202">"LCC无法激活
+电动拖车钩未关闭"</string>
+    <string name="sr_alarm_info_22203">"LCC无法激活
+悬架异常"</string>
+    <string name="sr_alarm_info_22204">"LCC已退出
+悬架异常"</string>
+    <string name="sr_alarm_info_22205">"LCC已退出
+请接管车辆"</string>
+    <string name="sr_alarm_info_22206">"LCC已退出
+电动拖车钩未关闭"</string>
+    <string name="sr_alarm_info_22213">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_22214">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_22215">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_22216">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_22217">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_22218">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_22219">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_22220">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_22221">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_22222">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_22223">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_22224">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_22225">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_22226">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_23001">ACC已激活</string>
+    <string name="sr_alarm_info_23002">"ACC已退出
+请接管车辆"</string>
+    <string name="sr_alarm_info_23006">"ACC无法激活
+驾驶模式不支持"</string>
+    <string name="sr_alarm_info_23007">"ACC无法激活
+电量过低"</string>
+    <string name="sr_alarm_info_23010">"ACC无法激活
+充电盖未关闭"</string>
+    <string name="sr_alarm_info_23012">"ACC无法激活
+挡位不在D挡"</string>
+    <string name="sr_alarm_info_23014">"ACC无法激活
+安全带未系"</string>
+    <string name="sr_alarm_info_23016">"ACC无法激活
+ESC未开启"</string>
+    <string name="sr_alarm_info_23018">"ACC无法激活
+电子驻车制动未释放"</string>
+    <string name="sr_alarm_info_23019">"ACC无法激活
+车速过高"</string>
+    <string name="sr_alarm_info_23021">"ACC即将退出
+电量过低"</string>
+    <string name="sr_alarm_info_23026">"ACC已退出
+挡位不在D挡"</string>
+    <string name="sr_alarm_info_23028">"请系好安全带
+否则ACC将退出"</string>
+    <string name="sr_alarm_info_23030">"ACC已退出
+ESC未开启"</string>
+    <string name="sr_alarm_info_23031">"ACC已退出
+电子驻车制动未释放"</string>
+    <string name="sr_alarm_info_23033">"ACC已退出
+车速过高"</string>
+    <string name="sr_alarm_info_23036">"ACC无法激活
+自动驻车未关闭"</string>
+    <string name="sr_alarm_info_23037">"ACC无法激活
+雨量过大"</string>
+    <string name="sr_alarm_info_23038">"ACC即将退出
+雨量过大"</string>
+    <string name="sr_alarm_info_23039">"ACC无法激活
+门锁未关闭"</string>
+    <string name="sr_alarm_info_23041">ACC无法激活</string>
+    <string name="sr_alarm_info_23043">"ACC无法激活
+距离前车过近"</string>
+    <string name="sr_alarm_info_23044">"ACC无法激活
+刹车踏板未松开"</string>
+    <string name="sr_alarm_info_23045">"ACC无法激活
+胎压不足"</string>
+    <string name="sr_alarm_info_23047">ACC无法激活</string>
+    <string name="sr_alarm_info_23048">"ACC无法激活
+超级省电模式未关闭"</string>
+    <string name="sr_alarm_info_23051">"请关闭门锁
+否则ACC将退出"</string>
+    <string name="sr_alarm_info_23052">"ACC已退出
+请接管车辆"</string>
+    <string name="sr_alarm_info_23053">"ACC即将退出
+胎压不足"</string>
+    <string name="sr_alarm_info_23054">"ACC已退出
+车辆未Ready"</string>
+    <string name="sr_alarm_info_23058">"ACC已退出
+距离前车过近"</string>
+    <string name="sr_alarm_info_23060">"ACC已退出
+跟停超时"</string>
+    <string name="sr_alarm_info_23063">"请控制车辆避让
+前方障碍物"</string>
+    <string name="sr_alarm_info_23068">"ACC无法激活
+功能受限"</string>
+    <string name="sr_alarm_info_23069">"ACC已退出
+功能受限"</string>
+    <string name="sr_alarm_info_23070">"ACC已退出
+请接管车辆"</string>
+    <string name="sr_alarm_info_23115">"ACC无法激活
+前方障碍物"</string>
+    <string name="sr_alarm_info_23116">"ACC无法激活
+洗车模式未关闭"</string>
+    <string name="sr_alarm_info_23118">"ACC无法激活
+请挂挡后尝试"</string>
+    <string name="sr_alarm_info_23120">ACC已恢复</string>
+    <string name="sr_alarm_info_23121">"请关闭充电盖
+否则ACC将退出"</string>
+    <string name="sr_alarm_info_23122">"ACC已退出
+洗车模式未关闭"</string>
+    <string name="sr_alarm_info_23123">"ACC已退出
+驾驶模式不支持"</string>
+    <string name="sr_alarm_info_23126">ACC已恢复</string>
+    <string name="sr_alarm_info_23127">"ACC无法激活
+一键漂移未关闭"</string>
+    <string name="sr_alarm_info_23128">"ACC已退出
+一键漂移未关闭"</string>
+    <string name="sr_alarm_info_23129">"ACC无法激活
+电动拖车钩未关闭"</string>
+    <string name="sr_alarm_info_23130">"ACC无法激活
+悬架异常"</string>
+    <string name="sr_alarm_info_23131">"ACC已退出
+悬架异常"</string>
+    <string name="sr_alarm_info_23132">"ACC已退出
+电动拖车钩未关闭"</string>
+    <string name="sr_alarm_info_23133">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_23134">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_23135">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_23136">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_23137">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_23138">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_23139">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_23140">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_23141">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_23142">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_23143">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_23144">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_23145">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_23146">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_23147">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_23148">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_23149">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_23150">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_23151">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_23152">感谢您使用辅助驾驶功能</string>
+    <string name="sr_alarm_info_27001">"代客泊车无法激活
+请挂其它挡位"</string>
+    <string name="sr_alarm_info_27002">"代客泊车无法激活
+方向盘未松开"</string>
+    <string name="sr_alarm_info_27003">"代客泊车无法激活
+请回到车道内尝试"</string>
+    <string name="sr_alarm_info_27004">"代客泊车无法激活
+车速过高"</string>
+    <string name="sr_alarm_info_27005">"代客泊车无法激活
+坡度过大"</string>
+    <string name="sr_alarm_info_27006">"代客泊车无法激活
+门锁未关闭"</string>
+    <string name="sr_alarm_info_27008">"代客泊车无法激活
+充电盖未关闭"</string>
+    <string name="sr_alarm_info_27010">"代客泊车无法激活
+安全带未系"</string>
+    <string name="sr_alarm_info_27012">代客泊车无法激活</string>
+    <string name="sr_alarm_info_27013">"代客泊车无法激活
+功能受限"</string>
+    <string name="sr_alarm_info_27014">"代客泊车无法激活
+请挂挡后尝试"</string>
+    <string name="sr_alarm_info_27017">正在礼让行人</string>
+    <string name="sr_alarm_info_27020">"已踩下加速踏板
+车辆不会自动减速"</string>
+    <string name="sr_alarm_info_27021">代客泊车已退出</string>
+    <string name="sr_alarm_info_27023">"请立即接管
+功能受限"</string>
+    <string name="sr_alarm_info_27024">"代客泊车已退出
+目的地无可泊车位"</string>
+    <string name="sr_alarm_info_27025">请松开刹车</string>
+    <string name="sr_alarm_info_27029">"代客泊车完成
+已到达目的地"</string>
+    <string name="sr_alarm_info_27030">"不在地图范围
+请返回路线范围内"</string>
+    <string name="sr_alarm_info_27031">"代客泊车已退出
+功能受限"</string>
+    <string name="sr_alarm_info_27032">"规划失败
+请选择其它目的地"</string>
+    <string name="sr_alarm_info_27033">"目的地就在附近
+可使用自动泊车"</string>
+    <string name="sr_alarm_info_27038">"请系好安全带
+否则代客泊车即将退出"</string>
+    <string name="sr_alarm_info_27039">"请关闭门锁
+否则代客泊车即将退出"</string>
+    <string name="sr_alarm_info_27040">请行驶到园区或停车场学习路线</string>
+    <string name="sr_alarm_info_27041">"路线学习暂不可用
+光线较暗"</string>
+    <string name="sr_alarm_info_27042">"路线学习暂不可用
+请挂挡后尝试"</string>
+    <string name="sr_alarm_info_27044">"路线学习暂不可用
+功能受限"</string>
+    <string name="sr_alarm_info_27052">"车速过高
+请减速"</string>
+    <string name="sr_alarm_info_27053">"路线学习失败
+光线较暗"</string>
+    <string name="sr_alarm_info_27055">"路线学习失败
+功能受限"</string>
+    <string name="sr_alarm_info_27064">代客泊车已激活</string>
+    <string name="sr_alarm_info_27072">"路线学习中
+请关闭车门"</string>
+    <string name="sr_alarm_info_27073">"路线学习中
+请展开后视镜"</string>
+    <string name="sr_alarm_info_27078">"功能暂不可用
+请勿移动车辆"</string>
+    <string name="sr_alarm_info_27079">"功能暂不可用
+请重新进入停车场尝试"</string>
+    <string name="sr_alarm_info_27080">"路线生成失败
+请重新进入停车场入口尝试"</string>
+    <string name="sr_alarm_info_27081">"代客泊车已退出
+等待超时"</string>
+    <string name="sr_alarm_info_27082">请注意闸机</string>
+    <string name="sr_alarm_info_27084">"无法泊入目的地
+即将泊入附近车位"</string>
+    <string name="sr_alarm_info_27085">请先选择目的地进行导航</string>
+    <string name="sr_alarm_info_27087">"代客泊车无法激活
+ESC未开启"</string>
+    <string name="sr_alarm_info_27089">请回正方向盘</string>
+    <string name="sr_alarm_info_27090">"代客泊车无法激活
+超级省电模式未关闭"</string>
+    <string name="sr_alarm_info_27091">"代客泊车无法激活
+洗车模式未关闭"</string>
+    <string name="sr_alarm_info_27092">"代客泊车无法激活
+赛道模式未关闭"</string>
+    <string name="sr_alarm_info_27093">"代客泊车无法激活
+电动拖车钩未关闭"</string>
+    <string name="sr_alarm_info_27094">"代客泊车无法激活
+坦克掉头模式未关闭"</string>
+    <string name="sr_alarm_info_27095">"代客泊车无法激活
+一键漂移模式未关闭"</string>
+    <string name="sr_alarm_info_27098">"请关闭充电盖
+否则代客泊车即将退出"</string>
+    <string name="sr_alarm_info_27099">"代客泊车已退出
+请立即接管"</string>
+    <string name="sr_alarm_info_27100">"代客泊车已退出
+ESC未开启"</string>
+    <string name="sr_alarm_info_27102">"坡度过大
+代客泊车即将退出"</string>
+    <string name="sr_alarm_info_27103">"环境较暗
+代客泊车即将退出"</string>
+    <string name="sr_alarm_info_27104">"代客泊车已退出
+超级省电模式未关闭"</string>
+    <string name="sr_alarm_info_27105">"代客泊车已退出
+洗车模式未关闭"</string>
+    <string name="sr_alarm_info_27106">"代客泊车已退出
+赛道模式未关闭"</string>
+    <string name="sr_alarm_info_27107">"代客泊车已退出
+电动拖车钩未关闭"</string>
+    <string name="sr_alarm_info_27108">"代客泊车已退出
+坦克掉头模式未关闭"</string>
+    <string name="sr_alarm_info_27109">"代客泊车已退出
+一键漂移模式未关闭"</string>
+    <string name="sr_alarm_info_27110">请立即接管</string>
+    <string name="sr_alarm_info_27111">请先结束导航并接管车辆</string>
+    <string name="sr_alarm_info_27113">"胎压不足
+代客泊车即将退出"</string>
+    <string name="sr_alarm_info_27114">"路线学习暂不可用
+定位失败"</string>
+    <string name="sr_alarm_info_27115">"代客泊车无法使用
+功能受限"</string>
+    <string name="sr_alarm_info_27116">"代客泊车无法激活
+胎压不足"</string>
+    <string name="sr_alarm_info_27117">"代客泊车无法激活
+雨量过大"</string>
+    <string name="sr_alarm_info_27118">"雨量过大
+代客泊车即将退出"</string>
+    <string name="sr_alarm_info_27119">请先在设置-ZEEKR AD中开启此功能</string>
+    <string name="sr_alarm_info_27120">挂入P档完成学习</string>
+    <string name="sr_alarm_info_27121">可点击车位使用自动泊车功能</string>
+    <string name="sr_alarm_info_29000">紧急制动中！</string>
+    <string name="sr_alarm_info_30001">请注意左前侧！</string>
+    <string name="sr_alarm_info_30002">请注意右前侧！</string>
+    <string name="sr_alarm_info_30003">紧急制动中！</string>
+    <string name="sr_alarm_info_30004">紧急制动中！</string>
+    <string name="sr_alarm_info_30005">请注意左前侧！</string>
+    <string name="sr_alarm_info_30006">请注意右前侧！</string>
+    <string name="sr_alarm_info_31000">请注意后方！</string>
+    <string name="sr_alarm_info_31001">请注意后方！</string>
+    <string name="sr_alarm_info_32000">请注意左后侧！</string>
+    <string name="sr_alarm_info_32001">请注意左后侧！</string>
+    <string name="sr_alarm_info_32002">请注意右后侧！</string>
+    <string name="sr_alarm_info_32003">请注意右后侧！</string>
+    <string name="sr_alarm_info_32004">紧急制动中！</string>
+    <string name="sr_alarm_info_32005">紧急制动中！</string>
+    <string name="sr_alarm_info_33000">请手握方向盘！</string>
+    <string name="sr_alarm_info_33001">请手握方向盘！</string>
+    <string name="sr_alarm_info_33004">紧急避让中！</string>
+    <string name="sr_alarm_info_33005">左侧车道偏离预警功能已激活！</string>
+    <string name="sr_alarm_info_33006">右侧车道偏离预警功能已激活！</string>
+    <string name="sr_alarm_info_33007">请轻转方向盘！</string>
+    <string name="sr_alarm_info_34000">前车已驶离</string>
+    <string name="sr_alarm_info_34002">请注意红灯！</string>
+    <string name="sr_alarm_info_34003">请注意红灯！</string>
+    <string name="sr_alarm_info_34004">请注意红灯！</string>
+    <string name="sr_alarm_info_34005">请注意右转红灯！</string>
+    <string name="sr_alarm_info_34006">请注意右转红灯！</string>
+    <string name="sr_alarm_info_35001">请注意车距！</string>
+    <string name="sr_alarm_info_35002">请制动！</string>
+    <string name="sr_alarm_info_35003">紧急制动中！</string>
+    <string name="sr_alarm_info_35004">请制动！</string>
+    <string name="sr_alarm_info_35005">辅助制动中！</string>
+    <string name="sr_alarm_info_35006">请注意左前侧盲区！</string>
+    <string name="sr_alarm_info_35007">请注意右前侧盲区！</string>
+    <string name="sr_alarm_info_35008">请注意左侧！</string>
+    <string name="sr_alarm_info_35009">请注意右侧！</string>
+    <string name="sr_alarm_info_35010">请注意前方！</string>
+    <string name="sr_alarm_info_38000">开门请注意！</string>
+    <string name="sr_alarm_info_38001">开门请注意！</string>
+    <string name="sr_alarm_info_38002">开门请注意！</string>
+    <string name="sr_alarm_info_38003">开门请注意！</string>
+    <string name="sr_alarm_info_38004">开门请注意！</string>
+    <string name="sr_alarm_info_40001">紧急避让中！</string>
+    <string name="sr_alarm_info_42000">请松开加速踏板！</string>
+    <string name="sr_alarm_info_44000">紧急避让中！</string>
+    <string name="srl_content_empty">未添加任何布局</string>
+    <string name="srl_footer_failed">加载更多失败</string>
+    <string name="srl_footer_finish">加载更多成功</string>
+    <string name="srl_footer_loading">正在加载更多</string>
+    <string name="srl_footer_nothing">No More Data</string>
+    <string name="srl_footer_pulling">上拉加载更多</string>
+    <string name="srl_footer_refreshing">等待加载更多</string>
+    <string name="srl_footer_release">释放加载更多</string>
+    <string name="srl_header_failed">刷新失败</string>
+    <string name="srl_header_finish">刷新成功</string>
+    <string name="srl_header_loading">等待加载</string>
+    <string name="srl_header_pulling">下拉刷新</string>
+    <string name="srl_header_refreshing">正在刷新</string>
+    <string name="srl_header_release">释放刷新</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stream_media">Digital rearview mirror</string>
+    <string name="switch_car3d">Switch to 3D vehicle model</string>
+    <string name="switch_map">Switch to map</string>
+    <string name="tab_mini_app">Mini Program</string>
+    <string name="tab_zeekr_lab">Z-emulator</string>
+    <string name="take_picture">拍照</string>
+    <string name="take_video">录像</string>
+    <string name="task_tips_content">当前后台无运行中的应用程序</string>
+    <string name="through_lamp">Wraparound taillight</string>
+    <string name="tip_backrest_is_running">This app is currently being used on the rear screen. Opening it here will interrupt their session</string>
+    <string name="tip_csd_is_running">This app is currently being used on the front screen. Opening it here will interrupt their session</string>
+    <string name="tire_pressure_fault">--</string>
+    <string name="tire_pressure_pressure_unit_bar">bar</string>
+    <string name="tire_pressure_pressure_unit_kpa">kPa</string>
+    <string name="tire_pressure_pressure_unit_psi">psi</string>
+    <string name="tire_pressure_suggestion">Recommended tire pressure</string>
+    <string name="tire_pressure_suggestion_value" formatted="false">Half load %1$skPa %nFull load %2$skPa</string>
+    <string name="tire_pressure_suggestion_value_a2">260~290kPa</string>
+    <string name="title_baby_mode">宝贝模式</string>
+    <string name="title_child_lock">童锁守护</string>
+    <string name="title_child_protect">儿童守护</string>
+    <string name="to_aiqilisten">Go to Wecarflow</string>
+    <string name="to_bilibili">Go to Bililbili</string>
+    <string name="to_connect_bluetooth">Go to Connect</string>
+    <string name="to_media_name">Go to</string>
+    <string name="to_netease">Go to NetEase Cloud Music</string>
+    <string name="to_online_music">Go to Online Media</string>
+    <string name="to_qq_music">Go to QQ Music</string>
+    <string name="track_mode">Track mode</string>
+    <string name="trips_100_km_caps">100km</string>
+    <string name="trips_10_km_caps">10km</string>
+    <string name="trips_avg_energy">Average energy consumption</string>
+    <string name="trips_distance">Driving distance</string>
+    <string name="trips_elapsed_time">Time</string>
+    <string name="trunk">Trunk</string>
+    <string name="udisk_connected">USB Music - My USB</string>
+    <string name="udisk_no_connect">USB Music - Not connected</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="uninstall_application">Uninstall application</string>
+    <string name="uninstall_failure">Uninstall failed</string>
+    <string name="unlock_all">全部解锁</string>
+    <string name="usb_app_name_1">USB Music</string>
+    <string name="usb_app_name_2">USB</string>
+    <string name="uvi_levels_unknown1">Low</string>
+    <string name="uvi_levels_unknown2">Moderate</string>
+    <string name="uvi_levels_unknown3">High</string>
+    <string name="uvi_levels_unknown4">Very high</string>
+    <string name="uvi_levels_unknown5">Extreme</string>
+    <string name="vehicle_condition_label">VehicleCondition</string>
+    <string name="video_empty_text">"For more video resources
+please go to the app to check"</string>
+    <string name="visitor_mode_unavailable">访客模式下不可用</string>
+    <string name="weather_altitude">Altitude:</string>
+    <string name="weather_aqs">Air Quality:</string>
+    <string name="weather_card_title">Weather</string>
+    <string name="weather_failed">Loading failed</string>
+    <string name="weather_loading">Loading…</string>
+    <string name="weather_net_unavailable">Poor network. Please try again later</string>
+    <string name="weather_refresh">Refresh</string>
+    <string name="weather_uvi">UV:</string>
+    <string name="widget_drive_score_h">h</string>
+    <string name="widget_drive_score_km">km</string>
+    <string name="widget_drive_score_kwh">kWh</string>
+    <string name="widget_drive_score_min">min</string>
+    <string name="xpopup_image_not_exist">Image not exist</string>
+    <string name="xpopup_save">save</string>
+    <string name="xpopup_saved_fail">Image save failed</string>
+    <string name="xpopup_saved_to_gallery">Saved to album</string>
+    <string name="zeekr_back">back</string>
+    <string name="zeekr_cancel">cancel</string>
+    <string name="zeekr_component_spring">Spring</string>
+    <string name="zeekr_ok">ok</string>
+    <string name="zeekr_show_psw">show password</string>
+</resources>

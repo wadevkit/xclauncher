@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zeekr-appwidget-provider description="@string/vehicle_condition_label" initialLayout="@layout/widget_vehicle_condition" previewImage="@drawable/pre_ic_launcher" previewLayout="@layout/widget_vehicle_condition" targetCellHeight="1" targetCellWidth="2" />

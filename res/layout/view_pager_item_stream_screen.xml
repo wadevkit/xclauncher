@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.zeekr.component.button.ZeekrToggleButton android:textSize="@dimen/widget_text_size" android:id="@id/layout_see_back_row_view_pager" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/see_back_row" android:layout_weight="1.0" app:icon="@drawable/see_back_row" app:iconGravity="textTop" app:iconPadding="@dimen/widget_layout_see_back_row_view_pager_icon_padding" app:iconSize="@dimen/widget_layout_see_back_row_view_pager_icon_size" app:iconTint="@null" style="@style/Widget.ZeekrButton.Toggle" />
+    <Space android:layout_width="@dimen/widget_layout_baby_mode_Space_width" android:layout_height="fill_parent" />
+    <com.zeekr.component.button.ZeekrButton android:textSize="@dimen/widget_text_size" android:id="@id/layout_image_control_view_pager" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/image_control" android:layout_weight="1.0" app:icon="@drawable/image_control" app:iconGravity="textTop" app:iconPadding="@dimen/btn_baby_mode_icon_padding" app:iconSize="@dimen/widget_layout_see_back_row_view_pager_icon_size" app:iconTint="@null" style="@style/Widget.ZeekrButton.GhostButton" />
+</LinearLayout>

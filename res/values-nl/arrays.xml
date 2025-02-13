@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aqi_levels">
+        <item>Uitstekend</item>
+        <item>Goed</item>
+        <item>Matig</item>
+        <item>USG</item>
+        <item>Ongezond</item>
+        <item>Zeer ongezond</item>
+        <item>Gevaarlijk</item>
+    </string-array>
+    <string-array name="uvi_levels">
+        <item>Laag</item>
+        <item>Matig</item>
+        <item>Hoog</item>
+        <item>Zeer hoog</item>
+        <item>Extreem</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/dock_bar_function_icon_size" android:width="@dimen/dock_bar_function_icon_size" android:viewportWidth="56.0" android:viewportHeight="56.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ff85898c" android:pathData="M56,7L56,49A7,7 0,0 1,49 56L7,56A7,7 0,0 1,0 49L0,7A7,7 0,0 1,7 0L49,0A7,7 0,0 1,56 7z" android:strokeAlpha="0.1" android:fillAlpha="0.08" />
+    <path android:fillColor="#ff85898c" android:pathData="M34.292,28C34.292,29.895 35.827,31.43 37.722,31.43C39.617,31.43 41.153,29.895 41.153,28C41.153,26.105 39.617,24.569 37.722,24.569C35.827,24.569 34.292,26.105 34.292,28Z" />
+    <path android:fillColor="#ff85898c" android:pathData="M24.57,28C24.57,29.895 26.105,31.43 28,31.43C29.895,31.43 31.431,29.895 31.431,28C31.431,26.105 29.895,24.569 28,24.569C26.105,24.569 24.57,26.105 24.57,28Z" />
+    <path android:fillColor="#ff85898c" android:pathData="M14.847,28C14.847,29.895 16.383,31.43 18.278,31.43C20.172,31.43 21.708,29.895 21.708,28C21.708,26.105 20.172,24.569 18.278,24.569C16.383,24.569 14.847,26.105 14.847,28Z" />
+</vector>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aqi_levels">
+        <item>Fremragende</item>
+        <item>God</item>
+        <item>Moderat</item>
+        <item>USG</item>
+        <item>Usund</item>
+        <item>Meget usund</item>
+        <item>Farlig</item>
+    </string-array>
+    <string-array name="uvi_levels">
+        <item>Lav</item>
+        <item>moderat</item>
+        <item>høj</item>
+        <item>meget høj</item>
+        <item>ekstrem</item>
+    </string-array>
+</resources>

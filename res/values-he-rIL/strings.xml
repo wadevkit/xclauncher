@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_not_install">ודא שהאפליקציה להגנת ילדים מותקנת.</string>
+    <string name="charge_charge_error_big_tips">תקלה בטעינה, בדוק מיד!</string>
+    <string name="charge_charging_done_tips">הטעינה נעצרה, זכור לנתק</string>
+    <string name="charge_charging_full">עדיפות לטעינה מלאה</string>
+    <string name="charge_charging_limit">להטעין עד גבול</string>
+    <string name="charge_connect">התחברות</string>
+    <string name="charge_connect_tips">המתן בסבלנות</string>
+    <string name="charge_daily">יומי</string>
+    <string name="charge_default_text">--</string>
+    <string name="charge_dis_stop">עצור V2L</string>
+    <string name="charge_estimate">&lt;span color=#9985898C font-size=28px>זמן נותר&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=56px>%1$s&lt;/span > &lt;span color=#9985898C font-size=28px>h&lt;/span > &lt;span color=#85898C font-size=56px>%2$s&lt;/span > &lt;span color=#9985898C font-size=28px>min&lt;/span ></string>
+    <string name="charge_estimate_24">&lt;span color=#9985898C font-size=28px>זמן נותר&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=56px>>24&lt;/span > &lt;span color=#9985898C font-size=28px>h&lt;/span ></string>
+    <string name="charge_estimate_24_day">&lt;span color=#99383A3D font-size=28px>זמן נותר&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=56px>>24&lt;/span > &lt;span color=#99383A3D font-size=28px>h&lt;/span ></string>
+    <string name="charge_estimate_day">" &lt;span color=#99383A3D font-size=28px>זמן נותר&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=56px>%1$s&lt;/span > &lt;span color=#99383A3D font-size=28px>h&lt;/span > &lt;span color=#383A3D font-size=56px>%2$s&lt;/span > &lt;span color=#99383A3D font-size=28px>min&lt;/span > "</string>
+    <string name="charge_estimate_no_hour">&lt;span color=#9985898C font-size=28px>זמן נותר&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=56px>%1$s&lt;/span > &lt;span color=#9985898C font-size=28px>min&lt;/span ></string>
+    <string name="charge_estimate_no_hour_day">" &lt;span color=#99383A3D font-size=28px>זמן נותר&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=56px>%1$s&lt;/span > &lt;span color=#99383A3D font-size=28px>min&lt;/span > "</string>
+    <string name="charge_fully">טעינה מלאה בקרוב</string>
+    <string name="charge_next_day">יום למחרת</string>
+    <string name="charge_no_plug">לא מחובר</string>
+    <string name="charge_plug_connect_ac">התחבר</string>
+    <string name="charge_plug_connect_dc">מחובר (DC)</string>
+    <string name="charge_plug_connect_fault">תקלת חיבור</string>
+    <string name="charge_plug_connect_fault_tips">תקלה בחיבור, בדוק מיד!</string>
+    <string name="charge_plug_connect_tips">מחובר אך לא נטען</string>
+    <string name="charge_plug_connect_waiting">לא מחובר לגמרי</string>
+    <string name="charge_plug_no_active">עמדת טעינה לא מופעלת</string>
+    <string name="charge_plug_no_double">אין לחבר בו-זמנית את המטענים ל-AC ול-DC</string>
+    <string name="charge_plug_no_double_tips">חריגה בחיבור. בדוק מיד!</string>
+    <string name="charge_power_supply_capacity">&lt;span color=#9985898C font-size=28px>כמות V2L&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=56px>%1$s&lt;/span > &lt;span color=#9985898C font-size=28px>kWh&lt;/span ></string>
+    <string name="charge_power_supply_capacity_all">&lt;span color=#9985898C font-size=28px>סטטיסטיקות V2L&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=56px>%1$s&lt;/span > &lt;span color=#9985898C font-size=28px>kWh&lt;/span ></string>
+    <string name="charge_power_supply_capacity_all_day">&lt;span color=#99383A3D font-size=28px>סטטיסטיקות V2L&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=56px>%1$s&lt;/span > &lt;span color=#99383A3D font-size=28px>kWh&lt;/span ></string>
+    <string name="charge_power_supply_capacity_day">&lt;span color=#99383A3D font-size=28px>כמות V2L&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=56px>%1$s&lt;/span > &lt;span color=#99383A3D font-size=28px>kWh&lt;/span ></string>
+    <string name="charge_pre_time">" &lt;span color=#9985898C font-size=28px>תזמון טעינה&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=24px>יומי&lt;/span > &lt;span color=#85898C font-size=48px>%1$s&lt;/span >"</string>
+    <string name="charge_pre_time_day">" &lt;span color=#99383A3D font-size=28px>תזמון טעינה&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=24px>יומי&lt;/span > &lt;span color=#383A3D font-size=48px>%1$s&lt;/span >"</string>
+    <string name="charge_pre_time_full" formatted="false">" &lt;span color=#9985898C font-size=28px>תזמון טעינה&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=24px>יומי&lt;/span > &lt;span color=#85898C font-size=48px>%1$s&lt;/span > &lt;span color=#85898C font-size=40px>עדיפות לטעינה מלאה 100%&lt;/span >"</string>
+    <string name="charge_pre_time_full_day" formatted="false">" &lt;span color=#99383A3D font-size=28px>תזמון טעינה&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=24px>יומי&lt;/span > &lt;span color=#383A3D font-size=48px>%1$s&lt;/span > &lt;span color=#383A3D font-size=40px>עדיפות לטעינה מלאה 100%&lt;/span >"</string>
+    <string name="charge_pre_time_limit">" &lt;span color=#9985898C font-size=28px>תזמון טעינה&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=24px>יומי&lt;/span > &lt;span color=#85898C font-size=48px>%1$s&lt;/span > &lt;span color=#85898C font-size=40px>להטעין עד גבול&lt;/span >"</string>
+    <string name="charge_pre_time_limit_day">" &lt;span color=#99383A3D font-size=28px>תזמון טעינה&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=24px>יומי&lt;/span > &lt;span color=#383A3D font-size=48px>%1$s&lt;/span > &lt;span color=#383A3D font-size=40px>להטעין עד גבול&lt;/span >"</string>
+    <string name="charge_pre_time_next">" &lt;span color=#9985898C font-size=28px>תזמון טעינה&lt;/span > &lt;br>&lt;/br> &lt;span color=#85898C font-size=24px>יומי&lt;/span > &lt;span color=#85898C font-size=48px>%1$s&lt;/span > &lt;span color=#85898C font-size=24px>יום למחרת&lt;/span > &lt;span color=#85898C font-size=48px>%2$s&lt;/span >"</string>
+    <string name="charge_pre_time_next_day">" &lt;span color=#99383A3D font-size=28px>תזמון טעינה&lt;/span > &lt;br>&lt;/br> &lt;span color=#383A3D font-size=24px>יומי&lt;/span > &lt;span color=#383A3D font-size=48px>%1$s&lt;/span > &lt;span color=#383A3D font-size=24px>יום למחרת&lt;/span > &lt;span color=#383A3D font-size=48px>%2$s&lt;/span >"</string>
+    <string name="charge_pre_time_title">תזמון טעינה</string>
+    <string name="charge_start">התחל טעינה</string>
+    <string name="charge_status_battery_fault">תקלה בסוללת אספקת חשמל</string>
+    <string name="charge_status_booking">טעינה מתוזמנת</string>
+    <string name="charge_status_boosting">טעינה מהירה</string>
+    <string name="charge_status_charging">טעינה</string>
+    <string name="charge_status_charging_done">טעינה הופסקה</string>
+    <string name="charge_status_charging_fault">כשל טעינה</string>
+    <string name="charge_status_discharging">V2L בתהליך</string>
+    <string name="charge_status_discharging_done">V2L ended</string>
+    <string name="charge_status_discharging_fault">V2L תקלה</string>
+    <string name="charge_status_preheating">ויסות טמפרטורת סוללה</string>
+    <string name="charge_status_super_fast_charging">טעינה Z</string>
+    <string name="charge_stop">הפסק טעינה</string>
+    <string name="charge_temperature_tips">ויסות טמפרטורה. המתן בסבלנות</string>
+</resources>

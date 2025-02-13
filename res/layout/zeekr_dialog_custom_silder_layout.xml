@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.zeekr.component.selection.SwitchButton android:id="@id/zeekr_hor_slider1" android:layout_width="200.0dip" android:layout_height="wrap_content" android:layout_margin="60.0dip" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="parent" />
+    <com.zeekr.component.slider.ZeekrHorizontalSlider android:id="@id/zeekr_hor_slider2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="30.0dip" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/zeekr_hor_slider1" app:sliderBrightnessShow="false" app:sliderDisplayRight="true" />
+</merge>

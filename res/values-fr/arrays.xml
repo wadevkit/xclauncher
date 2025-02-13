@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aqi_levels">
+        <item>Excellent</item>
+        <item>Bon</item>
+        <item>Modéré</item>
+        <item>USG</item>
+        <item>Malsain</item>
+        <item>Très malsain</item>
+        <item>Dangereux</item>
+    </string-array>
+    <string-array name="uvi_levels">
+        <item>Faible</item>
+        <item>Modéré</item>
+        <item>Élevé</item>
+        <item>Très élevé</item>
+        <item>Extrême</item>
+    </string-array>
+</resources>

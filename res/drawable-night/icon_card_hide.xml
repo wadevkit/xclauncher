@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/dock_bar_function_icon_size" android:width="@dimen/dock_bar_function_icon_size" android:viewportWidth="64.0" android:viewportHeight="64.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ff85898c" android:pathData="M8,0L56,0A8,8 0,0 1,64 8L64,56A8,8 0,0 1,56 64L8,64A8,8 0,0 1,0 56L0,8A8,8 0,0 1,8 0z" android:strokeAlpha="0.5" android:fillAlpha="0.08" />
+    <path android:fillColor="#ff85898c" android:pathData="M29.222,20.889C27.995,20.889 27,21.884 27,23.111C27,24.338 27.995,25.333 29.222,25.333H43.667C44.894,25.333 45.889,24.338 45.889,23.111C45.889,21.884 44.894,20.889 43.667,20.889H29.222Z" />
+    <path android:fillColor="#ff85898c" android:pathData="M29.222,29.778C27.995,29.778 27,30.773 27,32C27,33.227 27.995,34.222 29.222,34.222H43.667C44.894,34.222 45.889,33.227 45.889,32C45.889,30.773 44.894,29.778 43.667,29.778H29.222Z" />
+    <path android:fillColor="#ff85898c" android:pathData="M29.222,38.667C27.995,38.667 27,39.662 27,40.889C27,42.116 27.995,43.111 29.222,43.111H43.667C44.894,43.111 45.889,42.116 45.889,40.889C45.889,39.662 44.894,38.667 43.667,38.667H29.222Z" />
+    <path android:fillColor="#ff85898c" android:pathData="M23.672,31.271C24.035,31.689 24.035,32.311 23.672,32.729L18.755,38.383C18.081,39.159 16.806,38.682 16.806,37.654L16.806,26.346C16.806,25.318 18.081,24.841 18.755,25.617L23.672,31.271Z" />
+</vector>

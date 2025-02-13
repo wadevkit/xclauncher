@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.zeekr.component.button.ZeekrButton android:textSize="@dimen/widget_text_size" android:id="@id/layout_unlock_all_view_pager" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/unlock_all" android:layout_weight="1.0" app:icon="@drawable/unlock_all" app:iconGravity="textTop" app:iconPadding="@dimen/btn_lock_icon_padding" app:iconSize="@dimen/btn_lock_icon_size" style="@style/Widget.ZeekrButton.GhostButton" />
+    <Space android:layout_width="@dimen/widget_layout_lock_Space_width" android:layout_height="fill_parent" />
+    <com.zeekr.component.button.ZeekrButton android:textSize="@dimen/widget_text_size" android:id="@id/layout_lock_all_view_pager" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/lock_all" android:layout_weight="1.0" app:icon="@drawable/lock_all" app:iconGravity="textTop" app:iconPadding="@dimen/btn_lock_icon_padding" app:iconSize="@dimen/btn_lock_icon_size" style="@style/Widget.ZeekrButton.GhostButton" />
+    <Space android:layout_width="@dimen/widget_layout_lock_Space_width" android:layout_height="fill_parent" />
+    <com.zeekr.component.button.ZeekrButton android:textSize="@dimen/widget_text_size" android:id="@id/layout_exclusive_lock_view_pager" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/exclusive_child_lock" android:layout_weight="1.0" app:icon="@drawable/exclusive_child_lock" app:iconGravity="textTop" app:iconPadding="@dimen/btn_lock_icon_padding" app:iconSize="@dimen/btn_lock_icon_size" style="@style/Widget.ZeekrButton.GhostButton" />
+</LinearLayout>

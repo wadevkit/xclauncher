@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="zeekr_tv_dialog_large_height">960.0dip</dimen>
+    <dimen name="zeekr_tv_dialog_medium_height">740.0dip</dimen>
+</resources>

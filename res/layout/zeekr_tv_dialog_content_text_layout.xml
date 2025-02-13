@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zeekr.component.tv.textview.ZeekrTVTextView android:theme="@style/ZUITheme.TV" android:enabled="false" android:textAppearance="?textAppearanceBodyLarge" android:id="@id/zeekr_dialog_confirm_content_text" android:paddingTop="@dimen/zeekr_dialog_focuse_border_outer_padding" android:paddingBottom="@dimen/zeekr_dialog_focuse_border_outer_padding" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/zeekr_dialog_margin_hor" android:layout_marginEnd="@dimen/zeekr_dialog_margin_hor" android:defaultFocusHighlightEnabled="false"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

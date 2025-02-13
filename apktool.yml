@@ -1,0 +1,99 @@
+version: 2.10.0-dirty-20240226
+apkFileName: XClauncher3 631.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 28
+  targetSdkVersion: 33
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 304046
+  versionName: 3.0.4046+20250102.0705226c3
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  DebugProbesKt.bin: 8
+  LICENSE-junit.txt: 8
+  kotlin-tooling-metadata.json: 8
+  wm_shell_trace.proto: 8
+  junit/runner/logo.gif: 0
+  junit/runner/smalllogo.gif: 0
+  com/zeekr/sdk/multidisplay/ICommunicationService.aidl: 8
+  com/zeekr/sdk/multidisplay/bean/IData.aidl: 8
+  com/zeekr/sdk/multidisplay/bean/WindowOptBean.aidl: 8
+  com/zeekr/sdk/multidisplay/contract/IInnerCommDataCallback.aidl: 8
+  com/zeekr/sdk/multidisplay/contract/IInnerCommDataReply.aidl: 8
+  com/zeekr/sdk/multidisplay/contract/IInnerDRCCustomKeyCallback.aidl: 8
+  com/zeekr/sdk/multidisplay/contract/IInnerDeviceAutoLockTimeCallback.aidl: 8
+  com/zeekr/sdk/multidisplay/contract/IInnerDeviceProhibitonStateCallback.aidl: 8
+  com/zeekr/sdk/multidisplay/contract/IInnerWindowOptCallback.aidl: 8
+  google/protobuf/any.proto: 8
+  google/protobuf/api.proto: 8
+  google/protobuf/descriptor.proto: 8
+  google/protobuf/duration.proto: 8
+  google/protobuf/empty.proto: 8
+  google/protobuf/field_mask.proto: 8
+  google/protobuf/source_context.proto: 8
+  google/protobuf/struct.proto: 8
+  google/protobuf/timestamp.proto: 8
+  google/protobuf/type.proto: 8
+  google/protobuf/wrappers.proto: 8
+  google/protobuf/compiler/plugin.proto: 8
+  javax/annotation/CheckForNull.java: 8
+  javax/annotation/CheckForSigned.java: 8
+  javax/annotation/CheckReturnValue.java: 8
+  javax/annotation/Detainted.java: 8
+  javax/annotation/MatchesPattern.java: 8
+  javax/annotation/Nonnegative.java: 8
+  javax/annotation/Nonnull.java: 8
+  javax/annotation/Nullable.java: 8
+  javax/annotation/OverridingMethodsMustInvokeSuper.java: 8
+  javax/annotation/ParametersAreNonnullByDefault.java: 8
+  javax/annotation/PropertyKey.java: 8
+  javax/annotation/RegEx.java: 8
+  javax/annotation/Signed.java: 8
+  javax/annotation/Syntax.java: 8
+  javax/annotation/Tainted.java: 8
+  javax/annotation/Untainted.java: 8
+  javax/annotation/WillClose.java: 8
+  javax/annotation/WillCloseWhenClosed.java: 8
+  javax/annotation/WillNotClose.java: 8
+  javax/annotation/concurrent/GuardedBy.java: 8
+  javax/annotation/concurrent/Immutable.java: 8
+  javax/annotation/concurrent/NotThreadSafe.java: 8
+  javax/annotation/concurrent/ThreadSafe.java: 8
+  javax/annotation/meta/Exclusive.java: 8
+  javax/annotation/meta/Exhaustive.java: 8
+  javax/annotation/meta/TypeQualifier.java: 8
+  javax/annotation/meta/TypeQualifierDefault.java: 8
+  javax/annotation/meta/TypeQualifierNickname.java: 8
+  javax/annotation/meta/TypeQualifierValidator.java: 8
+  javax/annotation/meta/When.java: 8
+  okhttp3/internal/publicsuffix/NOTICE: 8
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: 8
+  schema/2020-12.json: 8
+  schema/draft-04.json: 8
+doNotCompress:
+- classes.dex
+- resources.arsc
+- assets/dexopt/baseline.prof
+- assets/dexopt/baseline.profm
+- png
+- lib/arm64-v8a/libantcrystal.so
+- lib/arm64-v8a/libantcube.so
+- lib/arm64-v8a/libc++_shared.so
+- lib/arm64-v8a/libcubedebug.so
+- lib/arm64-v8a/libiwasm.so
+- lib/arm64-v8a/libmmkv.so
+- lib/arm64-v8a/libnative-cube.so
+- lib/arm64-v8a/libnative-v8bridge.so
+- lib/arm64-v8a/librenderscript-toolkit.so
+- webp
+- gif
+- ogg
