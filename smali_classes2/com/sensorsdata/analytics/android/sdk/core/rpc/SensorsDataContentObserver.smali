@@ -4,11 +4,11 @@
 
 
 # static fields
-.field public static isDisableFromObserver:Z = false
+.field public static isDisableFromObserver:Z
 
-.field public static isEnableFromObserver:Z = false
+.field public static isEnableFromObserver:Z
 
-.field public static isLoginFromObserver:Z = false
+.field public static isLoginFromObserver:Z
 
 
 # direct methods

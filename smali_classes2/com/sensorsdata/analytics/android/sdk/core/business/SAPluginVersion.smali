@@ -6,7 +6,7 @@
 # static fields
 .field private static final TAG:Ljava/lang/String; = "SA.SAPluginVersion"
 
-.field private static isTrackEventWithPluginVersion:Z = false
+.field private static isTrackEventWithPluginVersion:Z
 
 
 # direct methods

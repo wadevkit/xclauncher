@@ -31,7 +31,7 @@
 
 .field private static final sPopupWindowPrefix:Ljava/lang/String; = "/PopupWindow"
 
-.field private static sViewArrayWindowViews:Z = false
+.field private static sViewArrayWindowViews:Z
 
 .field private static sViewSizeComparator:Ljava/util/Comparator;
     .annotation system Ldalvik/annotation/Signature;

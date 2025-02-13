@@ -21,7 +21,7 @@
 
 .field private static final MESSAGE_DEFAULT:Ljava/lang/String; = ""
 
-.field private static final SUCCESS_DEFAULT:Z = false
+.field private static final SUCCESS_DEFAULT:Z
 
 
 # instance fields

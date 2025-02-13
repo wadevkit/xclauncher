@@ -13,9 +13,9 @@
 
 
 # static fields
-.field public static volatile i:Ljava/lang/String; = null
+.field public static volatile i:Ljava/lang/String;
 
-.field public static volatile j:Z = false
+.field public static volatile j:Z
 
 .field public static final k:Ljava/lang/Object;
 

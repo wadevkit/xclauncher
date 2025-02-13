@@ -15,17 +15,17 @@
 # static fields
 .field public static final IS_ANALYTICS_DEEPLINK:Ljava/lang/String; = "is_analytics_deeplink"
 
-.field private static mCacheProperties:Lorg/json/JSONObject; = null
+.field private static mCacheProperties:Lorg/json/JSONObject;
 
-.field private static mDeepLinkCallback:Lcom/sensorsdata/analytics/android/sdk/deeplink/SensorsDataDeepLinkCallback; = null
+.field private static mDeepLinkCallback:Lcom/sensorsdata/analytics/android/sdk/deeplink/SensorsDataDeepLinkCallback;
 
-.field private static mDeepLinkProcessor:Lcom/sensorsdata/analytics/android/sdk/advert/deeplink/DeepLinkProcessor; = null
+.field private static mDeepLinkProcessor:Lcom/sensorsdata/analytics/android/sdk/advert/deeplink/DeepLinkProcessor;
 
-.field private static mDeferredDeepLinkCallback:Lcom/sensorsdata/analytics/android/sdk/deeplink/SensorsDataDeferredDeepLinkCallback; = null
+.field private static mDeferredDeepLinkCallback:Lcom/sensorsdata/analytics/android/sdk/deeplink/SensorsDataDeferredDeepLinkCallback;
 
-.field private static mEnableDeepLinkInstallSource:Z = false
+.field private static mEnableDeepLinkInstallSource:Z
 
-.field private static mIsDeepLink:Z = false
+.field private static mIsDeepLink:Z
 
 
 # direct methods

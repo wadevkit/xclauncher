@@ -4,7 +4,7 @@
 
 
 # static fields
-.field private static sHaveCustomRecyclerView:Z = false
+.field private static sHaveCustomRecyclerView:Z
 
 .field private static final sHaveRecyclerView:Z
 

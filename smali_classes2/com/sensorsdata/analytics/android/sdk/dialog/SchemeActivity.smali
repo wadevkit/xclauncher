@@ -8,7 +8,7 @@
 
 .field private static final TAG:Ljava/lang/String; = "SA.SchemeActivity"
 
-.field public static isPopWindow:Z = false
+.field public static isPopWindow:Z
 
 
 # instance fields
