@@ -453,7 +453,7 @@
 
     move-result-object v5
 
-    const-string v6, "com.zeekr.automap"
+    const-string v6, "ru.yandex.yandexmaps"
 
     invoke-virtual {v6, v5}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
 

@@ -103,7 +103,7 @@
 
     invoke-static {v0, v1}, Lcom/zeekr/common/log/Logger;->d(Ljava/lang/String;Ljava/lang/String;)V
 
-    const-string v0, "com.zeekr.automap"
+    const-string v0, "ru.yandex.yandexmaps"
 
     invoke-virtual {p1}, Landroid/content/ComponentName;->getPackageName()Ljava/lang/String;
 

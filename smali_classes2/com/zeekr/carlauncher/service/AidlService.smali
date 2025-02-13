@@ -80,7 +80,7 @@
 
     invoke-virtual {p0}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
 
-    const-string v0, "com.zeekr.automap"
+    const-string v0, "ru.yandex.yandexmaps"
 
     const-string v1, "com.neusoft.na.navigation"
 

@@ -1388,7 +1388,7 @@
 
     if-eqz v0, :cond_2
 
-    const-string v10, "com.zeekr.automap"
+    const-string v10, "ru.yandex.yandexmaps"
 
     iget-object v11, v0, Landroid/app/ActivityManager$RunningAppProcessInfo;->processName:Ljava/lang/String;
 
@@ -2074,7 +2074,7 @@
 
     iget-object v10, v10, Lecarx/launcher3/databinding/ActivityMainBinding;->j:Lcom/zeekr/taskviewcompat/TaskViewCompat;
 
-    const-string v11, "com.zeekr.automap.activity.MainActivity"
+    const-string v11, "ru.yandex.yandexmaps.app.MapActivity"
 
     invoke-virtual {v10, v11}, Lcom/zeekr/taskviewcompat/TaskViewCompat;->attachMainTaskClass(Ljava/lang/String;)V
 
@@ -3219,7 +3219,7 @@
 
     iget-object v0, v0, Lcom/zeekr/carlauncher/utils/ActivityUtil$TopActivityInfo;->a:Ljava/lang/String;
 
-    const-string v2, "com.zeekr.automap"
+    const-string v2, "ru.yandex.yandexmaps"
 
     invoke-virtual {v2, v0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
 

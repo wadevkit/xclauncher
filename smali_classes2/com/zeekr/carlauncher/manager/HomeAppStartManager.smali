@@ -249,7 +249,7 @@
 
     const-string v1, "home_app"
 
-    const-string v2, "com.zeekr.automap"
+    const-string v2, "ru.yandex.yandexmaps"
 
     invoke-direct {v0, v1, v2}, Lcom/zeekr/common/sp/PrefsExtKt$pref$3;-><init>(Ljava/lang/String;Ljava/lang/String;)V
 
@@ -662,7 +662,7 @@
 
     :cond_2
     :goto_1
-    const-string v0, "com.zeekr.automap"
+    const-string v0, "ru.yandex.yandexmaps"
 
     :goto_2
     return-object v0

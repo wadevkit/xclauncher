@@ -100,7 +100,7 @@
 
     if-eqz v3, :cond_3
 
-    const-string v3, "com.zeekr.automap"
+    const-string v3, "ru.yandex.yandexmaps"
 
     invoke-static {p1, v3, v2}, Lkotlin/text/StringsKt;->o(Ljava/lang/CharSequence;Ljava/lang/CharSequence;Z)Z
 

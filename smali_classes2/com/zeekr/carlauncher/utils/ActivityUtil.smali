@@ -237,7 +237,7 @@
 
     iget-object v0, p0, Lcom/zeekr/carlauncher/utils/ActivityUtil$TopActivityInfo;->a:Ljava/lang/String;
 
-    const-string v1, "com.zeekr.automap"
+    const-string v1, "ru.yandex.yandexmaps"
 
     invoke-static {v0, v1}, Lkotlin/jvm/internal/Intrinsics;->a(Ljava/lang/Object;Ljava/lang/Object;)Z
 

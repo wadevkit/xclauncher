@@ -123,7 +123,7 @@
 .method public static b()I
     .locals 7
 
-    const-string v0, "com.zeekr.automap"
+    const-string v0, "ru.yandex.yandexmaps"
 
     :try_start_0
     invoke-static {}, Landroid/app/ActivityTaskManager;->getService()Landroid/app/IActivityTaskManager;

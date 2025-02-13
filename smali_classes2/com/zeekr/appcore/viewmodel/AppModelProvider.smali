@@ -827,7 +827,7 @@
 
     const-string v23, "com.zeekr.carlauncher3d"
 
-    const-string v24, "com.zeekr.automap"
+    const-string v24, "ru.yandex.yandexmaps"
 
     const-string v25, "com.zeekrlife.connect.core"
 
@@ -856,7 +856,7 @@
 
     const-string v12, "ecarx.launcher3"
 
-    const-string v13, "com.zeekr.automap"
+    const-string v13, "ru.yandex.yandexmaps"
 
     const-string v14, "com.geely.pma.settings"
 
